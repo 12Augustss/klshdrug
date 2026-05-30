@@ -53,3 +53,7 @@ klsh_drug_search/drugs
 ## หมายเหตุความปลอดภัย
 
 รหัส `10709` เป็นรหัสกันหน้าเว็บแบบง่าย เหมาะสำหรับทดสอบหรือใช้ภายในขนาดเล็ก ถ้าจะใช้จริงจังมากขึ้นควรเพิ่ม Firebase Authentication และปรับ Rules ให้เขียนได้เฉพาะผู้ที่ล็อกอิน
+
+
+## Drug list update
+รายการยาใน `drugs.json` ถูกอัปเดตจากไฟล์ Drug-list.xlsx จำนวน 805 รายการ และมีไฟล์ `firebase-drugs-import.json` สำหรับ import เข้า Firebase หากต้องการใช้ข้อมูลเดียวกันใน Realtime Database.

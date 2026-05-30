@@ -114,13 +114,17 @@ function setupFirebase(){
         state.drugs = state.sampleDrugs.map(d=>({ ...d, source:'sample' }));
         refreshAll();
         updateAdminUI();
-        updateFirebaseStatus('ยังไม่มีข้อมูลใน Firebase');
+        updateFirebaseStatus('ใช้รายการยาจากไฟล์');
         return;
       }
-      state.drugs = list.map(d=>({ ...normalizeDrugObject(d), source:'firebase' }));
+      const firebaseList = list
+        .map(d=>({ ...normalizeDrugObject(d), source:'firebase' }))
+        .filter(d=>!isLegacyDemoDrug(d));
+      const sampleList = state.sampleDrugs.map(d=>({ ...d, source:'sample' }));
+      state.drugs = mergeDrugLists(sampleList, firebaseList);
       refreshAll();
       updateAdminUI();
-      updateFirebaseStatus('');
+      updateFirebaseStatus(list.length ? '' : 'ใช้รายการยาจากไฟล์');
     }, (error)=>{
       console.error(error);
       state.firebaseReady = false;
@@ -143,6 +147,20 @@ function firebaseValueToArray(value){
   if(!value) return [];
   if(Array.isArray(value)) return value.filter(Boolean);
   return Object.entries(value).map(([key, drug])=>({ ...(drug || {}), id: drug?.id || key }));
+}
+
+
+function stableDrugKey(drug){
+  return normalize([drug.genericName, drug.strength, drug.form, drug.account, drug.edStatus].filter(Boolean).join('|'));
+}
+function isLegacyDemoDrug(drug){
+  return /^d\d{3}$/.test(String(drug.id || ''));
+}
+function mergeDrugLists(baseList=[], extraList=[]){
+  const map = new Map();
+  baseList.forEach(drug=>map.set(stableDrugKey(drug) || drug.id, drug));
+  extraList.forEach(drug=>map.set(stableDrugKey(drug) || drug.id, drug));
+  return Array.from(map.values());
 }
 
 function loadLocalFallback(){
@@ -237,7 +255,7 @@ function renderCard(drug){
 
 function renderDrugName(drug){
   const trade = drug.tradeNames?.length ? `<div class="trade-name">${escapeHtml(drug.tradeNames.join(', '))}</div>` : '';
-  const tag = drug.source === 'firebase' ? '' : drug.source === 'local' ? `<span class="badge account">ในเครื่อง</span>` : drug.source === 'sample' ? `<span class="badge account">ทดสอบ</span>` : '';
+  const tag = drug.source === 'local' ? `<span class="badge account">ในเครื่อง</span>` : '';
   return `<div class="drug-name">${escapeHtml(drug.genericName || '-')} ${tag}</div>${trade}`;
 }
 

@@ -1,5 +1,5 @@
-[
-  {
+{
+  "drug-0001": {
     "id": "drug-0001",
     "genericName": "0.06% 17β ESTRADIOL",
     "tradeNames": [],
@@ -12,7 +12,7 @@
       "เฉพาะ Staff"
     ]
   },
-  {
+  "drug-0002": {
     "id": "drug-0002",
     "genericName": "0.3% HYDROXYPROPYLMETHYLCELLULOSE + 0.1% DEXTRAN 70 , 0.8 ML",
     "tradeNames": [],
@@ -23,7 +23,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0003": {
     "id": "drug-0003",
     "genericName": "2% SODIUM HYALURONATE WITH 0.5% MANNITOL, PREFILLED SYRINGE",
     "tradeNames": [],
@@ -34,7 +34,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0004": {
     "id": "drug-0004",
     "genericName": "Abacavir + Lamivudine (ABC + 3TC)",
     "tradeNames": [],
@@ -45,7 +45,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0005": {
     "id": "drug-0005",
     "genericName": "ABACAVIR TAB. 300 MG",
     "tradeNames": [],
@@ -56,7 +56,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0006": {
     "id": "drug-0006",
     "genericName": "ACETATED RINGER 1000 ML.",
     "tradeNames": [],
@@ -67,7 +67,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0007": {
     "id": "drug-0007",
     "genericName": "ACETAZOLAMIDE TAB. 250 MG.",
     "tradeNames": [],
@@ -78,7 +78,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0008": {
     "id": "drug-0008",
     "genericName": "ACETYLCYSTEINE INJ. 300 MG",
     "tradeNames": [],
@@ -89,7 +89,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0009": {
     "id": "drug-0009",
     "genericName": "ACETYLCYSTEINE INJ. 300 MG",
     "tradeNames": [],
@@ -100,7 +100,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0010": {
     "id": "drug-0010",
     "genericName": "ACETYLCYSTEINE POWDER 100 MG",
     "tradeNames": [],
@@ -111,7 +111,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0011": {
     "id": "drug-0011",
     "genericName": "ACTIVATED CHARCOAL POWDER 5 G.",
     "tradeNames": [],
@@ -122,7 +122,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0012": {
     "id": "drug-0012",
     "genericName": "ACYCLOVIR CREAM 5 G..",
     "tradeNames": [],
@@ -133,7 +133,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0013": {
     "id": "drug-0013",
     "genericName": "ACYCLOVIR INJ. 250 MG",
     "tradeNames": [],
@@ -144,7 +144,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0014": {
     "id": "drug-0014",
     "genericName": "ACYCLOVIR TAB. 400 MG",
     "tradeNames": [],
@@ -155,7 +155,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0015": {
     "id": "drug-0015",
     "genericName": "ADENOSINE INJ. 6 MG/2 ML",
     "tradeNames": [],
@@ -166,7 +166,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0016": {
     "id": "drug-0016",
     "genericName": "ADRENALINE INJ. 1 MG",
     "tradeNames": [],
@@ -177,7 +177,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0017": {
     "id": "drug-0017",
     "genericName": "ADRENALINE INJ. 1 MG",
     "tradeNames": [],
@@ -188,7 +188,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0018": {
     "id": "drug-0018",
     "genericName": "AESCIN 20mg",
     "tradeNames": [],
@@ -199,7 +199,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0019": {
     "id": "drug-0019",
     "genericName": "AGOMELATINE TAB. 25 MG",
     "tradeNames": [],
@@ -210,7 +210,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0020": {
     "id": "drug-0020",
     "genericName": "ALBENDAZOLE SUSPENSION 20 ML",
     "tradeNames": [],
@@ -221,7 +221,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0021": {
     "id": "drug-0021",
     "genericName": "ALBENDAZOLE TAB. 200 MG",
     "tradeNames": [],
@@ -232,7 +232,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0022": {
     "id": "drug-0022",
     "genericName": "ALBUMIN 20% ,HUMAN INJ. 50 ML",
     "tradeNames": [],
@@ -243,7 +243,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0023": {
     "id": "drug-0023",
     "genericName": "ALENDRONATE SODIUM TAB. eq.to ALENDRONIC ACID 70 MG",
     "tradeNames": [],
@@ -254,7 +254,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0024": {
     "id": "drug-0024",
     "genericName": "ALFACALCIDOL 0.25 MCG",
     "tradeNames": [],
@@ -265,7 +265,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0025": {
     "id": "drug-0025",
     "genericName": "ALFUZOSIN HCL PROLONGED RELEASE TAB. 10 MG",
     "tradeNames": [],
@@ -276,7 +276,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0026": {
     "id": "drug-0026",
     "genericName": "ALLOPURINOL TAB. 100 MG.",
     "tradeNames": [],
@@ -287,7 +287,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0027": {
     "id": "drug-0027",
     "genericName": "ALPROSTADIL INJ. 0.5 MG/ML",
     "tradeNames": [],
@@ -298,7 +298,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0028": {
     "id": "drug-0028",
     "genericName": "ALTEPLASE (RECOMBINANT TISSUE-TYPE PLASMINOGEN ACTIVATOR) INJ. 50 MG",
     "tradeNames": [],
@@ -309,7 +309,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0029": {
     "id": "drug-0029",
     "genericName": "ALUM MILK 240 ML.",
     "tradeNames": [],
@@ -320,7 +320,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0030": {
     "id": "drug-0030",
     "genericName": "AMANTADINE HCL 100 MG TAB",
     "tradeNames": [],
@@ -331,7 +331,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0031": {
     "id": "drug-0031",
     "genericName": "AMIKACIN INJ. 500 MG. , 2 ML",
     "tradeNames": [],
@@ -342,7 +342,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0032": {
     "id": "drug-0032",
     "genericName": "AMILORIDE 5 MG+HCTZ 50 MG TAB.",
     "tradeNames": [],
@@ -353,7 +353,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0033": {
     "id": "drug-0033",
     "genericName": "AMINO ACID 10% INJ. 100 ML.",
     "tradeNames": [],
@@ -364,7 +364,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0034": {
     "id": "drug-0034",
     "genericName": "AMINO ACID 7.2% INJ. 200 ML.",
     "tradeNames": [],
@@ -375,7 +375,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0035": {
     "id": "drug-0035",
     "genericName": "AMINO ACID+GLUCOSE+ELECTROLYTES+VIT.B1",
     "tradeNames": [],
@@ -386,7 +386,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0036": {
     "id": "drug-0036",
     "genericName": "AMINOPHYLLINE INJ. 250 MG",
     "tradeNames": [],
@@ -397,7 +397,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0037": {
     "id": "drug-0037",
     "genericName": "AMIODARONE INJ. 150 MG IN 3 ML",
     "tradeNames": [],
@@ -408,7 +408,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0038": {
     "id": "drug-0038",
     "genericName": "AMIODARONE TAB. 200 MG",
     "tradeNames": [],
@@ -419,7 +419,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0039": {
     "id": "drug-0039",
     "genericName": "AMITRIPTYLINE TAB. 10 MG",
     "tradeNames": [],
@@ -430,7 +430,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0040": {
     "id": "drug-0040",
     "genericName": "AMITRIPTYLINE TAB. 10 MG",
     "tradeNames": [],
@@ -441,7 +441,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0041": {
     "id": "drug-0041",
     "genericName": "AMITRIPTYLINE TAB. 10 MG",
     "tradeNames": [],
@@ -452,7 +452,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0042": {
     "id": "drug-0042",
     "genericName": "AMITRIPTYLINE TAB. 25 MG",
     "tradeNames": [],
@@ -463,7 +463,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0043": {
     "id": "drug-0043",
     "genericName": "AMITRIPTYLINE TAB. 25 MG",
     "tradeNames": [],
@@ -474,7 +474,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0044": {
     "id": "drug-0044",
     "genericName": "AMITRIPTYLINE TAB. 25 MG",
     "tradeNames": [],
@@ -485,7 +485,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0045": {
     "id": "drug-0045",
     "genericName": "AMLODIPINE TAB. 10 MG",
     "tradeNames": [],
@@ -496,7 +496,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0046": {
     "id": "drug-0046",
     "genericName": "AMOXICILLIN 1 G. + CLAVULANIC ACID 200 MG INJ.",
     "tradeNames": [],
@@ -507,7 +507,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0047": {
     "id": "drug-0047",
     "genericName": "AMOXICILLIN 400 MG + CLAVULANATE POTASSIUM 57 MG /5 ML",
     "tradeNames": [],
@@ -518,7 +518,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0048": {
     "id": "drug-0048",
     "genericName": "AMOXICILLIN 875 MG + CLAVULANIC ACID 125 MG TAB.",
     "tradeNames": [],
@@ -529,7 +529,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0049": {
     "id": "drug-0049",
     "genericName": "AMOXICILLIN CAP. 250 MG",
     "tradeNames": [],
@@ -540,7 +540,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0050": {
     "id": "drug-0050",
     "genericName": "AMOXICILLIN CAP. 500 MG",
     "tradeNames": [],
@@ -551,7 +551,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0051": {
     "id": "drug-0051",
     "genericName": "AMOXICILLIN DRY SYRUP 60 ML",
     "tradeNames": [],
@@ -562,7 +562,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0052": {
     "id": "drug-0052",
     "genericName": "AMPHOTERICIN B INJ. 50 MG",
     "tradeNames": [],
@@ -573,7 +573,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0053": {
     "id": "drug-0053",
     "genericName": "AMPICILLIN INJ. 1 G.",
     "tradeNames": [],
@@ -584,7 +584,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0054": {
     "id": "drug-0054",
     "genericName": "ANTAZOLINE + TETRYZOLINE EYE DROP 10 ML",
     "tradeNames": [],
@@ -595,7 +595,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0055": {
     "id": "drug-0055",
     "genericName": "ANTI-D IMMUNOGLOBULIN 750 IU/ML , 2 ML",
     "tradeNames": [],
@@ -606,7 +606,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0056": {
     "id": "drug-0056",
     "genericName": "ANTI-SNAKE VENOM-BANDED KRAIT INJ.",
     "tradeNames": [],
@@ -617,7 +617,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0057": {
     "id": "drug-0057",
     "genericName": "ANTI-SNAKE VENOM-COBRA INJ.",
     "tradeNames": [],
@@ -628,7 +628,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0058": {
     "id": "drug-0058",
     "genericName": "ANTI-SNAKE VENOM-GREEN PIT VIPER INJ.",
     "tradeNames": [],
@@ -639,7 +639,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0059": {
     "id": "drug-0059",
     "genericName": "ANTI-SNAKE VENOM-KING COBRA INJ.",
     "tradeNames": [],
@@ -650,7 +650,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0060": {
     "id": "drug-0060",
     "genericName": "ANTI-SNAKE VENOM-MALAYAN KRAIT INJ.",
     "tradeNames": [],
@@ -661,7 +661,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0061": {
     "id": "drug-0061",
     "genericName": "ANTI-SNAKE VENOM-MALAYAN PIT VIPER INJ.",
     "tradeNames": [],
@@ -672,7 +672,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0062": {
     "id": "drug-0062",
     "genericName": "ANTI-SNAKE VENOM-RUSSELL'S VIPER INJ.",
     "tradeNames": [],
@@ -683,7 +683,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0063": {
     "id": "drug-0063",
     "genericName": "APIXABAN 5MG",
     "tradeNames": [],
@@ -694,7 +694,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0064": {
     "id": "drug-0064",
     "genericName": "ARIPIPRAZOLE 10 MG",
     "tradeNames": [],
@@ -705,7 +705,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0065": {
     "id": "drug-0065",
     "genericName": "AROMATIC AMMONIA SPIRIT",
     "tradeNames": [],
@@ -716,7 +716,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0066": {
     "id": "drug-0066",
     "genericName": "ARTESUNATE INJ. 60 MG",
     "tradeNames": [],
@@ -727,7 +727,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0067": {
     "id": "drug-0067",
     "genericName": "ARTESUNATE TAB. 50 MG",
     "tradeNames": [],
@@ -738,7 +738,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0068": {
     "id": "drug-0068",
     "genericName": "ASPIRIN TAB. 300 MG",
     "tradeNames": [],
@@ -749,7 +749,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0069": {
     "id": "drug-0069",
     "genericName": "ASPIRIN TAB. 300 MG",
     "tradeNames": [],
@@ -760,7 +760,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0070": {
     "id": "drug-0070",
     "genericName": "ASPIRIN TAB. 300 MG",
     "tradeNames": [],
@@ -771,7 +771,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0071": {
     "id": "drug-0071",
     "genericName": "ASPIRIN TAB. 300 MG.",
     "tradeNames": [],
@@ -782,7 +782,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0072": {
     "id": "drug-0072",
     "genericName": "ASPIRIN TAB. 81 MG",
     "tradeNames": [],
@@ -793,7 +793,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0073": {
     "id": "drug-0073",
     "genericName": "ASPIRIN TAB. 81 MG.",
     "tradeNames": [],
@@ -804,7 +804,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0074": {
     "id": "drug-0074",
     "genericName": "ATENOLOL TAB. 50 MG",
     "tradeNames": [],
@@ -815,7 +815,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0075": {
     "id": "drug-0075",
     "genericName": "ATORVASTATIN TAB. 40 MG",
     "tradeNames": [],
@@ -826,7 +826,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0076": {
     "id": "drug-0076",
     "genericName": "ATROPINE EYE DROPS 1 % 5 ML.",
     "tradeNames": [],
@@ -837,7 +837,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0077": {
     "id": "drug-0077",
     "genericName": "ATROPINE INJ. 0.6 MG",
     "tradeNames": [],
@@ -848,7 +848,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0078": {
     "id": "drug-0078",
     "genericName": "ATROPINE INJ. 0.6 MG",
     "tradeNames": [],
@@ -859,7 +859,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0079": {
     "id": "drug-0079",
     "genericName": "ATROPINE INJ. 0.6 MG",
     "tradeNames": [],
@@ -870,7 +870,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0080": {
     "id": "drug-0080",
     "genericName": "AZATHIOPRINE TAB. 50 MG",
     "tradeNames": [],
@@ -881,7 +881,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0081": {
     "id": "drug-0081",
     "genericName": "AZATHIOPRINE TAB. 50 MG",
     "tradeNames": [],
@@ -892,7 +892,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0082": {
     "id": "drug-0082",
     "genericName": "AZELASTINE HCl and FLUTICASONE PROPIONATE NASAL SPRAY",
     "tradeNames": [],
@@ -903,7 +903,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0083": {
     "id": "drug-0083",
     "genericName": "AZITHROMYCIN CAP. 250 MG",
     "tradeNames": [],
@@ -914,7 +914,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0084": {
     "id": "drug-0084",
     "genericName": "AZITHROMYCIN INJ. 500 MG .",
     "tradeNames": [],
@@ -925,7 +925,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0085": {
     "id": "drug-0085",
     "genericName": "AZITHROMYCIN POWDER FOR ORAL SUSP. 200 MG/5 ML , 15 ML",
     "tradeNames": [],
@@ -936,7 +936,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0086": {
     "id": "drug-0086",
     "genericName": "B.S.S. 500 ML.",
     "tradeNames": [],
@@ -947,7 +947,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0087": {
     "id": "drug-0087",
     "genericName": "BACLOFEN TAB 10 MG",
     "tradeNames": [],
@@ -958,7 +958,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0088": {
     "id": "drug-0088",
     "genericName": "BACLOFEN TAB.10 MG",
     "tradeNames": [],
@@ -969,7 +969,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0089": {
     "id": "drug-0089",
     "genericName": "BCG (Bacillus Calmette-Guérin) INJ. 200 Colony form units with Closed NSS set",
     "tradeNames": [],
@@ -980,7 +980,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0090": {
     "id": "drug-0090",
     "genericName": "BEDAQUILINE FUMARATE",
     "tradeNames": [],
@@ -991,7 +991,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0091": {
     "id": "drug-0091",
     "genericName": "BENZATHINE PENICILLIN G INJ. 1.2 MU",
     "tradeNames": [],
@@ -1002,7 +1002,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0092": {
     "id": "drug-0092",
     "genericName": "BENZBROMARONE",
     "tradeNames": [],
@@ -1013,7 +1013,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0093": {
     "id": "drug-0093",
     "genericName": "BENZTROPINE MESILATE INJ",
     "tradeNames": [],
@@ -1024,7 +1024,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0094": {
     "id": "drug-0094",
     "genericName": "BENZYL BENZOATE EMULSION",
     "tradeNames": [],
@@ -1035,7 +1035,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0095": {
     "id": "drug-0095",
     "genericName": "BETAHISTINE MESILATE TAB. 12 MG",
     "tradeNames": [],
@@ -1046,7 +1046,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0096": {
     "id": "drug-0096",
     "genericName": "BETAMETHASONE DIPROPIONATE 0.05% + SALICYLIC ACID 3% OINT.",
     "tradeNames": [],
@@ -1057,7 +1057,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0097": {
     "id": "drug-0097",
     "genericName": "BICALUTAMIDE TAB. 50 MG",
     "tradeNames": [],
@@ -1068,7 +1068,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0098": {
     "id": "drug-0098",
     "genericName": "BILASTINE 20 MG",
     "tradeNames": [],
@@ -1079,7 +1079,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0099": {
     "id": "drug-0099",
     "genericName": "BISACODYL SUPPO. 10 MG",
     "tradeNames": [],
@@ -1090,7 +1090,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0100": {
     "id": "drug-0100",
     "genericName": "BISMUTH SUBSALICYLATE TAB. 1048 MG",
     "tradeNames": [],
@@ -1101,7 +1101,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0101": {
     "id": "drug-0101",
     "genericName": "BISOPROLOL HEMIFUMARATE TAB. 5 MG",
     "tradeNames": [],
@@ -1112,7 +1112,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0102": {
     "id": "drug-0102",
     "genericName": "BRIMONIDINE TARTRATE EYE DROPS 0.1% , 5 ML",
     "tradeNames": [],
@@ -1123,7 +1123,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0103": {
     "id": "drug-0103",
     "genericName": "BRINZOLAMIDE EYE SUSPENSION 1% , 5 ML",
     "tradeNames": [],
@@ -1134,7 +1134,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0104": {
     "id": "drug-0104",
     "genericName": "BROMHEXINE SYRUP 4 MG/5 ML",
     "tradeNames": [],
@@ -1145,7 +1145,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0105": {
     "id": "drug-0105",
     "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
     "tradeNames": [],
@@ -1156,7 +1156,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0106": {
     "id": "drug-0106",
     "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
     "tradeNames": [],
@@ -1167,7 +1167,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0107": {
     "id": "drug-0107",
     "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
     "tradeNames": [],
@@ -1178,7 +1178,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0108": {
     "id": "drug-0108",
     "genericName": "BUDESONIDE 160 MCG+FOMOTEROL 4.5 MCG , 120 dose Dry powder inhaler",
     "tradeNames": [],
@@ -1189,7 +1189,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0109": {
     "id": "drug-0109",
     "genericName": "BUDESONIDE AEROSOL 200 MCG/DOSE MDI",
     "tradeNames": [],
@@ -1200,7 +1200,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0110": {
     "id": "drug-0110",
     "genericName": "BUDESONIDE AQUEOS NASAL SPRAY 100 MCG/DOSE",
     "tradeNames": [],
@@ -1211,7 +1211,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0111": {
     "id": "drug-0111",
     "genericName": "BUDESONIDE INHALATION SUSPENSION 1 MG/2 ML inhalation suspension 1mg/2ml",
     "tradeNames": [],
@@ -1222,7 +1222,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0112": {
     "id": "drug-0112",
     "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 10 ML",
     "tradeNames": [],
@@ -1233,7 +1233,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0113": {
     "id": "drug-0113",
     "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 4 ML HEAVY",
     "tradeNames": [],
@@ -1244,7 +1244,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0114": {
     "id": "drug-0114",
     "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 4 ML ISOBARIC",
     "tradeNames": [],
@@ -1255,7 +1255,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0115": {
     "id": "drug-0115",
     "genericName": "CALAMINE LOTION 60 ML",
     "tradeNames": [],
@@ -1266,7 +1266,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0116": {
     "id": "drug-0116",
     "genericName": "CALCIPOTRIOL OINTMENT. 0.005% (50 MCG/1 G.)",
     "tradeNames": [],
@@ -1277,7 +1277,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0117": {
     "id": "drug-0117",
     "genericName": "CALCIUM CARBONATE TAB. 1500 MG.",
     "tradeNames": [],
@@ -1288,7 +1288,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0118": {
     "id": "drug-0118",
     "genericName": "CALCIUM CARBONATE TAB. 600 MG.",
     "tradeNames": [],
@@ -1299,7 +1299,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0119": {
     "id": "drug-0119",
     "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
     "tradeNames": [],
@@ -1310,7 +1310,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0120": {
     "id": "drug-0120",
     "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
     "tradeNames": [],
@@ -1321,7 +1321,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0121": {
     "id": "drug-0121",
     "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
     "tradeNames": [],
@@ -1332,7 +1332,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0122": {
     "id": "drug-0122",
     "genericName": "CALCIUM GLUCONATE INJ. 10 ML",
     "tradeNames": [],
@@ -1343,7 +1343,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0123": {
     "id": "drug-0123",
     "genericName": "CALCIUM GLUCONATE INJ. 10 ML",
     "tradeNames": [],
@@ -1354,7 +1354,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0124": {
     "id": "drug-0124",
     "genericName": "CALCIUM GLUCONATE INJ. 10 ML.",
     "tradeNames": [],
@@ -1365,7 +1365,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0125": {
     "id": "drug-0125",
     "genericName": "CALCIUM POLYSTYRENE SULFONATE",
     "tradeNames": [],
@@ -1376,7 +1376,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0126": {
     "id": "drug-0126",
     "genericName": "CAPECITABINE TAB. 500 MG",
     "tradeNames": [],
@@ -1387,7 +1387,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0127": {
     "id": "drug-0127",
     "genericName": "CAPTOPRIL TAB. 25 MG",
     "tradeNames": [],
@@ -1398,7 +1398,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0128": {
     "id": "drug-0128",
     "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
     "tradeNames": [],
@@ -1409,7 +1409,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0129": {
     "id": "drug-0129",
     "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
     "tradeNames": [],
@@ -1420,7 +1420,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0130": {
     "id": "drug-0130",
     "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
     "tradeNames": [],
@@ -1431,7 +1431,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0131": {
     "id": "drug-0131",
     "genericName": "CARBOMER 2 MG. + CETRIMIDE 0.1 MG /1 G.",
     "tradeNames": [],
@@ -1442,7 +1442,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0132": {
     "id": "drug-0132",
     "genericName": "CARBOPLATIN INJ. 450 ML/45 ML",
     "tradeNames": [],
@@ -1453,7 +1453,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0133": {
     "id": "drug-0133",
     "genericName": "CARVEDILOL TAB. 12.5 MG",
     "tradeNames": [],
@@ -1464,7 +1464,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0134": {
     "id": "drug-0134",
     "genericName": "CASTOR OIL, AROMATIC 60 ML",
     "tradeNames": [],
@@ -1475,7 +1475,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0135": {
     "id": "drug-0135",
     "genericName": "CEFAZOLIN INJ. 1 G.",
     "tradeNames": [],
@@ -1486,7 +1486,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0136": {
     "id": "drug-0136",
     "genericName": "CEFIXIME CAP. 100 MG",
     "tradeNames": [],
@@ -1497,7 +1497,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0137": {
     "id": "drug-0137",
     "genericName": "CEFIXIME ORAL SUSPENSION 100 MG/5 ML , 30 ML",
     "tradeNames": [],
@@ -1508,7 +1508,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0138": {
     "id": "drug-0138",
     "genericName": "CEFOPERAZONE 1000 MG+SULBACTAM 500 MG INJ.",
     "tradeNames": [],
@@ -1519,7 +1519,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0139": {
     "id": "drug-0139",
     "genericName": "CEFOTAXIME INJ. 1 G.",
     "tradeNames": [],
@@ -1530,7 +1530,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0140": {
     "id": "drug-0140",
     "genericName": "CEFTAZIDIME INJ. 1 G.",
     "tradeNames": [],
@@ -1541,7 +1541,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0141": {
     "id": "drug-0141",
     "genericName": "CEFTRIAXONE INJ. 1 G.",
     "tradeNames": [],
@@ -1552,7 +1552,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0142": {
     "id": "drug-0142",
     "genericName": "CELECOXIB CAP.200 MG",
     "tradeNames": [],
@@ -1563,7 +1563,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0143": {
     "id": "drug-0143",
     "genericName": "CEPHALEXIN CAP. 500 MG",
     "tradeNames": [],
@@ -1574,7 +1574,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0144": {
     "id": "drug-0144",
     "genericName": "CEPHALEXIN DRY SYRUP",
     "tradeNames": [],
@@ -1585,7 +1585,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0145": {
     "id": "drug-0145",
     "genericName": "CHLORAMPHENICOL EAR DROPS",
     "tradeNames": [],
@@ -1596,7 +1596,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0146": {
     "id": "drug-0146",
     "genericName": "CHLORHEXIDINE GLUCONATE 4%",
     "tradeNames": [],
@@ -1607,7 +1607,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0147": {
     "id": "drug-0147",
     "genericName": "CHLORHEXIDINE GLUCONATE CONC. 5%",
     "tradeNames": [],
@@ -1618,7 +1618,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0148": {
     "id": "drug-0148",
     "genericName": "CHLORHEXIDINE GLUCONATE OBSTETRIC CREAM",
     "tradeNames": [],
@@ -1629,7 +1629,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0149": {
     "id": "drug-0149",
     "genericName": "CHLOROQUINE PHOSPHATE",
     "tradeNames": [],
@@ -1640,7 +1640,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0150": {
     "id": "drug-0150",
     "genericName": "CHLOROXYLENOL 4.8 %",
     "tradeNames": [],
@@ -1651,7 +1651,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0151": {
     "id": "drug-0151",
     "genericName": "CHLORPHENIRAMINE INJ. 10 MG",
     "tradeNames": [],
@@ -1662,7 +1662,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0152": {
     "id": "drug-0152",
     "genericName": "CHLORPHENIRAMINE SYRUP 60 ML , 2 MG/5 ML",
     "tradeNames": [],
@@ -1673,7 +1673,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0153": {
     "id": "drug-0153",
     "genericName": "CHLORPHENIRAMINE TAB. 4 MG",
     "tradeNames": [],
@@ -1684,7 +1684,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0154": {
     "id": "drug-0154",
     "genericName": "CHLORPROMAZINE TAB. 100 MG",
     "tradeNames": [],
@@ -1695,7 +1695,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0155": {
     "id": "drug-0155",
     "genericName": "CHLORPROMAZINE TAB. 200 MG",
     "tradeNames": [],
@@ -1706,7 +1706,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0156": {
     "id": "drug-0156",
     "genericName": "CHLORPROMAZINE TAB. 50 MG",
     "tradeNames": [],
@@ -1717,7 +1717,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0157": {
     "id": "drug-0157",
     "genericName": "CHOLESTYRAMINE ORAL POWDER",
     "tradeNames": [],
@@ -1728,7 +1728,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0158": {
     "id": "drug-0158",
     "genericName": "CHOLESTYRAMINE ORAL POWDER",
     "tradeNames": [],
@@ -1739,7 +1739,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0159": {
     "id": "drug-0159",
     "genericName": "CICLOSPORIN TAB 100 MG",
     "tradeNames": [],
@@ -1750,7 +1750,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0160": {
     "id": "drug-0160",
     "genericName": "CICLOSPORIN TAB 100 MG",
     "tradeNames": [],
@@ -1761,7 +1761,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0161": {
     "id": "drug-0161",
     "genericName": "CICLOSPORIN TAB 100 MG",
     "tradeNames": [],
@@ -1772,7 +1772,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0162": {
     "id": "drug-0162",
     "genericName": "CICLOSPORIN TAB 25 MG",
     "tradeNames": [],
@@ -1783,7 +1783,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0163": {
     "id": "drug-0163",
     "genericName": "CICLOSPORIN TAB 25 MG",
     "tradeNames": [],
@@ -1794,7 +1794,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0164": {
     "id": "drug-0164",
     "genericName": "CICLOSPORIN TAB 25 MG",
     "tradeNames": [],
@@ -1805,7 +1805,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0165": {
     "id": "drug-0165",
     "genericName": "CILOSTAZOL SR CAP 100 MG",
     "tradeNames": [],
@@ -1816,7 +1816,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0166": {
     "id": "drug-0166",
     "genericName": "CILOSTAZOL TAB. 50 MG",
     "tradeNames": [],
@@ -1827,7 +1827,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0167": {
     "id": "drug-0167",
     "genericName": "CINNARIZINE TAB. 25 MG",
     "tradeNames": [],
@@ -1838,7 +1838,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0168": {
     "id": "drug-0168",
     "genericName": "CIPROFLOXACIN HYDROCHLORIDE TAB. 500 MG",
     "tradeNames": [],
@@ -1849,7 +1849,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0169": {
     "id": "drug-0169",
     "genericName": "CISATRACURIUM BESYLATE INJ. 10 MG/5 ML/AMP",
     "tradeNames": [],
@@ -1860,7 +1860,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0170": {
     "id": "drug-0170",
     "genericName": "CISPLATIN INJ. 50 MG/50 ML",
     "tradeNames": [],
@@ -1871,7 +1871,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0171": {
     "id": "drug-0171",
     "genericName": "CLARITHROMYCIN TAB. 500 MG",
     "tradeNames": [],
@@ -1882,7 +1882,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0172": {
     "id": "drug-0172",
     "genericName": "CLINDAMYCIN HCl CAP. 300 MG",
     "tradeNames": [],
@@ -1893,7 +1893,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0173": {
     "id": "drug-0173",
     "genericName": "CLINDAMYCIN PHOSPHATE INJ. 600 MG/4 ML",
     "tradeNames": [],
@@ -1904,7 +1904,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0174": {
     "id": "drug-0174",
     "genericName": "CLOBETASOL PROPIONATE CREAM 5 G..",
     "tradeNames": [],
@@ -1915,7 +1915,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0175": {
     "id": "drug-0175",
     "genericName": "CLOFAZIMINE CAP. 100 MG",
     "tradeNames": [],
@@ -1926,7 +1926,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0176": {
     "id": "drug-0176",
     "genericName": "CLOFAZIMINE CAP. 100 MG",
     "tradeNames": [],
@@ -1937,7 +1937,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0177": {
     "id": "drug-0177",
     "genericName": "CLOFAZIMINE CAP. 50 MG",
     "tradeNames": [],
@@ -1948,7 +1948,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0178": {
     "id": "drug-0178",
     "genericName": "CLONAZEPAM TAB. 0.5 MG",
     "tradeNames": [],
@@ -1959,7 +1959,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0179": {
     "id": "drug-0179",
     "genericName": "CLONAZEPAM TAB. 0.5 MG",
     "tradeNames": [],
@@ -1970,7 +1970,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0180": {
     "id": "drug-0180",
     "genericName": "CLONAZEPAM TAB. 0.5 MG",
     "tradeNames": [],
@@ -1981,7 +1981,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0181": {
     "id": "drug-0181",
     "genericName": "CLONAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -1992,7 +1992,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0182": {
     "id": "drug-0182",
     "genericName": "CLONAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -2003,7 +2003,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0183": {
     "id": "drug-0183",
     "genericName": "CLONAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -2014,7 +2014,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0184": {
     "id": "drug-0184",
     "genericName": "CLOPIDOGREL TAB 75 mg",
     "tradeNames": [],
@@ -2025,7 +2025,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0185": {
     "id": "drug-0185",
     "genericName": "CLOTRIMAZOLE CREAM 1% 5 G..",
     "tradeNames": [],
@@ -2036,7 +2036,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0186": {
     "id": "drug-0186",
     "genericName": "CLOTRIMAZOLE EAR DROP",
     "tradeNames": [],
@@ -2047,7 +2047,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0187": {
     "id": "drug-0187",
     "genericName": "CLOTRIMAZOLE VAGINAL TAB.",
     "tradeNames": [],
@@ -2058,7 +2058,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0188": {
     "id": "drug-0188",
     "genericName": "CLOXACILLIN INJ. 1 G.",
     "tradeNames": [],
@@ -2069,7 +2069,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0189": {
     "id": "drug-0189",
     "genericName": "CLOZAPINE TAB. 25 MG",
     "tradeNames": [],
@@ -2080,7 +2080,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0190": {
     "id": "drug-0190",
     "genericName": "CLOZAPINE TAB.100 MG",
     "tradeNames": [],
@@ -2091,7 +2091,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0191": {
     "id": "drug-0191",
     "genericName": "CODEINE PHOSPHATE 10 MG+ GLYCERYL GUAIACOLATE 100 MG CAP.",
     "tradeNames": [],
@@ -2102,7 +2102,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0192": {
     "id": "drug-0192",
     "genericName": "COLCHICINE TAB. 0.6 MG.",
     "tradeNames": [],
@@ -2113,7 +2113,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0193": {
     "id": "drug-0193",
     "genericName": "COLISTIMETHATE SODIUM INJ. 150 MG",
     "tradeNames": [],
@@ -2124,7 +2124,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0194": {
     "id": "drug-0194",
     "genericName": "COMPLETE FATE-SOLUBLE VITAMIN INJ. 10 ML Adult",
     "tradeNames": [],
@@ -2135,7 +2135,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0195": {
     "id": "drug-0195",
     "genericName": "COMPLETE FATE-SOLUBLE VITAMIN INJ. 10 ML Infant",
     "tradeNames": [],
@@ -2146,7 +2146,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0196": {
     "id": "drug-0196",
     "genericName": "COMPLETE WATER-SOLUBLE VITAMIN POWDER FOR INJ.",
     "tradeNames": [],
@@ -2157,7 +2157,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0197": {
     "id": "drug-0197",
     "genericName": "CONJUGATED ESTROGEN TAB. 0.625 MG",
     "tradeNames": [],
@@ -2168,7 +2168,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0198": {
     "id": "drug-0198",
     "genericName": "CYCLOPHOSPHAMIDE INJ. 1000 MG",
     "tradeNames": [],
@@ -2179,7 +2179,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0199": {
     "id": "drug-0199",
     "genericName": "CYCLOPHOSPHAMIDE INJ. 1000 MG",
     "tradeNames": [],
@@ -2190,7 +2190,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0200": {
     "id": "drug-0200",
     "genericName": "CYCLOPHOSPHAMIDE TAB. 50 MG",
     "tradeNames": [],
@@ -2201,7 +2201,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0201": {
     "id": "drug-0201",
     "genericName": "CYCLOSERINE CAP.250 MG",
     "tradeNames": [],
@@ -2212,7 +2212,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0202": {
     "id": "drug-0202",
     "genericName": "CYPROHEPTADINE TAB. 4 MG",
     "tradeNames": [],
@@ -2223,7 +2223,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0203": {
     "id": "drug-0203",
     "genericName": "D-10-1/2 S 1000 ML.",
     "tradeNames": [],
@@ -2234,7 +2234,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0204": {
     "id": "drug-0204",
     "genericName": "D-10-1/5 S 500 ML.",
     "tradeNames": [],
@@ -2245,7 +2245,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0205": {
     "id": "drug-0205",
     "genericName": "D-5-1/2 S 1000 ML.",
     "tradeNames": [],
@@ -2256,7 +2256,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0206": {
     "id": "drug-0206",
     "genericName": "D-5-1/2 S 500 ML.",
     "tradeNames": [],
@@ -2267,7 +2267,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0207": {
     "id": "drug-0207",
     "genericName": "D-5-1/3 S 500 ML.",
     "tradeNames": [],
@@ -2278,7 +2278,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0208": {
     "id": "drug-0208",
     "genericName": "D-5-1/4 S 500 ML.",
     "tradeNames": [],
@@ -2289,7 +2289,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0209": {
     "id": "drug-0209",
     "genericName": "D-5-1/5 S 500 ML.",
     "tradeNames": [],
@@ -2300,7 +2300,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0210": {
     "id": "drug-0210",
     "genericName": "D-5-S 1000 ML.",
     "tradeNames": [],
@@ -2311,7 +2311,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0211": {
     "id": "drug-0211",
     "genericName": "D-5-W 100 ML.",
     "tradeNames": [],
@@ -2322,7 +2322,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0212": {
     "id": "drug-0212",
     "genericName": "D-5-W 1000 ML.",
     "tradeNames": [],
@@ -2333,7 +2333,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0213": {
     "id": "drug-0213",
     "genericName": "D-5-W 250 ML.",
     "tradeNames": [],
@@ -2344,7 +2344,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0214": {
     "id": "drug-0214",
     "genericName": "D-5-W 500 ML.",
     "tradeNames": [],
@@ -2355,7 +2355,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0215": {
     "id": "drug-0215",
     "genericName": "DABIGATRAN ETEXILATE 110 MG CAP.",
     "tradeNames": [],
@@ -2366,7 +2366,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0216": {
     "id": "drug-0216",
     "genericName": "DAPSONE TAB. 100 MG",
     "tradeNames": [],
@@ -2377,7 +2377,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0217": {
     "id": "drug-0217",
     "genericName": "DARUNAVIR 800 MG",
     "tradeNames": [],
@@ -2388,7 +2388,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0218": {
     "id": "drug-0218",
     "genericName": "DARUNAVIR TAB. 600 MG",
     "tradeNames": [],
@@ -2399,7 +2399,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0219": {
     "id": "drug-0219",
     "genericName": "DEFERASIROX TAB. 250 MG",
     "tradeNames": [],
@@ -2410,7 +2410,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0220": {
     "id": "drug-0220",
     "genericName": "DEFERIPRONE CAP.250 MG",
     "tradeNames": [],
@@ -2421,7 +2421,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0221": {
     "id": "drug-0221",
     "genericName": "DEFERIPRONE TAB. 500 MG",
     "tradeNames": [],
@@ -2432,7 +2432,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0222": {
     "id": "drug-0222",
     "genericName": "DELAMANID 50 MG TAB",
     "tradeNames": [],
@@ -2443,7 +2443,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0223": {
     "id": "drug-0223",
     "genericName": "DENOSUMAB 60 MG, PREFILLED SYRINGE",
     "tradeNames": [],
@@ -2454,7 +2454,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0224": {
     "id": "drug-0224",
     "genericName": "DESFERRIOXAMINE METHANESULFONATE (MESILATE) INJ 500 MG",
     "tradeNames": [],
@@ -2465,7 +2465,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0225": {
     "id": "drug-0225",
     "genericName": "DESFERRIOXAMINE METHANESULFONATE INJ.500 MG",
     "tradeNames": [],
@@ -2476,7 +2476,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0226": {
     "id": "drug-0226",
     "genericName": "DESFLURANE 240 ML",
     "tradeNames": [],
@@ -2487,7 +2487,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0227": {
     "id": "drug-0227",
     "genericName": "DESMOPRESSIN ACETATE (DDAVP) INJ. 4 MCG/ML",
     "tradeNames": [],
@@ -2498,7 +2498,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0228": {
     "id": "drug-0228",
     "genericName": "DESMOPRESSIN ACETATE (DDAVP) NASAL SOL. 0.1 MG/ML",
     "tradeNames": [],
@@ -2509,7 +2509,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0229": {
     "id": "drug-0229",
     "genericName": "DEXAMETHASONE +NEOMYCIN EYE/EAR DROPS 4 ML.",
     "tradeNames": [],
@@ -2520,7 +2520,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0230": {
     "id": "drug-0230",
     "genericName": "DEXAMETHASONE +NEOMYCIN EYE/EAR DROPS 5 ML.",
     "tradeNames": [],
@@ -2531,7 +2531,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0231": {
     "id": "drug-0231",
     "genericName": "DEXAMETHASONE INJ. 4 MG",
     "tradeNames": [],
@@ -2542,7 +2542,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0232": {
     "id": "drug-0232",
     "genericName": "DEXAMETHASONE INJ. 4 MG",
     "tradeNames": [],
@@ -2553,7 +2553,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0233": {
     "id": "drug-0233",
     "genericName": "DEXAMETHASONE TAB 4 MG",
     "tradeNames": [],
@@ -2564,7 +2564,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0234": {
     "id": "drug-0234",
     "genericName": "DEXAMETHASONE TAB. 4 MG",
     "tradeNames": [],
@@ -2575,7 +2575,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0235": {
     "id": "drug-0235",
     "genericName": "DEXMEDECTOMIDINE HYDROCHLORIDE INJ.100 MCG/ML 2 ML",
     "tradeNames": [],
@@ -2586,7 +2586,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0236": {
     "id": "drug-0236",
     "genericName": "DEXTRAN 40 INJ. 500 ML",
     "tradeNames": [],
@@ -2597,7 +2597,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0237": {
     "id": "drug-0237",
     "genericName": "DEXTROMETHORPHAN TAB. 15 MG",
     "tradeNames": [],
@@ -2608,7 +2608,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0238": {
     "id": "drug-0238",
     "genericName": "DEXTROSE 50% INJ. 50 ML.",
     "tradeNames": [],
@@ -2619,7 +2619,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0239": {
     "id": "drug-0239",
     "genericName": "DIACEREIN CAP.50 MG",
     "tradeNames": [],
@@ -2630,7 +2630,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0240": {
     "id": "drug-0240",
     "genericName": "DIAZEPAM INJ. 10 MG",
     "tradeNames": [],
@@ -2641,7 +2641,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0241": {
     "id": "drug-0241",
     "genericName": "DIAZEPAM INJ. 10 MG",
     "tradeNames": [],
@@ -2652,7 +2652,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0242": {
     "id": "drug-0242",
     "genericName": "DIAZEPAM INJ. 10 MG",
     "tradeNames": [],
@@ -2663,7 +2663,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0243": {
     "id": "drug-0243",
     "genericName": "DIAZEPAM INJ.10 MG",
     "tradeNames": [],
@@ -2674,7 +2674,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0244": {
     "id": "drug-0244",
     "genericName": "DIAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -2685,7 +2685,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0245": {
     "id": "drug-0245",
     "genericName": "DIAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -2696,7 +2696,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0246": {
     "id": "drug-0246",
     "genericName": "DIAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -2707,7 +2707,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0247": {
     "id": "drug-0247",
     "genericName": "DIAZEPAM TAB. 2 MG.",
     "tradeNames": [],
@@ -2718,7 +2718,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0248": {
     "id": "drug-0248",
     "genericName": "DIAZEPAM TAB. 5 MG",
     "tradeNames": [],
@@ -2729,7 +2729,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0249": {
     "id": "drug-0249",
     "genericName": "DIAZEPAM TAB. 5 MG",
     "tradeNames": [],
@@ -2740,7 +2740,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0250": {
     "id": "drug-0250",
     "genericName": "DIAZEPAM TAB. 5 MG",
     "tradeNames": [],
@@ -2751,7 +2751,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0251": {
     "id": "drug-0251",
     "genericName": "DIAZEPAM TAB. 5 MG.",
     "tradeNames": [],
@@ -2762,7 +2762,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0252": {
     "id": "drug-0252",
     "genericName": "DICLOFENAC INJ. 75 MG.",
     "tradeNames": [],
@@ -2773,7 +2773,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0253": {
     "id": "drug-0253",
     "genericName": "DICLOFENAC TAB. 25 MG.",
     "tradeNames": [],
@@ -2784,7 +2784,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0254": {
     "id": "drug-0254",
     "genericName": "DICLOXACILLIN CAP. 250 MG",
     "tradeNames": [],
@@ -2795,7 +2795,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0255": {
     "id": "drug-0255",
     "genericName": "DICLOXACILLIN DRY SYRUP 62.5 MG/5 ML , 60 ML",
     "tradeNames": [],
@@ -2806,7 +2806,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0256": {
     "id": "drug-0256",
     "genericName": "DIGOXIN ELIXIR 0.05 MG/ML",
     "tradeNames": [],
@@ -2817,7 +2817,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0257": {
     "id": "drug-0257",
     "genericName": "DIGOXIN INJ 0.5 MG/2 ML",
     "tradeNames": [],
@@ -2828,7 +2828,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0258": {
     "id": "drug-0258",
     "genericName": "DIGOXIN TAB. 0.25 MG",
     "tradeNames": [],
@@ -2839,7 +2839,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0259": {
     "id": "drug-0259",
     "genericName": "DILTIAZEM INJ. 10 MG",
     "tradeNames": [],
@@ -2850,7 +2850,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0260": {
     "id": "drug-0260",
     "genericName": "DIMENHYDRINATE INJ. 50 MG",
     "tradeNames": [],
@@ -2861,7 +2861,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0261": {
     "id": "drug-0261",
     "genericName": "DIMENHYDRINATE TAB. 50 MG",
     "tradeNames": [],
@@ -2872,7 +2872,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0262": {
     "id": "drug-0262",
     "genericName": "DINOPROSTONE VAGINAL TAB.",
     "tradeNames": [],
@@ -2883,7 +2883,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0263": {
     "id": "drug-0263",
     "genericName": "DIOCTAHEDRAL SMECTITE 3 G./20 ML SUS.",
     "tradeNames": [],
@@ -2894,7 +2894,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0264": {
     "id": "drug-0264",
     "genericName": "DIPHTHERIA-TETANUS VACCINE 1 DOSE/VIAL",
     "tradeNames": [],
@@ -2905,7 +2905,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0265": {
     "id": "drug-0265",
     "genericName": "DIPOTASSIUM CLORAZEPATE CAP. 5 MG",
     "tradeNames": [],
@@ -2916,7 +2916,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0266": {
     "id": "drug-0266",
     "genericName": "DIPOTASSIUM HYDROGEN PHOSPHATE, STERILE SOL.",
     "tradeNames": [],
@@ -2927,7 +2927,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0267": {
     "id": "drug-0267",
     "genericName": "DOBUTAMINE INJ. 250 MG",
     "tradeNames": [],
@@ -2938,7 +2938,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0268": {
     "id": "drug-0268",
     "genericName": "DOLUTEGRAVIR TAB. 50 MG",
     "tradeNames": [],
@@ -2949,7 +2949,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0269": {
     "id": "drug-0269",
     "genericName": "DOMPERIDONE MALEATE TAB. 10 MG",
     "tradeNames": [],
@@ -2960,7 +2960,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0270": {
     "id": "drug-0270",
     "genericName": "DOMPERIDONE MALEATE TAB. 10 MG.",
     "tradeNames": [],
@@ -2971,7 +2971,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0271": {
     "id": "drug-0271",
     "genericName": "DOMPERIDONE SUSP. 30 ML",
     "tradeNames": [],
@@ -2982,7 +2982,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0272": {
     "id": "drug-0272",
     "genericName": "DOMPERIDONE SUSP. 30 ML (5 MG/5 ML)",
     "tradeNames": [],
@@ -2993,7 +2993,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0273": {
     "id": "drug-0273",
     "genericName": "DONEPEZIL HCL TAB. 10 MG",
     "tradeNames": [],
@@ -3004,7 +3004,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0274": {
     "id": "drug-0274",
     "genericName": "DONEPEZIL HCL TAB. 23 MG",
     "tradeNames": [],
@@ -3015,7 +3015,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0275": {
     "id": "drug-0275",
     "genericName": "DOPAMINE INJ. 50 MG",
     "tradeNames": [],
@@ -3026,7 +3026,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0276": {
     "id": "drug-0276",
     "genericName": "DORZOLAMIDE 20 MG/ML+TIMOLOL 5 MG/ML, 5 ML EYE DROPS",
     "tradeNames": [],
@@ -3037,7 +3037,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0277": {
     "id": "drug-0277",
     "genericName": "DOXAZOSIN TAB. 2 MG",
     "tradeNames": [],
@@ -3048,7 +3048,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0278": {
     "id": "drug-0278",
     "genericName": "DOXAZOSIN TAB. 2 MG",
     "tradeNames": [],
@@ -3059,7 +3059,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0279": {
     "id": "drug-0279",
     "genericName": "DOXAZOSIN TAB. 4 MG",
     "tradeNames": [],
@@ -3070,7 +3070,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0280": {
     "id": "drug-0280",
     "genericName": "DOXAZOSIN TAB. 4 MG (controlled release)",
     "tradeNames": [],
@@ -3081,7 +3081,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0281": {
     "id": "drug-0281",
     "genericName": "DOXORUBICIN HCL INJ. 50 MG",
     "tradeNames": [],
@@ -3092,7 +3092,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0282": {
     "id": "drug-0282",
     "genericName": "DOXYCYCLINE CAP. 100 MG",
     "tradeNames": [],
@@ -3103,7 +3103,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0283": {
     "id": "drug-0283",
     "genericName": "Dutasteride 0.5 mg +Tamsulosin HCl 0.4 mg Modified-release capsule",
     "tradeNames": [],
@@ -3114,7 +3114,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0284": {
     "id": "drug-0284",
     "genericName": "ELETRIPTAN HYDROBROMIDE TAB. 40 MG",
     "tradeNames": [],
@@ -3125,7 +3125,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0285": {
     "id": "drug-0285",
     "genericName": "ELTROMBOPAG FCT 25 MG TAB.",
     "tradeNames": [],
@@ -3136,7 +3136,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0286": {
     "id": "drug-0286",
     "genericName": "EMPAGLIFLOZIN TAB. 25 MG",
     "tradeNames": [],
@@ -3147,7 +3147,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0287": {
     "id": "drug-0287",
     "genericName": "ENALAPRIL TAB. 5 MG",
     "tradeNames": [],
@@ -3158,7 +3158,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0288": {
     "id": "drug-0288",
     "genericName": "ENOXAPARIN SODIUM INJ. 60 MG",
     "tradeNames": [],
@@ -3169,7 +3169,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0289": {
     "id": "drug-0289",
     "genericName": "ENTACAPONE 200 MG. TAB.",
     "tradeNames": [],
@@ -3180,7 +3180,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0290": {
     "id": "drug-0290",
     "genericName": "ENTECAVIR TAB.0.5 MG",
     "tradeNames": [],
@@ -3191,7 +3191,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0291": {
     "id": "drug-0291",
     "genericName": "EPHEDRINE HCL INJ. 30 MG/ML",
     "tradeNames": [],
@@ -3202,7 +3202,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0292": {
     "id": "drug-0292",
     "genericName": "EPOETIN ALPHA INJ. 4000 U",
     "tradeNames": [],
@@ -3213,7 +3213,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0293": {
     "id": "drug-0293",
     "genericName": "EPOETIN ALPHA INJ. 4000 U DRY PWD",
     "tradeNames": [],
@@ -3224,7 +3224,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0294": {
     "id": "drug-0294",
     "genericName": "EPOETIN ALPHA INJ. 4000 U PRE FILL SYRING",
     "tradeNames": [],
@@ -3235,7 +3235,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0295": {
     "id": "drug-0295",
     "genericName": "EPOETIN ALPHA INJ. 4000 U PRE FILL SYRING",
     "tradeNames": [],
@@ -3246,7 +3246,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0296": {
     "id": "drug-0296",
     "genericName": "ERTAPENEM INJ. 1 G.",
     "tradeNames": [],
@@ -3257,7 +3257,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0297": {
     "id": "drug-0297",
     "genericName": "ERYTHROMYCIN ESTOLATE DRY SYRUP",
     "tradeNames": [],
@@ -3268,7 +3268,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0298": {
     "id": "drug-0298",
     "genericName": "ERYTHROMYCIN STEARATE TAB. 250 MG",
     "tradeNames": [],
@@ -3279,7 +3279,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0299": {
     "id": "drug-0299",
     "genericName": "ESCITALOPRAM OXALATE TAB. 10 MG",
     "tradeNames": [],
@@ -3290,7 +3290,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0300": {
     "id": "drug-0300",
     "genericName": "ESTRADIOL HEMIHYDRATE 1 MG+ DROSPIRINONE 2 MG TAB",
     "tradeNames": [],
@@ -3301,7 +3301,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0301": {
     "id": "drug-0301",
     "genericName": "ESTRADIOL VALERATE TAB. 1 MG",
     "tradeNames": [],
@@ -3312,7 +3312,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0302": {
     "id": "drug-0302",
     "genericName": "ESTRIOL 0.03 MG+LACTOBACILLUS ACIDOPHILUS 100 MILLION",
     "tradeNames": [],
@@ -3323,7 +3323,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0303": {
     "id": "drug-0303",
     "genericName": "ETHAMBUTOL TAB. 400 MG",
     "tradeNames": [],
@@ -3334,7 +3334,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0304": {
     "id": "drug-0304",
     "genericName": "ETHAMBUTOL TAB. 500 MG",
     "tradeNames": [],
@@ -3345,7 +3345,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0305": {
     "id": "drug-0305",
     "genericName": "ETHINYLESTRADIOL 0.03 MG+ LEVONORGESTREL 0.15 MG",
     "tradeNames": [],
@@ -3356,7 +3356,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0306": {
     "id": "drug-0306",
     "genericName": "ETHIONAMIDE TAB. 250 MG",
     "tradeNames": [],
@@ -3367,7 +3367,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0307": {
     "id": "drug-0307",
     "genericName": "ETHYL ALCOHOL 70% , 450 ML",
     "tradeNames": [],
@@ -3378,7 +3378,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0308": {
     "id": "drug-0308",
     "genericName": "ETOMIDATE INJ. 20 MG/10 ML",
     "tradeNames": [],
@@ -3389,7 +3389,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0309": {
     "id": "drug-0309",
     "genericName": "ETONOGESTREL 68 MG. IMPLANT 1 ROD",
     "tradeNames": [],
@@ -3400,7 +3400,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0310": {
     "id": "drug-0310",
     "genericName": "ETORICOXIB TAB. 90 MG",
     "tradeNames": [],
@@ -3411,7 +3411,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0311": {
     "id": "drug-0311",
     "genericName": "EZETIMIBE TAB. 10 MG",
     "tradeNames": [],
@@ -3422,7 +3422,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0312": {
     "id": "drug-0312",
     "genericName": "FACTOR IX INJ.",
     "tradeNames": [],
@@ -3433,7 +3433,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0313": {
     "id": "drug-0313",
     "genericName": "FAMOTIDINE TAB. 20 MG.",
     "tradeNames": [],
@@ -3444,7 +3444,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0314": {
     "id": "drug-0314",
     "genericName": "Fat emulsion (SMOFlipid 20%), Amino acid solution (Aminoven 10%) & electrolytes และ Glucose 42%",
     "tradeNames": [],
@@ -3455,7 +3455,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0315": {
     "id": "drug-0315",
     "genericName": "FAT EMULSION INJ. 20 % 100 ML",
     "tradeNames": [],
@@ -3466,7 +3466,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0316": {
     "id": "drug-0316",
     "genericName": "FAT EMULSION+AMINO ACID+GLUCOSE INJ.",
     "tradeNames": [],
@@ -3477,7 +3477,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0317": {
     "id": "drug-0317",
     "genericName": "FAVIPIRAVIR 200 MG TAB",
     "tradeNames": [],
@@ -3488,7 +3488,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0318": {
     "id": "drug-0318",
     "genericName": "FENOFIBRATE CAP. 100 MG",
     "tradeNames": [],
@@ -3499,7 +3499,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0319": {
     "id": "drug-0319",
     "genericName": "FENTANYL INJ. 100 MCG",
     "tradeNames": [],
@@ -3510,7 +3510,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0320": {
     "id": "drug-0320",
     "genericName": "FENTANYL INJ. 100 MCG",
     "tradeNames": [],
@@ -3521,7 +3521,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0321": {
     "id": "drug-0321",
     "genericName": "FERROUS FUMARATE DROPS 45 MG/0.6 ML , 15 ML (eq.to iron 15 mg/0.6 ml)",
     "tradeNames": [],
@@ -3532,7 +3532,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0322": {
     "id": "drug-0322",
     "genericName": "FERROUS FUMARATE TAB.200 MG",
     "tradeNames": [],
@@ -3543,7 +3543,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0323": {
     "id": "drug-0323",
     "genericName": "FERROUS FUMARATE TAB.200 MG",
     "tradeNames": [],
@@ -3554,7 +3554,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0324": {
     "id": "drug-0324",
     "genericName": "FILGRASTIM INJ. 300 MCG",
     "tradeNames": [],
@@ -3565,7 +3565,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0325": {
     "id": "drug-0325",
     "genericName": "FINASTERIDE TAB. 5 MG",
     "tradeNames": [],
@@ -3576,7 +3576,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0326": {
     "id": "drug-0326",
     "genericName": "FLUCONAZOLE CAP. 200 MG",
     "tradeNames": [],
@@ -3587,7 +3587,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0327": {
     "id": "drug-0327",
     "genericName": "FLUCYTOSINE (5-FLUOROCYTOSINE) CAP. 500 MG",
     "tradeNames": [],
@@ -3598,7 +3598,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0328": {
     "id": "drug-0328",
     "genericName": "FLUOROMETHOLONE OPTHALMIC SUSP. 5 ML.",
     "tradeNames": [],
@@ -3609,7 +3609,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0329": {
     "id": "drug-0329",
     "genericName": "FLUOROURACIL INJ. 1000 MG (20 ml)",
     "tradeNames": [],
@@ -3620,7 +3620,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0330": {
     "id": "drug-0330",
     "genericName": "FLUOXETINE TAP. 20 MG",
     "tradeNames": [],
@@ -3631,7 +3631,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0331": {
     "id": "drug-0331",
     "genericName": "FLUPENTIXOL 0.5 MG+MELITRACEN 10 MG TAB.",
     "tradeNames": [],
@@ -3642,7 +3642,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0332": {
     "id": "drug-0332",
     "genericName": "FLUPHENAZINE DECANOATE INJ. 25 MG",
     "tradeNames": [],
@@ -3653,7 +3653,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0333": {
     "id": "drug-0333",
     "genericName": "FLUTICASONE FUROATE 27.5 MCG/DOSE NASAL SPRAY",
     "tradeNames": [],
@@ -3664,7 +3664,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0334": {
     "id": "drug-0334",
     "genericName": "FLUTICASONE PROPIONATE 125 MCG EVOHALER",
     "tradeNames": [],
@@ -3675,7 +3675,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0335": {
     "id": "drug-0335",
     "genericName": "FOLIC ACID TAB. 5 MG",
     "tradeNames": [],
@@ -3686,7 +3686,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0336": {
     "id": "drug-0336",
     "genericName": "FOLIC ACID TAB. 5 MG",
     "tradeNames": [],
@@ -3697,7 +3697,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0337": {
     "id": "drug-0337",
     "genericName": "FOLIC ACID TAB. 5 MG",
     "tradeNames": [],
@@ -3708,7 +3708,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0338": {
     "id": "drug-0338",
     "genericName": "FORMALDEHYDE",
     "tradeNames": [],
@@ -3719,7 +3719,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0339": {
     "id": "drug-0339",
     "genericName": "FOSFOMYCIN SODIUM INJ. 2 G.",
     "tradeNames": [],
@@ -3730,7 +3730,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0340": {
     "id": "drug-0340",
     "genericName": "FUROSEMIDE INJ. 20 MG",
     "tradeNames": [],
@@ -3741,7 +3741,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0341": {
     "id": "drug-0341",
     "genericName": "FUROSEMIDE INJ. 250 MG",
     "tradeNames": [],
@@ -3752,7 +3752,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0342": {
     "id": "drug-0342",
     "genericName": "FUROSEMIDE TAB. 40 MG",
     "tradeNames": [],
@@ -3763,7 +3763,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0343": {
     "id": "drug-0343",
     "genericName": "FUROSEMIDE TAB. 500 MG",
     "tradeNames": [],
@@ -3774,7 +3774,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0344": {
     "id": "drug-0344",
     "genericName": "FUSIDIC ACID (MICRONIZED) CREAM 5 G..",
     "tradeNames": [],
@@ -3785,7 +3785,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0345": {
     "id": "drug-0345",
     "genericName": "GABAPENTIN CAP. 300 MG",
     "tradeNames": [],
@@ -3796,7 +3796,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0346": {
     "id": "drug-0346",
     "genericName": "GEMCITABINE HCL INJ. 1 G.",
     "tradeNames": [],
@@ -3807,7 +3807,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0347": {
     "id": "drug-0347",
     "genericName": "GEMFIBROZIL CAP. 300 MG",
     "tradeNames": [],
@@ -3818,7 +3818,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0348": {
     "id": "drug-0348",
     "genericName": "GEMFIBROZIL CAP. 600 MG",
     "tradeNames": [],
@@ -3829,7 +3829,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0349": {
     "id": "drug-0349",
     "genericName": "GENTAMICIN INJ. 80 MG",
     "tradeNames": [],
@@ -3840,7 +3840,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0350": {
     "id": "drug-0350",
     "genericName": "GENTAMICIN SULFATE 0.1% +BETAMETHASONE VALERATE 0.1% CREAM 15 G.",
     "tradeNames": [],
@@ -3851,7 +3851,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0351": {
     "id": "drug-0351",
     "genericName": "GLIPIZIDE TAB. 5 MG",
     "tradeNames": [],
@@ -3862,7 +3862,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0352": {
     "id": "drug-0352",
     "genericName": "GLUCOSAMINE SULFATE CAP, 500 MG.",
     "tradeNames": [],
@@ -3873,7 +3873,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0353": {
     "id": "drug-0353",
     "genericName": "GLUTARALDEHYDE",
     "tradeNames": [],
@@ -3884,7 +3884,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0354": {
     "id": "drug-0354",
     "genericName": "GLYCERIN 10%+ FRUCTOSE 55 +NaCl 0.9%, 500 ML INJ.",
     "tradeNames": [],
@@ -3895,7 +3895,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0355": {
     "id": "drug-0355",
     "genericName": "GLYCERYL TRINITRATE INJ. 50 MG",
     "tradeNames": [],
@@ -3906,7 +3906,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0356": {
     "id": "drug-0356",
     "genericName": "GLYCOPYRRONIUM BROMIDE 0.2 MG/1 ML",
     "tradeNames": [],
@@ -3917,7 +3917,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0357": {
     "id": "drug-0357",
     "genericName": "HALOPERIDOL DECANOATE INJ. 50 MG/ML ,1 ML",
     "tradeNames": [],
@@ -3928,7 +3928,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0358": {
     "id": "drug-0358",
     "genericName": "HALOPERIDOL INJ. 5 MG",
     "tradeNames": [],
@@ -3939,7 +3939,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0359": {
     "id": "drug-0359",
     "genericName": "HALOPERIDOL ORAL SOLUTION 0.2% (2 MG/ML) ,15 ML",
     "tradeNames": [],
@@ -3950,7 +3950,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0360": {
     "id": "drug-0360",
     "genericName": "HALOPERIDOL TAB. 0.5 MG",
     "tradeNames": [],
@@ -3961,7 +3961,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0361": {
     "id": "drug-0361",
     "genericName": "HALOPERIDOL TAB. 10 MG",
     "tradeNames": [],
@@ -3972,7 +3972,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0362": {
     "id": "drug-0362",
     "genericName": "HALOPERIDOL TAB. 2 MG",
     "tradeNames": [],
@@ -3983,7 +3983,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0363": {
     "id": "drug-0363",
     "genericName": "HALOPERIDOL TAB. 5 MG",
     "tradeNames": [],
@@ -3994,7 +3994,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0364": {
     "id": "drug-0364",
     "genericName": "HEPARIN INJ. 25,000 U / 5 ML",
     "tradeNames": [],
@@ -4005,7 +4005,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0365": {
     "id": "drug-0365",
     "genericName": "HEPATITIS B IMMUNOGLOBULIN ,HUMAN INJ",
     "tradeNames": [],
@@ -4016,7 +4016,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0366": {
     "id": "drug-0366",
     "genericName": "HEPATITIS B VACCINE (rDNA) INJ. 1 ML",
     "tradeNames": [],
@@ -4027,7 +4027,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0367": {
     "id": "drug-0367",
     "genericName": "HEPATITIS B VACCINE INJ. 20 MCG",
     "tradeNames": [],
@@ -4038,7 +4038,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0368": {
     "id": "drug-0368",
     "genericName": "HUMAN INSULIN 70% NPH + 30% RI INJ. 1000 U",
     "tradeNames": [],
@@ -4049,7 +4049,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0369": {
     "id": "drug-0369",
     "genericName": "HUMAN INSULIN 70% NPH + 30% RI INJ. PENFILL 300 U",
     "tradeNames": [],
@@ -4060,7 +4060,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0370": {
     "id": "drug-0370",
     "genericName": "HUMAN INSULIN NPH INJ. 1000 U",
     "tradeNames": [],
@@ -4071,7 +4071,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0371": {
     "id": "drug-0371",
     "genericName": "HUMAN INSULIN NPH INJ. PENFILL 300 U",
     "tradeNames": [],
@@ -4082,7 +4082,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0372": {
     "id": "drug-0372",
     "genericName": "HUMAN INSULIN REGULAR INJ. 1000 U",
     "tradeNames": [],
@@ -4093,7 +4093,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0373": {
     "id": "drug-0373",
     "genericName": "HUMAN NORMAL IMMUNOGLOBULIN,INTRAVENOUS",
     "tradeNames": [],
@@ -4104,7 +4104,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0374": {
     "id": "drug-0374",
     "genericName": "HUMAN NORMAL IMMUNOGLOBULIN,INTRAVENOUS",
     "tradeNames": [],
@@ -4115,7 +4115,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0375": {
     "id": "drug-0375",
     "genericName": "HYDRALAZINE INJ. 20 MG (sterile powder)",
     "tradeNames": [],
@@ -4126,7 +4126,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0376": {
     "id": "drug-0376",
     "genericName": "HYDRALAZINE TAB. 25 MG",
     "tradeNames": [],
@@ -4137,7 +4137,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0377": {
     "id": "drug-0377",
     "genericName": "HYDROCHLOROTHIAZIDE TAB. 25 MG",
     "tradeNames": [],
@@ -4148,7 +4148,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0378": {
     "id": "drug-0378",
     "genericName": "Hydrocortisone Acetate 5 mg + Zinc oxide 200 mg + Benzocaine 10 mg suppository /1 g.",
     "tradeNames": [],
@@ -4159,7 +4159,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0379": {
     "id": "drug-0379",
     "genericName": "Hydrocortisone Acetate 7.5 mg + Zinc oxide 250 mg + Benzocaine 40 mg suppository/1 suppo.",
     "tradeNames": [],
@@ -4170,7 +4170,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0380": {
     "id": "drug-0380",
     "genericName": "HYDROCORTISONE INJ. 100 MG",
     "tradeNames": [],
@@ -4181,7 +4181,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0381": {
     "id": "drug-0381",
     "genericName": "HYDROGEN PEROXIDE SOL.",
     "tradeNames": [],
@@ -4192,7 +4192,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0382": {
     "id": "drug-0382",
     "genericName": "HYDROXYCHLOROQUINE TAB. 200 MG",
     "tradeNames": [],
@@ -4203,7 +4203,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0383": {
     "id": "drug-0383",
     "genericName": "HYDROXYCHLOROQUINE TAB. 200 MG",
     "tradeNames": [],
@@ -4214,7 +4214,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0384": {
     "id": "drug-0384",
     "genericName": "HYDROXYETHYL STARCH INJ. 500 ML",
     "tradeNames": [],
@@ -4225,7 +4225,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0385": {
     "id": "drug-0385",
     "genericName": "HYDROXYPROGESTERONE CAPROATE INJ. 250 MG",
     "tradeNames": [],
@@ -4236,7 +4236,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0386": {
     "id": "drug-0386",
     "genericName": "HYDROXYPROPYL METHYLCELLULOSE (DISAPPEARING PRESERVATIVE )",
     "tradeNames": [],
@@ -4247,7 +4247,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0387": {
     "id": "drug-0387",
     "genericName": "HYDROXYUREA CAP. 500 MG",
     "tradeNames": [],
@@ -4258,7 +4258,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0388": {
     "id": "drug-0388",
     "genericName": "HYDROXYZINE TAB. 10 MG",
     "tradeNames": [],
@@ -4269,7 +4269,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0389": {
     "id": "drug-0389",
     "genericName": "HYDROXYZINE TAB. 10 MG",
     "tradeNames": [],
@@ -4280,7 +4280,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0390": {
     "id": "drug-0390",
     "genericName": "HYOSCINE-N-BUTYLBROMIDE INJ. 20 MG.",
     "tradeNames": [],
@@ -4291,7 +4291,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0391": {
     "id": "drug-0391",
     "genericName": "HYOSCINE-N-BUTYLBROMIDE SYRUP",
     "tradeNames": [],
@@ -4302,7 +4302,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0392": {
     "id": "drug-0392",
     "genericName": "HYOSCINE-N-BUTYLBROMIDE TAB. 10 MG.",
     "tradeNames": [],
@@ -4313,7 +4313,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0393": {
     "id": "drug-0393",
     "genericName": "IBUPROFEN SUSP. 100 MG/5 ML",
     "tradeNames": [],
@@ -4324,7 +4324,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0394": {
     "id": "drug-0394",
     "genericName": "IBUPROFEN SUSP. 100 MG/5 ML",
     "tradeNames": [],
@@ -4335,7 +4335,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0395": {
     "id": "drug-0395",
     "genericName": "IBUPROFEN TAB. 400 MG",
     "tradeNames": [],
@@ -4346,7 +4346,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0396": {
     "id": "drug-0396",
     "genericName": "IBUPROFEN TAB. 400 MG",
     "tradeNames": [],
@@ -4357,7 +4357,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0397": {
     "id": "drug-0397",
     "genericName": "IBUPROFEN TAB. 400 MG.",
     "tradeNames": [],
@@ -4368,7 +4368,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0398": {
     "id": "drug-0398",
     "genericName": "IDARUCIZUMAB 50 MG/ML VIAL 2X2.5 GM",
     "tradeNames": [],
@@ -4379,7 +4379,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0399": {
     "id": "drug-0399",
     "genericName": "ILOPROST INHALATION SOLUTION 10 MCG/ML , 2 ML",
     "tradeNames": [],
@@ -4390,7 +4390,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0400": {
     "id": "drug-0400",
     "genericName": "IMIPENEM 500 MG+CILASTATIN 500 MG INJ.",
     "tradeNames": [],
@@ -4401,7 +4401,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0401": {
     "id": "drug-0401",
     "genericName": "IMIPRAMINE TAB. 25 MG",
     "tradeNames": [],
@@ -4412,7 +4412,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0402": {
     "id": "drug-0402",
     "genericName": "INSULIN ASPART 100 U/ML , 3 ML",
     "tradeNames": [],
@@ -4423,7 +4423,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0403": {
     "id": "drug-0403",
     "genericName": "INSULIN ASPART 30%+PROTAMINATED INSULIN ASPART 70% , 300 U",
     "tradeNames": [],
@@ -4434,7 +4434,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0404": {
     "id": "drug-0404",
     "genericName": "INSULIN GLARGINE INJ. 100 U/ML , 3 ML",
     "tradeNames": [],
@@ -4445,7 +4445,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0405": {
     "id": "drug-0405",
     "genericName": "INSULIN GLARGINE INJ. 300 U/ML , 1.5 ML",
     "tradeNames": [],
@@ -4456,7 +4456,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0406": {
     "id": "drug-0406",
     "genericName": "INSULIN Ideg/Asp 30 (Prefilled) contain 30% Insulin Aspart and 70% Insulin Degludec",
     "tradeNames": [],
@@ -4467,7 +4467,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0407": {
     "id": "drug-0407",
     "genericName": "IODIXANOL INJ. 270 MG I/ML ,50 ML",
     "tradeNames": [],
@@ -4478,7 +4478,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0408": {
     "id": "drug-0408",
     "genericName": "IOPROMIDE INJ. 370 MG/ML ,50 ML",
     "tradeNames": [],
@@ -4489,7 +4489,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0409": {
     "id": "drug-0409",
     "genericName": "IPRATROPIUM 0.5 MG+FENOTEROL 1.25 MG NEBULE",
     "tradeNames": [],
@@ -4500,7 +4500,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0410": {
     "id": "drug-0410",
     "genericName": "IPRATROPIUM 20 MCG+FENOTEROL 50 MCG INHALER",
     "tradeNames": [],
@@ -4511,7 +4511,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0411": {
     "id": "drug-0411",
     "genericName": "IRINOTECAN INJ. 100 MG/5 ML",
     "tradeNames": [],
@@ -4522,7 +4522,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0412": {
     "id": "drug-0412",
     "genericName": "IRON SUCROSE INJ. 100 MG",
     "tradeNames": [],
@@ -4533,7 +4533,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0413": {
     "id": "drug-0413",
     "genericName": "ISONIAZID TAB. 100 MG",
     "tradeNames": [],
@@ -4544,7 +4544,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0414": {
     "id": "drug-0414",
     "genericName": "ISONIAZID TAB. 300 MG",
     "tradeNames": [],
@@ -4555,7 +4555,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0415": {
     "id": "drug-0415",
     "genericName": "ISOSORBIDE DINITRATE SUBLINGUAL TAB. 5 MG",
     "tradeNames": [],
@@ -4566,7 +4566,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0416": {
     "id": "drug-0416",
     "genericName": "ISOSORBIDE MONONITRATE TAB. 20 MG",
     "tradeNames": [],
@@ -4577,7 +4577,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0417": {
     "id": "drug-0417",
     "genericName": "ISPAGHULA HUSK 2.45 G./5 G.(Psyllium Husk)",
     "tradeNames": [],
@@ -4588,7 +4588,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0418": {
     "id": "drug-0418",
     "genericName": "ITRACONAZOLE CAP. 100 MG",
     "tradeNames": [],
@@ -4599,7 +4599,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0419": {
     "id": "drug-0419",
     "genericName": "IVERMECTIN TAB. 6 MG",
     "tradeNames": [],
@@ -4610,7 +4610,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0420": {
     "id": "drug-0420",
     "genericName": "IVERMECTIN TAB. 6 MG",
     "tradeNames": [],
@@ -4621,7 +4621,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0421": {
     "id": "drug-0421",
     "genericName": "KETAMINE INJ. 50 MG/ML 10 ML",
     "tradeNames": [],
@@ -4632,7 +4632,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0422": {
     "id": "drug-0422",
     "genericName": "KETOCONAZOLE CREAM 5 G..",
     "tradeNames": [],
@@ -4643,7 +4643,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0423": {
     "id": "drug-0423",
     "genericName": "KETOCONAZOLE TAB. 200 MG",
     "tradeNames": [],
@@ -4654,7 +4654,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0424": {
     "id": "drug-0424",
     "genericName": "KETOCONAZOLE TAB. 200 MG",
     "tradeNames": [],
@@ -4665,7 +4665,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0425": {
     "id": "drug-0425",
     "genericName": "KETOCONAZOLE TAB. 200 MG",
     "tradeNames": [],
@@ -4676,7 +4676,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0426": {
     "id": "drug-0426",
     "genericName": "KETOROLAC TROMETHAMINE INJ. 30 MG/ML,1 ML",
     "tradeNames": [],
@@ -4687,7 +4687,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0427": {
     "id": "drug-0427",
     "genericName": "LABETALOL HCL 5 MG/ML , VIAL",
     "tradeNames": [],
@@ -4698,7 +4698,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0428": {
     "id": "drug-0428",
     "genericName": "LACTULOSE SYRUP 100 ML",
     "tradeNames": [],
@@ -4709,7 +4709,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0429": {
     "id": "drug-0429",
     "genericName": "LAMIVUDINE SYR.10 MG/ML 60 ML",
     "tradeNames": [],
@@ -4720,7 +4720,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0430": {
     "id": "drug-0430",
     "genericName": "LAMIVUDINE TAB.150 MG",
     "tradeNames": [],
@@ -4731,7 +4731,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0431": {
     "id": "drug-0431",
     "genericName": "LAMIVUDINE TAB.300 MG",
     "tradeNames": [],
@@ -4742,7 +4742,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0432": {
     "id": "drug-0432",
     "genericName": "LAMOTRIGINE TAB. 100 MG",
     "tradeNames": [],
@@ -4753,7 +4753,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0433": {
     "id": "drug-0433",
     "genericName": "LAMOTRIGINE TAB. 100 MG",
     "tradeNames": [],
@@ -4764,7 +4764,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0434": {
     "id": "drug-0434",
     "genericName": "LAMOTRIGINE TAB. 25 MG",
     "tradeNames": [],
@@ -4775,7 +4775,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0435": {
     "id": "drug-0435",
     "genericName": "LAMOTRIGINE TAB. 25 MG",
     "tradeNames": [],
@@ -4786,7 +4786,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0436": {
     "id": "drug-0436",
     "genericName": "LANTHANUM CARBONATE 500 MG TAB.",
     "tradeNames": [],
@@ -4797,7 +4797,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0437": {
     "id": "drug-0437",
     "genericName": "LATANOPROST EYE DROPS 0.005% , 2.5 ML.",
     "tradeNames": [],
@@ -4808,7 +4808,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0438": {
     "id": "drug-0438",
     "genericName": "LEFLUNOMIDE TAB. 20 MG",
     "tradeNames": [],
@@ -4819,7 +4819,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0439": {
     "id": "drug-0439",
     "genericName": "LEMBOREXANT TAB. 5 MG.",
     "tradeNames": [],
@@ -4830,7 +4830,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0440": {
     "id": "drug-0440",
     "genericName": "LERCANIDIPINE HCL TAB. 20 MG",
     "tradeNames": [],
@@ -4841,7 +4841,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0441": {
     "id": "drug-0441",
     "genericName": "LETROZOLE TAB. 2.5 MG",
     "tradeNames": [],
@@ -4852,7 +4852,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0442": {
     "id": "drug-0442",
     "genericName": "LEUPRORELIN ACETATE INJ. 3.75 MG",
     "tradeNames": [],
@@ -4863,7 +4863,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0443": {
     "id": "drug-0443",
     "genericName": "LEUPRORELIN ACETATE INJ. 3.75 MG",
     "tradeNames": [],
@@ -4874,7 +4874,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0444": {
     "id": "drug-0444",
     "genericName": "LEVETIRACETAM INJ. 100 MG/ML , 5 ML",
     "tradeNames": [],
@@ -4885,7 +4885,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0445": {
     "id": "drug-0445",
     "genericName": "LEVETIRACETAM ORAL SOLUTION 100 MG/ML",
     "tradeNames": [],
@@ -4896,7 +4896,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0446": {
     "id": "drug-0446",
     "genericName": "LEVETIRACETAM TAB. 500 MG",
     "tradeNames": [],
@@ -4907,7 +4907,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0447": {
     "id": "drug-0447",
     "genericName": "LEVOCETIRIZINE DIHYDROCHLORIDE TAB.",
     "tradeNames": [],
@@ -4918,7 +4918,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0448": {
     "id": "drug-0448",
     "genericName": "LEVODOPA 200 MG+ BENSERAZIDE 50 MG TAB.",
     "tradeNames": [],
@@ -4929,7 +4929,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0449": {
     "id": "drug-0449",
     "genericName": "LEVODOPA 250 MG+ CARBIDOPA 25 MG TAB.",
     "tradeNames": [],
@@ -4940,7 +4940,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0450": {
     "id": "drug-0450",
     "genericName": "LEVOFLOXACIN 5 MG/ML AND DEXAMETHASONE 1 MG/ML",
     "tradeNames": [],
@@ -4951,7 +4951,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0451": {
     "id": "drug-0451",
     "genericName": "LEVOFLOXACIN HEMIHYDRATE TAB. 500 MG",
     "tradeNames": [],
@@ -4962,7 +4962,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0452": {
     "id": "drug-0452",
     "genericName": "LEVOFLOXACIN HYDRATE 1.5% EYE DROP, 5 ML",
     "tradeNames": [],
@@ -4973,7 +4973,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0453": {
     "id": "drug-0453",
     "genericName": "LEVOFLOXACIN INJ. 750 MG , 150 ML",
     "tradeNames": [],
@@ -4984,7 +4984,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0454": {
     "id": "drug-0454",
     "genericName": "LEVOTHYROXINE SODIUM TAB. 0.1 MG",
     "tradeNames": [],
@@ -4995,7 +4995,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0455": {
     "id": "drug-0455",
     "genericName": "LIDOCAINE INJ. 1% + EPINEPHRINE 20 ML",
     "tradeNames": [],
@@ -5006,7 +5006,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0456": {
     "id": "drug-0456",
     "genericName": "LIDOCAINE INJ. 1% 20 ML",
     "tradeNames": [],
@@ -5017,7 +5017,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0457": {
     "id": "drug-0457",
     "genericName": "LIDOCAINE INJ. 2% + EPINEPHRINE 1.8 ML",
     "tradeNames": [],
@@ -5028,7 +5028,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0458": {
     "id": "drug-0458",
     "genericName": "LIDOCAINE INJ. 2% + EPINEPHRINE 20 ML",
     "tradeNames": [],
@@ -5039,7 +5039,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0459": {
     "id": "drug-0459",
     "genericName": "LIDOCAINE INJ. 2% 20 ML",
     "tradeNames": [],
@@ -5050,7 +5050,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0460": {
     "id": "drug-0460",
     "genericName": "LIDOCAINE JELLY 30 G.",
     "tradeNames": [],
@@ -5061,7 +5061,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0461": {
     "id": "drug-0461",
     "genericName": "LIDOCAINE SPRAY",
     "tradeNames": [],
@@ -5072,7 +5072,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0462": {
     "id": "drug-0462",
     "genericName": "LINEZOLID 600 MG. TAB.",
     "tradeNames": [],
@@ -5083,7 +5083,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0463": {
     "id": "drug-0463",
     "genericName": "LITHIUM CARBONATE CAP 300 MG.",
     "tradeNames": [],
@@ -5094,7 +5094,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0464": {
     "id": "drug-0464",
     "genericName": "LOPERAMIDE CAP. 2 MG",
     "tradeNames": [],
@@ -5105,7 +5105,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0465": {
     "id": "drug-0465",
     "genericName": "LOPINAVIR 80 MG+RITONAVIR 20 MG/ML SYR, 60 ML",
     "tradeNames": [],
@@ -5116,7 +5116,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0466": {
     "id": "drug-0466",
     "genericName": "LORATADINE SYRUP 100 ML",
     "tradeNames": [],
@@ -5127,7 +5127,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0467": {
     "id": "drug-0467",
     "genericName": "LORATADINE TAB. 10 MG",
     "tradeNames": [],
@@ -5138,7 +5138,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0468": {
     "id": "drug-0468",
     "genericName": "LORAZEPAM TAB. 1 MG",
     "tradeNames": [],
@@ -5149,7 +5149,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0469": {
     "id": "drug-0469",
     "genericName": "LORAZEPAM TAB. 2 MG",
     "tradeNames": [],
@@ -5160,7 +5160,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0470": {
     "id": "drug-0470",
     "genericName": "LOSARTAN 50 MG",
     "tradeNames": [],
@@ -5171,7 +5171,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0471": {
     "id": "drug-0471",
     "genericName": "LYNESTRENOL 0.5 MG",
     "tradeNames": [],
@@ -5182,7 +5182,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0472": {
     "id": "drug-0472",
     "genericName": "LYSOZYME CHLORIDE TAB. 30 mg",
     "tradeNames": [],
@@ -5193,7 +5193,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0473": {
     "id": "drug-0473",
     "genericName": "MACROGOLS 4,000 (PEG)+ELECTROLYTES ORAL POWDER",
     "tradeNames": [],
@@ -5204,7 +5204,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0474": {
     "id": "drug-0474",
     "genericName": "MACROGOLS 4,000 (PEG)+ELECTROLYTES ORAL POWDER",
     "tradeNames": [],
@@ -5215,7 +5215,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0475": {
     "id": "drug-0475",
     "genericName": "MAGNESIUM SULFATE 50 % INJ. 2 ML.",
     "tradeNames": [],
@@ -5226,7 +5226,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0476": {
     "id": "drug-0476",
     "genericName": "MAGNESIUM SULFATE INJ. 50 % , 2 ML",
     "tradeNames": [],
@@ -5237,7 +5237,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0477": {
     "id": "drug-0477",
     "genericName": "MAGNESIUM SULFATE INJ. 50 % 2 ML.",
     "tradeNames": [],
@@ -5248,7 +5248,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0478": {
     "id": "drug-0478",
     "genericName": "MANNITOL INJ. 250 ML",
     "tradeNames": [],
@@ -5259,7 +5259,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0479": {
     "id": "drug-0479",
     "genericName": "MCT OIL",
     "tradeNames": [],
@@ -5270,7 +5270,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0480": {
     "id": "drug-0480",
     "genericName": "MEBEVERINE HCl TAB. 135 MG",
     "tradeNames": [],
@@ -5281,7 +5281,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0481": {
     "id": "drug-0481",
     "genericName": "MECOBALAMIN TAB. 500 MCG.",
     "tradeNames": [],
@@ -5292,7 +5292,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0482": {
     "id": "drug-0482",
     "genericName": "MEDROXYPROGESTERONE ACETATE INJ.",
     "tradeNames": [],
@@ -5303,7 +5303,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0483": {
     "id": "drug-0483",
     "genericName": "MEFENAMIC TAP. 500 MG.",
     "tradeNames": [],
@@ -5314,7 +5314,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0484": {
     "id": "drug-0484",
     "genericName": "MEMENTINE SOLUTIONS 10 MG/ML 50 ML",
     "tradeNames": [],
@@ -5325,7 +5325,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0485": {
     "id": "drug-0485",
     "genericName": "MEROPENEM INJ. 1 G.",
     "tradeNames": [],
@@ -5336,7 +5336,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0486": {
     "id": "drug-0486",
     "genericName": "MEROPENEM INJ. 500 MG",
     "tradeNames": [],
@@ -5347,7 +5347,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0487": {
     "id": "drug-0487",
     "genericName": "MESALAZINE 500 MG TAB",
     "tradeNames": [],
@@ -5358,7 +5358,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0488": {
     "id": "drug-0488",
     "genericName": "MESALAZINE SUPPO 1 G",
     "tradeNames": [],
@@ -5369,7 +5369,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0489": {
     "id": "drug-0489",
     "genericName": "METFORMIN TAB. 500 MG",
     "tradeNames": [],
@@ -5380,7 +5380,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0490": {
     "id": "drug-0490",
     "genericName": "METHIMAZOLE TAB. 5 MG",
     "tradeNames": [],
@@ -5391,7 +5391,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0491": {
     "id": "drug-0491",
     "genericName": "METHOTREXATE INJ. 1 G /10 ML",
     "tradeNames": [],
@@ -5402,7 +5402,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0492": {
     "id": "drug-0492",
     "genericName": "METHOTREXATE INJ. 1 G. / 10 ML",
     "tradeNames": [],
@@ -5413,7 +5413,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0493": {
     "id": "drug-0493",
     "genericName": "METHOTREXATE INJ. 50 MG , 2 ML",
     "tradeNames": [],
@@ -5424,7 +5424,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0494": {
     "id": "drug-0494",
     "genericName": "METHOTREXATE INJ. 50 MG.",
     "tradeNames": [],
@@ -5435,7 +5435,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0495": {
     "id": "drug-0495",
     "genericName": "METHOTREXATE TAB. 2.5 MG",
     "tradeNames": [],
@@ -5446,7 +5446,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0496": {
     "id": "drug-0496",
     "genericName": "METHOTREXATE TAB. 2.5 MG.",
     "tradeNames": [],
@@ -5457,7 +5457,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0497": {
     "id": "drug-0497",
     "genericName": "METHOTREXATE TAB. 2.5 MG.",
     "tradeNames": [],
@@ -5468,7 +5468,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0498": {
     "id": "drug-0498",
     "genericName": "METHYLDOPA TAB. 250 MG",
     "tradeNames": [],
@@ -5479,7 +5479,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0499": {
     "id": "drug-0499",
     "genericName": "METHYLENE BLUE 1% INJ. 5 ML",
     "tradeNames": [],
@@ -5490,7 +5490,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0500": {
     "id": "drug-0500",
     "genericName": "METHYLERGOMETRINE MALEATE INJ. 0.2 MG",
     "tradeNames": [],
@@ -5501,7 +5501,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0501": {
     "id": "drug-0501",
     "genericName": "METHYLPHENIDATE HCL EXTENDED RELEASE TAB. 18 MG",
     "tradeNames": [],
@@ -5512,7 +5512,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0502": {
     "id": "drug-0502",
     "genericName": "METHYLPHENIDATE TAB. 10 MG",
     "tradeNames": [],
@@ -5523,7 +5523,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0503": {
     "id": "drug-0503",
     "genericName": "METHYLPREDNISOLONE INJ. 1 G.",
     "tradeNames": [],
@@ -5534,7 +5534,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0504": {
     "id": "drug-0504",
     "genericName": "METHYLPREDNISOLONE INJ. 1 G.",
     "tradeNames": [],
@@ -5545,7 +5545,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0505": {
     "id": "drug-0505",
     "genericName": "METHYLSALICYLATE CREAM",
     "tradeNames": [],
@@ -5556,7 +5556,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0506": {
     "id": "drug-0506",
     "genericName": "METOCLOPRAMIDE INJ. 10 MG",
     "tradeNames": [],
@@ -5567,7 +5567,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0507": {
     "id": "drug-0507",
     "genericName": "METOCLOPRAMIDE INJ. 10 MG.",
     "tradeNames": [],
@@ -5578,7 +5578,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0508": {
     "id": "drug-0508",
     "genericName": "METRONIDAZOLE INJ. 500 MG",
     "tradeNames": [],
@@ -5589,7 +5589,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0509": {
     "id": "drug-0509",
     "genericName": "METRONIDAZOLE INJ. 500 MG",
     "tradeNames": [],
@@ -5600,7 +5600,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0510": {
     "id": "drug-0510",
     "genericName": "METRONIDAZOLE TAB. 400 MG",
     "tradeNames": [],
@@ -5611,7 +5611,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0511": {
     "id": "drug-0511",
     "genericName": "METRONIDAZOLE TAB. 400 MG",
     "tradeNames": [],
@@ -5622,7 +5622,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0512": {
     "id": "drug-0512",
     "genericName": "MIANSERIN TAB. 30 MG",
     "tradeNames": [],
@@ -5633,7 +5633,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0513": {
     "id": "drug-0513",
     "genericName": "MICRONIZED FENOFIBRATE CAP. 200 MG",
     "tradeNames": [],
@@ -5644,7 +5644,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0514": {
     "id": "drug-0514",
     "genericName": "MICRONIZED PROGESTERONE Soft Gelatin CAP. For Oral/Vaginal route 200 MG",
     "tradeNames": [],
@@ -5655,7 +5655,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0515": {
     "id": "drug-0515",
     "genericName": "MICRONIZED PURIFIED FLAVONOID FRACTION 1000 MG. TAB.",
     "tradeNames": [],
@@ -5666,7 +5666,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0516": {
     "id": "drug-0516",
     "genericName": "MIDAZOLAM INJ. 5 MG",
     "tradeNames": [],
@@ -5677,7 +5677,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0517": {
     "id": "drug-0517",
     "genericName": "MIDAZOLAM INJ. 5 MG",
     "tradeNames": [],
@@ -5688,7 +5688,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0518": {
     "id": "drug-0518",
     "genericName": "MILK OF MAGNESIA 240 ML",
     "tradeNames": [],
@@ -5699,7 +5699,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0519": {
     "id": "drug-0519",
     "genericName": "MILK OF MAGNESIA 240 ML.",
     "tradeNames": [],
@@ -5710,7 +5710,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0520": {
     "id": "drug-0520",
     "genericName": "MILRINONE LACTATE 10 mg/10 ml",
     "tradeNames": [],
@@ -5721,7 +5721,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0521": {
     "id": "drug-0521",
     "genericName": "MIRABEGRON TAB. 50 MG",
     "tradeNames": [],
@@ -5732,7 +5732,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0522": {
     "id": "drug-0522",
     "genericName": "MIRTAZAPINE 15 MG. ORODISPERSIBLE TABLET",
     "tradeNames": [],
@@ -5743,7 +5743,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0523": {
     "id": "drug-0523",
     "genericName": "MISOPROSTOL TAB. 200 MCG.",
     "tradeNames": [],
@@ -5754,7 +5754,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0524": {
     "id": "drug-0524",
     "genericName": "MOLNUPIRAVIR 200 MG",
     "tradeNames": [],
@@ -5765,7 +5765,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0525": {
     "id": "drug-0525",
     "genericName": "MOMETASONE FUROATE 50 MCG/DOSE",
     "tradeNames": [],
@@ -5776,7 +5776,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0526": {
     "id": "drug-0526",
     "genericName": "MOMETASONE FUROATE CREAM 5 G..",
     "tradeNames": [],
@@ -5787,7 +5787,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0527": {
     "id": "drug-0527",
     "genericName": "MONTELUKAST SODIUM TAB. 10 MG",
     "tradeNames": [],
@@ -5798,7 +5798,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0528": {
     "id": "drug-0528",
     "genericName": "MORPHINE INJ. 10 MG",
     "tradeNames": [],
@@ -5809,7 +5809,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0529": {
     "id": "drug-0529",
     "genericName": "MORPHINE INJ. 10 MG",
     "tradeNames": [],
@@ -5820,7 +5820,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0530": {
     "id": "drug-0530",
     "genericName": "MORPHINE SULFATE SYR. 10 MG/5 ML , 60 ML",
     "tradeNames": [],
@@ -5831,7 +5831,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0531": {
     "id": "drug-0531",
     "genericName": "MORPHINE SULFATE TAB. 10 MG",
     "tradeNames": [],
@@ -5842,7 +5842,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0532": {
     "id": "drug-0532",
     "genericName": "MORPHINE SULFATE TAB. 10 MG SR",
     "tradeNames": [],
@@ -5853,7 +5853,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0533": {
     "id": "drug-0533",
     "genericName": "MORPHINE SULFATE TAB. 20 MG",
     "tradeNames": [],
@@ -5864,7 +5864,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0534": {
     "id": "drug-0534",
     "genericName": "MOSAPRIDE CITRATE TAB. 5 MG",
     "tradeNames": [],
@@ -5875,7 +5875,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0535": {
     "id": "drug-0535",
     "genericName": "MOSAPRIDE CITRATE TAB. 5 MG",
     "tradeNames": [],
@@ -5886,7 +5886,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0536": {
     "id": "drug-0536",
     "genericName": "MOXIFLOXACIN EYE DROP 0.5 %",
     "tradeNames": [],
@@ -5897,7 +5897,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0537": {
     "id": "drug-0537",
     "genericName": "MOXIFLOXACIN TAB. 400 MG",
     "tradeNames": [],
@@ -5908,7 +5908,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0538": {
     "id": "drug-0538",
     "genericName": "MOXIFLOXACIN TAB. 400 MG",
     "tradeNames": [],
@@ -5919,7 +5919,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0539": {
     "id": "drug-0539",
     "genericName": "MULTIPLE TRACE MINERAL SOLUTION FOR ADULT INJ. 10 ML",
     "tradeNames": [],
@@ -5930,7 +5930,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0540": {
     "id": "drug-0540",
     "genericName": "MULTIPLE TRACE MINERAL SOLUTION INJ. 10 ML",
     "tradeNames": [],
@@ -5941,7 +5941,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0541": {
     "id": "drug-0541",
     "genericName": "MULTIVITAMINS DROPS",
     "tradeNames": [],
@@ -5952,7 +5952,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0542": {
     "id": "drug-0542",
     "genericName": "MULTIVITAMINS SYRUP",
     "tradeNames": [],
@@ -5963,7 +5963,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0543": {
     "id": "drug-0543",
     "genericName": "MYCOPHENOLATE MOFETIL CAP. 250 MG",
     "tradeNames": [],
@@ -5974,7 +5974,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0544": {
     "id": "drug-0544",
     "genericName": "N.S.S. 0.45% 1000 ML.",
     "tradeNames": [],
@@ -5985,7 +5985,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0545": {
     "id": "drug-0545",
     "genericName": "N.S.S. 100 ML.",
     "tradeNames": [],
@@ -5996,7 +5996,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0546": {
     "id": "drug-0546",
     "genericName": "N.S.S. 100 ML.",
     "tradeNames": [],
@@ -6007,7 +6007,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0547": {
     "id": "drug-0547",
     "genericName": "N.S.S. 1000 ML.",
     "tradeNames": [],
@@ -6018,7 +6018,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0548": {
     "id": "drug-0548",
     "genericName": "N.S.S. 1000 ML.",
     "tradeNames": [],
@@ -6029,7 +6029,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0549": {
     "id": "drug-0549",
     "genericName": "N.S.S. 2000 ML.",
     "tradeNames": [],
@@ -6040,7 +6040,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0550": {
     "id": "drug-0550",
     "genericName": "N.S.S. 500 ML.",
     "tradeNames": [],
@@ -6051,7 +6051,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0551": {
     "id": "drug-0551",
     "genericName": "N.S.S. FOR IRRIGATION 1000 ML",
     "tradeNames": [],
@@ -6062,7 +6062,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0552": {
     "id": "drug-0552",
     "genericName": "N.S.S. FOR IRRIGATION 1000 ML",
     "tradeNames": [],
@@ -6073,7 +6073,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0553": {
     "id": "drug-0553",
     "genericName": "NALOXONE INJ. 0.4 MG",
     "tradeNames": [],
@@ -6084,7 +6084,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0554": {
     "id": "drug-0554",
     "genericName": "NAPROXEN SODIUM TAB. 275 MG.",
     "tradeNames": [],
@@ -6095,7 +6095,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0555": {
     "id": "drug-0555",
     "genericName": "NEOSTIGMINE INJ. 5 ML",
     "tradeNames": [],
@@ -6106,7 +6106,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0556": {
     "id": "drug-0556",
     "genericName": "NEOSTIGMINE INJ. 5 ML.",
     "tradeNames": [],
@@ -6117,7 +6117,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0557": {
     "id": "drug-0557",
     "genericName": "NEVIRAPINE SUSP. 10 MG/ML ,60 ML",
     "tradeNames": [],
@@ -6128,7 +6128,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0558": {
     "id": "drug-0558",
     "genericName": "NICARDIPINE INJ. 2 MG",
     "tradeNames": [],
@@ -6139,7 +6139,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0559": {
     "id": "drug-0559",
     "genericName": "NICARDIPINE INJ. 25 MG/25 ML",
     "tradeNames": [],
@@ -6150,7 +6150,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0560": {
     "id": "drug-0560",
     "genericName": "NICOTINE TAB. 2 MG.",
     "tradeNames": [],
@@ -6161,7 +6161,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0561": {
     "id": "drug-0561",
     "genericName": "NIFEDIPINE CAP. 5 MG",
     "tradeNames": [],
@@ -6172,7 +6172,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0562": {
     "id": "drug-0562",
     "genericName": "NIFEDIPINE CAP. 5 MG",
     "tradeNames": [],
@@ -6183,7 +6183,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0563": {
     "id": "drug-0563",
     "genericName": "NIFEDIPINE SR TAB. 20 MG",
     "tradeNames": [],
@@ -6194,7 +6194,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0564": {
     "id": "drug-0564",
     "genericName": "NOREPINEPHRINE INJ. 4 MG/4 ML",
     "tradeNames": [],
@@ -6205,7 +6205,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0565": {
     "id": "drug-0565",
     "genericName": "NORETHISTERONE TAB. 5 MG",
     "tradeNames": [],
@@ -6216,7 +6216,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0566": {
     "id": "drug-0566",
     "genericName": "NORFLOXACIN TAB. 400 MG",
     "tradeNames": [],
@@ -6227,7 +6227,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0567": {
     "id": "drug-0567",
     "genericName": "NORTRIPTYLINE TAB. 10 MG",
     "tradeNames": [],
@@ -6238,7 +6238,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0568": {
     "id": "drug-0568",
     "genericName": "OCTREOTIDE ACETATE INJ. 0.1 MG/ML",
     "tradeNames": [],
@@ -6249,7 +6249,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0569": {
     "id": "drug-0569",
     "genericName": "OFLOXACIN EAR SOLN. 5 ML.",
     "tradeNames": [],
@@ -6260,7 +6260,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0570": {
     "id": "drug-0570",
     "genericName": "OFLOXACIN TAB. 200 MG",
     "tradeNames": [],
@@ -6271,7 +6271,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0571": {
     "id": "drug-0571",
     "genericName": "OLANZAPINE ODT TAB. 5 MG",
     "tradeNames": [],
@@ -6282,7 +6282,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0572": {
     "id": "drug-0572",
     "genericName": "OLIVE OIL",
     "tradeNames": [],
@@ -6293,7 +6293,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0573": {
     "id": "drug-0573",
     "genericName": "OMEPRAZOLE CAP. 20 MG",
     "tradeNames": [],
@@ -6304,7 +6304,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0574": {
     "id": "drug-0574",
     "genericName": "OMEPRAZOLE INJ. 40 MG",
     "tradeNames": [],
@@ -6315,7 +6315,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0575": {
     "id": "drug-0575",
     "genericName": "ONDANSETRON INJ. 8 MG",
     "tradeNames": [],
@@ -6326,7 +6326,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0576": {
     "id": "drug-0576",
     "genericName": "ONDANSETRON TAB. 8 MG",
     "tradeNames": [],
@@ -6337,7 +6337,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0577": {
     "id": "drug-0577",
     "genericName": "ORAL REHYDRATION SALTS (ORS) 3.3 G",
     "tradeNames": [],
@@ -6348,7 +6348,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0578": {
     "id": "drug-0578",
     "genericName": "ORAL REHYDRATION SALTS (ORS) 5.5 G",
     "tradeNames": [],
@@ -6359,7 +6359,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0579": {
     "id": "drug-0579",
     "genericName": "OSELTAMIVIR PHOSPHATE CAP.75 MG",
     "tradeNames": [],
@@ -6370,7 +6370,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0580": {
     "id": "drug-0580",
     "genericName": "OXALIPLATIN INJ. 100 MG/20 ML",
     "tradeNames": [],
@@ -6381,7 +6381,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0581": {
     "id": "drug-0581",
     "genericName": "OXALIPLATIN INJ. 50 MG/25 ML",
     "tradeNames": [],
@@ -6392,7 +6392,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0582": {
     "id": "drug-0582",
     "genericName": "OXYBUTYNIN TAB. 5 MG",
     "tradeNames": [],
@@ -6403,7 +6403,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0583": {
     "id": "drug-0583",
     "genericName": "OXYMETHOLONE TAB. 50 MG",
     "tradeNames": [],
@@ -6414,7 +6414,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0584": {
     "id": "drug-0584",
     "genericName": "OXYTETRACYCLINE OPHTHALMIC OINT.",
     "tradeNames": [],
@@ -6425,7 +6425,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0585": {
     "id": "drug-0585",
     "genericName": "OXYTOCIN INJ. 10 IU",
     "tradeNames": [],
@@ -6436,7 +6436,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0586": {
     "id": "drug-0586",
     "genericName": "P.G.S INJ. 5,000,000 U",
     "tradeNames": [],
@@ -6447,7 +6447,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0587": {
     "id": "drug-0587",
     "genericName": "PACLITAXEL INJ. 300 MG/50 ML",
     "tradeNames": [],
@@ -6458,7 +6458,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0588": {
     "id": "drug-0588",
     "genericName": "PALIPERIDONE PALMITATE 156 MG eq.to PALIPERIDONE INJ. 100 MG",
     "tradeNames": [],
@@ -6469,7 +6469,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0589": {
     "id": "drug-0589",
     "genericName": "PANTOPRAZOL INJ 40 MG",
     "tradeNames": [],
@@ -6480,7 +6480,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0590": {
     "id": "drug-0590",
     "genericName": "PARACETAMOL 1000 MG/100 ML SOLUTION FOR INFUSION",
     "tradeNames": [],
@@ -6491,7 +6491,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0591": {
     "id": "drug-0591",
     "genericName": "PARACETAMOL SYRUP 120 mg/5 ml",
     "tradeNames": [],
@@ -6502,7 +6502,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0592": {
     "id": "drug-0592",
     "genericName": "PARACETAMOL TAB. 325 MG",
     "tradeNames": [],
@@ -6513,7 +6513,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0593": {
     "id": "drug-0593",
     "genericName": "PARACETAMOL TAB. 325 MG",
     "tradeNames": [],
@@ -6524,7 +6524,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0594": {
     "id": "drug-0594",
     "genericName": "PARACETAMOL TAB. 500 MG",
     "tradeNames": [],
@@ -6535,7 +6535,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0595": {
     "id": "drug-0595",
     "genericName": "PARACETAMOL TAB. 500 MG",
     "tradeNames": [],
@@ -6546,7 +6546,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0596": {
     "id": "drug-0596",
     "genericName": "PARECOXIB SODIUM INJ. 40 MG",
     "tradeNames": [],
@@ -6557,7 +6557,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0597": {
     "id": "drug-0597",
     "genericName": "PENICILLIN V TAB. 250 MG",
     "tradeNames": [],
@@ -6568,7 +6568,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0598": {
     "id": "drug-0598",
     "genericName": "PERPHENAZINE TAB. 16 MG",
     "tradeNames": [],
@@ -6579,7 +6579,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0599": {
     "id": "drug-0599",
     "genericName": "PERPHENAZINE TAB. 8 MG",
     "tradeNames": [],
@@ -6590,7 +6590,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0600": {
     "id": "drug-0600",
     "genericName": "PETHIDINE INJ. 50 MG",
     "tradeNames": [],
@@ -6601,7 +6601,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0601": {
     "id": "drug-0601",
     "genericName": "PETHIDINE INJ. 50 MG",
     "tradeNames": [],
@@ -6612,7 +6612,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0602": {
     "id": "drug-0602",
     "genericName": "PHENOBARBITAL INJ. 200 MG/ML , 1 ML",
     "tradeNames": [],
@@ -6623,7 +6623,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0603": {
     "id": "drug-0603",
     "genericName": "PHENOBARBITAL INJ. 200 MG/ML , 1 ML",
     "tradeNames": [],
@@ -6634,7 +6634,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0604": {
     "id": "drug-0604",
     "genericName": "PHENOBARBITAL INJ. 200 MG/ML , 1 ML",
     "tradeNames": [],
@@ -6645,7 +6645,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0605": {
     "id": "drug-0605",
     "genericName": "PHENOBARBITONE TAB. 60 MG",
     "tradeNames": [],
@@ -6656,7 +6656,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0606": {
     "id": "drug-0606",
     "genericName": "PHENYLEPHRINE EYE DROPS",
     "tradeNames": [],
@@ -6667,7 +6667,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0607": {
     "id": "drug-0607",
     "genericName": "PHENYTOIN INFA TAB. 50 MG",
     "tradeNames": [],
@@ -6678,7 +6678,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0608": {
     "id": "drug-0608",
     "genericName": "PHENYTOIN SODIUM CAP. 100 MG",
     "tradeNames": [],
@@ -6689,7 +6689,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0609": {
     "id": "drug-0609",
     "genericName": "PHENYTOIN SODIUM INJ. 50 MG/ML 5 ML",
     "tradeNames": [],
@@ -6700,7 +6700,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0610": {
     "id": "drug-0610",
     "genericName": "PHENYTOIN SODIUM INJ. 50 MG/ML 5 ML",
     "tradeNames": [],
@@ -6711,7 +6711,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0611": {
     "id": "drug-0611",
     "genericName": "PILOCARPINE EYE DROPS 2%",
     "tradeNames": [],
@@ -6722,7 +6722,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0612": {
     "id": "drug-0612",
     "genericName": "PIOGLITAZONE HYDROCHLORIDE TAB. 15 MG",
     "tradeNames": [],
@@ -6733,7 +6733,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0613": {
     "id": "drug-0613",
     "genericName": "PIPERACILLIN 4 G. + TAZOBACTAM 0.5 MG INJ.",
     "tradeNames": [],
@@ -6744,7 +6744,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0614": {
     "id": "drug-0614",
     "genericName": "PITAVASTATIN TAB. 4 MG",
     "tradeNames": [],
@@ -6755,7 +6755,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0615": {
     "id": "drug-0615",
     "genericName": "PODOPHYLLIN PAINT",
     "tradeNames": [],
@@ -6766,7 +6766,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0616": {
     "id": "drug-0616",
     "genericName": "POLYMYXIN B + NEOMYCIN +GRAMICIDIN EYE DROPS 5 ML.",
     "tradeNames": [],
@@ -6777,7 +6777,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0617": {
     "id": "drug-0617",
     "genericName": "PORACTANT ALFA Sterile intratracheal SUSP. 80 MG/ML , 1.5 ML",
     "tradeNames": [],
@@ -6788,7 +6788,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0618": {
     "id": "drug-0618",
     "genericName": "POTASSIUM CHLORIDE INJ. 10 ML",
     "tradeNames": [],
@@ -6799,7 +6799,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0619": {
     "id": "drug-0619",
     "genericName": "POTASSIUM CHLORIDE TAB. 500 MG",
     "tradeNames": [],
@@ -6810,7 +6810,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0620": {
     "id": "drug-0620",
     "genericName": "POTASSIUM CITRATE AND SODIUM CITRATE TAB.",
     "tradeNames": [],
@@ -6821,7 +6821,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0621": {
     "id": "drug-0621",
     "genericName": "POVIDONE IODINE SCRUB",
     "tradeNames": [],
@@ -6832,7 +6832,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0622": {
     "id": "drug-0622",
     "genericName": "POVIDONE IODINE SOLUTION 450 ML",
     "tradeNames": [],
@@ -6843,7 +6843,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0623": {
     "id": "drug-0623",
     "genericName": "PRALIDOXIME INJ. 1 G.",
     "tradeNames": [],
@@ -6854,7 +6854,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0624": {
     "id": "drug-0624",
     "genericName": "PRAMIPEXOLE diHCl TAB. 0.25 MG.",
     "tradeNames": [],
@@ -6865,7 +6865,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0625": {
     "id": "drug-0625",
     "genericName": "PRAZIQUANTEL TAB. 600 MG",
     "tradeNames": [],
@@ -6876,7 +6876,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0626": {
     "id": "drug-0626",
     "genericName": "PREDNISOLONE EYE DROPS",
     "tradeNames": [],
@@ -6887,7 +6887,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0627": {
     "id": "drug-0627",
     "genericName": "PREDNISOLONE TAB. 5 MG",
     "tradeNames": [],
@@ -6898,7 +6898,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0628": {
     "id": "drug-0628",
     "genericName": "PREDNISOLONE TAB. 5 MG",
     "tradeNames": [],
@@ -6909,7 +6909,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0629": {
     "id": "drug-0629",
     "genericName": "PREGABALIN CAP. 75 MG",
     "tradeNames": [],
@@ -6920,7 +6920,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0630": {
     "id": "drug-0630",
     "genericName": "PRETOMANID 200 MG",
     "tradeNames": [],
@@ -6931,7 +6931,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0631": {
     "id": "drug-0631",
     "genericName": "PRIMAQUINE TAB. 15 MG",
     "tradeNames": [],
@@ -6942,7 +6942,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0632": {
     "id": "drug-0632",
     "genericName": "PROPAFENONE HCl TAB. 150 MG.",
     "tradeNames": [],
@@ -6953,7 +6953,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0633": {
     "id": "drug-0633",
     "genericName": "PROPOFOL 1% (10 MG/ML) 20 ML",
     "tradeNames": [],
@@ -6964,7 +6964,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0634": {
     "id": "drug-0634",
     "genericName": "PROPRANOLOL TAB. 10 MG",
     "tradeNames": [],
@@ -6975,7 +6975,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0635": {
     "id": "drug-0635",
     "genericName": "PROPRANOLOL TAB. 10 MG",
     "tradeNames": [],
@@ -6986,7 +6986,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0636": {
     "id": "drug-0636",
     "genericName": "PROPRANOLOL TAB. 10 MG",
     "tradeNames": [],
@@ -6997,7 +6997,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0637": {
     "id": "drug-0637",
     "genericName": "PROPYLTHIOURACIL TAB. 50 MG",
     "tradeNames": [],
@@ -7008,7 +7008,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0638": {
     "id": "drug-0638",
     "genericName": "PROTAMINE SULFATE",
     "tradeNames": [],
@@ -7019,7 +7019,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0639": {
     "id": "drug-0639",
     "genericName": "PROTHIONAMIDE TAB. 250 MG",
     "tradeNames": [],
@@ -7030,7 +7030,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0640": {
     "id": "drug-0640",
     "genericName": "PROTHROMBIN COMPLEX CONCENTATION",
     "tradeNames": [],
@@ -7041,7 +7041,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0641": {
     "id": "drug-0641",
     "genericName": "PSEUDOEPHEDRINE HCL TAB. 30 MG",
     "tradeNames": [],
@@ -7052,7 +7052,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0642": {
     "id": "drug-0642",
     "genericName": "PYRAZINAMIDE TAB. 500 MG",
     "tradeNames": [],
@@ -7063,7 +7063,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0643": {
     "id": "drug-0643",
     "genericName": "PYRIDOSTIGMINE BROMIDE TAB. 60 MG.",
     "tradeNames": [],
@@ -7074,7 +7074,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0644": {
     "id": "drug-0644",
     "genericName": "PYRIMETHAMINE TAB.",
     "tradeNames": [],
@@ -7085,7 +7085,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0645": {
     "id": "drug-0645",
     "genericName": "QUETIAPINE 25 MG TAB.",
     "tradeNames": [],
@@ -7096,7 +7096,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0646": {
     "id": "drug-0646",
     "genericName": "QUETIAPINE FUMARATE 200 MG TAB.",
     "tradeNames": [],
@@ -7107,7 +7107,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0647": {
     "id": "drug-0647",
     "genericName": "QUININE DIHYDROCHLORIDE INJ.600 MG/2ML",
     "tradeNames": [],
@@ -7118,7 +7118,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0648": {
     "id": "drug-0648",
     "genericName": "QUININE TAB. 300 MG",
     "tradeNames": [],
@@ -7129,7 +7129,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0649": {
     "id": "drug-0649",
     "genericName": "RABEPRAZOLE TAB. 20 MG",
     "tradeNames": [],
@@ -7140,7 +7140,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0650": {
     "id": "drug-0650",
     "genericName": "RABIES IMMUNOGLOBULIN,HUMAN INJ.",
     "tradeNames": [],
@@ -7151,7 +7151,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0651": {
     "id": "drug-0651",
     "genericName": "RABIES IMMUNOGLOBULIN,PURIFIED EQUINE ANTIRABIES SERUM INJ. 400 IU/2 ML",
     "tradeNames": [],
@@ -7162,7 +7162,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0652": {
     "id": "drug-0652",
     "genericName": "RABIES VACCINE INJ",
     "tradeNames": [],
@@ -7173,7 +7173,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0653": {
     "id": "drug-0653",
     "genericName": "RALTEGAVIR TAB. 400 MG",
     "tradeNames": [],
@@ -7184,7 +7184,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0654": {
     "id": "drug-0654",
     "genericName": "REBAMIPIDE TAB. 100 MG",
     "tradeNames": [],
@@ -7195,7 +7195,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0655": {
     "id": "drug-0655",
     "genericName": "RECOMBINANT ANTIHEMOPHILIC COAGULATION FACTOR VIII INJ. 500 IU",
     "tradeNames": [],
@@ -7206,7 +7206,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0656": {
     "id": "drug-0656",
     "genericName": "REMDESIVIR 100 MG INJ",
     "tradeNames": [],
@@ -7217,7 +7217,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0657": {
     "id": "drug-0657",
     "genericName": "RIBAVIRIN CAP. 200 MG",
     "tradeNames": [],
@@ -7228,7 +7228,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0658": {
     "id": "drug-0658",
     "genericName": "RIFAMPICIN CAP. 300 MG",
     "tradeNames": [],
@@ -7239,7 +7239,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0659": {
     "id": "drug-0659",
     "genericName": "RIFAMPICIN CAP. 450 MG",
     "tradeNames": [],
@@ -7250,7 +7250,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0660": {
     "id": "drug-0660",
     "genericName": "RILPIVIRINE TAB. 25 MG",
     "tradeNames": [],
@@ -7261,7 +7261,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0661": {
     "id": "drug-0661",
     "genericName": "RISPERIDONE ORAL SOLUTION 1 MG/ML 30 ML",
     "tradeNames": [],
@@ -7272,7 +7272,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0662": {
     "id": "drug-0662",
     "genericName": "RISPERIDONE TAB. 1 MG",
     "tradeNames": [],
@@ -7283,7 +7283,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0663": {
     "id": "drug-0663",
     "genericName": "RISPERIDONE TAB. 2 MG",
     "tradeNames": [],
@@ -7294,7 +7294,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0664": {
     "id": "drug-0664",
     "genericName": "RITONAVIR CAP.100 MG",
     "tradeNames": [],
@@ -7305,7 +7305,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0665": {
     "id": "drug-0665",
     "genericName": "RITUXIMAP INJ. 500 MG",
     "tradeNames": [],
@@ -7316,7 +7316,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0666": {
     "id": "drug-0666",
     "genericName": "RIVAROXABAN TAB. 20 MG",
     "tradeNames": [],
@@ -7327,7 +7327,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0667": {
     "id": "drug-0667",
     "genericName": "ROPINIROLE TAB. 2 MG",
     "tradeNames": [],
@@ -7338,7 +7338,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0668": {
     "id": "drug-0668",
     "genericName": "ROTIGOTINE TRANSDERMAL PATCH 4 MG/24 HR",
     "tradeNames": [],
@@ -7349,7 +7349,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0669": {
     "id": "drug-0669",
     "genericName": "ROXITHROMYCIN TAB. 150 MG",
     "tradeNames": [],
@@ -7360,7 +7360,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0670": {
     "id": "drug-0670",
     "genericName": "SACUBITRIL VALSARTAN SODIUM SALT COMPLEX TAB. 100 MG.",
     "tradeNames": [],
@@ -7371,7 +7371,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0671": {
     "id": "drug-0671",
     "genericName": "SALBUTAMOL 0.1% NEBULES",
     "tradeNames": [],
@@ -7382,7 +7382,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0672": {
     "id": "drug-0672",
     "genericName": "SALBUTAMOL 1 MG+GUAIFENESIN 50 MG IN 5 ML SYR.",
     "tradeNames": [],
@@ -7393,7 +7393,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0673": {
     "id": "drug-0673",
     "genericName": "SALBUTAMOL 1 MG+GUAIFENESIN 50 MG IN 5 ML SYR.",
     "tradeNames": [],
@@ -7404,7 +7404,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0674": {
     "id": "drug-0674",
     "genericName": "SALBUTAMOL INHALER",
     "tradeNames": [],
@@ -7415,7 +7415,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0675": {
     "id": "drug-0675",
     "genericName": "SALBUTAMOL RES. SOLN. 0.5% 20 ML",
     "tradeNames": [],
@@ -7426,7 +7426,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0676": {
     "id": "drug-0676",
     "genericName": "SALBUTAMOL SYRUP",
     "tradeNames": [],
@@ -7437,7 +7437,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0677": {
     "id": "drug-0677",
     "genericName": "SALBUTAMOL TAB. 2 MG",
     "tradeNames": [],
@@ -7448,7 +7448,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0678": {
     "id": "drug-0678",
     "genericName": "SALMETEROL 25 MCG+FLUTICASONE PROPIONATE 125 MCG",
     "tradeNames": [],
@@ -7459,7 +7459,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0679": {
     "id": "drug-0679",
     "genericName": "SALMETEROL 50 MCG+FLUTICASONE PROPIONATE 500 MCG",
     "tradeNames": [],
@@ -7470,7 +7470,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0680": {
     "id": "drug-0680",
     "genericName": "SEMAGLUTIDE 7 MG TAB.",
     "tradeNames": [],
@@ -7481,7 +7481,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0681": {
     "id": "drug-0681",
     "genericName": "SERTRALINE TAB. 50 MG",
     "tradeNames": [],
@@ -7492,7 +7492,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0682": {
     "id": "drug-0682",
     "genericName": "SEVOFLURANE 250 ML",
     "tradeNames": [],
@@ -7503,7 +7503,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0683": {
     "id": "drug-0683",
     "genericName": "SILDENAFIL 20 MG TAB.",
     "tradeNames": [],
@@ -7514,7 +7514,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0684": {
     "id": "drug-0684",
     "genericName": "SILODOSIN TAB. 4 MG",
     "tradeNames": [],
@@ -7525,7 +7525,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0685": {
     "id": "drug-0685",
     "genericName": "SILVER SULFADIAZINE CREAM 1 % 25 G..",
     "tradeNames": [],
@@ -7536,7 +7536,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0686": {
     "id": "drug-0686",
     "genericName": "SIMETHICONE DROPS 40 MG./0.6 ML.",
     "tradeNames": [],
@@ -7547,7 +7547,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0687": {
     "id": "drug-0687",
     "genericName": "SIMETHICONE TAB. 80 MG.",
     "tradeNames": [],
@@ -7558,7 +7558,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0688": {
     "id": "drug-0688",
     "genericName": "SIMVASTATIN TAB. 10 MG",
     "tradeNames": [],
@@ -7569,7 +7569,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0689": {
     "id": "drug-0689",
     "genericName": "SIMVASTATIN TAB. 20 MG",
     "tradeNames": [],
@@ -7580,7 +7580,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0690": {
     "id": "drug-0690",
     "genericName": "Sodium alginate 500 mg , Sodium bicarbonate 213 mg, Calcium carbonate 325 mg/10 ml, SUSPENSIONS 150 ML.",
     "tradeNames": [],
@@ -7591,7 +7591,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0691": {
     "id": "drug-0691",
     "genericName": "SODIUM BICARBONATE INJ. 50 ML",
     "tradeNames": [],
@@ -7602,7 +7602,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0692": {
     "id": "drug-0692",
     "genericName": "SODIUM BICARBONATE INJ. 50 ML",
     "tradeNames": [],
@@ -7613,7 +7613,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0693": {
     "id": "drug-0693",
     "genericName": "SODIUM BICARBONATE INJ. 50 ML.",
     "tradeNames": [],
@@ -7624,7 +7624,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0694": {
     "id": "drug-0694",
     "genericName": "SODIUM BICARBONATE TAB",
     "tradeNames": [],
@@ -7635,7 +7635,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0695": {
     "id": "drug-0695",
     "genericName": "SODIUM CHLORIDE 0.99 g/ 1 g.",
     "tradeNames": [],
@@ -7646,7 +7646,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0696": {
     "id": "drug-0696",
     "genericName": "SODIUM CHLORIDE INJ. 3% 500 ML.",
     "tradeNames": [],
@@ -7657,7 +7657,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0697": {
     "id": "drug-0697",
     "genericName": "SODIUM CHLORIDE TAB. 300 MG",
     "tradeNames": [],
@@ -7668,7 +7668,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0698": {
     "id": "drug-0698",
     "genericName": "SODIUM GLYCEROPHOSPHATE INJ. 216 MG/1ML, 20 ML",
     "tradeNames": [],
@@ -7679,7 +7679,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0699": {
     "id": "drug-0699",
     "genericName": "SODIUM HYALURONATE EYE DROPS 0.18% MULTI 10 ML",
     "tradeNames": [],
@@ -7690,7 +7690,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0700": {
     "id": "drug-0700",
     "genericName": "SODIUM HYALURONATE EYE DROPS 0.3% SINGLE DOSE 0.4 ML",
     "tradeNames": [],
@@ -7701,7 +7701,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0701": {
     "id": "drug-0701",
     "genericName": "SODIUM NITRITE 3% INJ. 10 ML",
     "tradeNames": [],
@@ -7712,7 +7712,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0702": {
     "id": "drug-0702",
     "genericName": "SODIUM PHOSPHATE ENEMA 133 ML",
     "tradeNames": [],
@@ -7723,7 +7723,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0703": {
     "id": "drug-0703",
     "genericName": "SODIUM THIOSULFATE 25% INJ. 18 ML",
     "tradeNames": [],
@@ -7734,7 +7734,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0704": {
     "id": "drug-0704",
     "genericName": "SODIUM VALPROATE 200 MG/ML SOLUTION",
     "tradeNames": [],
@@ -7745,7 +7745,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0705": {
     "id": "drug-0705",
     "genericName": "SODIUM VALPROATE INJ. 400 MG",
     "tradeNames": [],
@@ -7756,7 +7756,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0706": {
     "id": "drug-0706",
     "genericName": "SODIUM VALPROATE SOLUTION 200 MG/ML",
     "tradeNames": [],
@@ -7767,7 +7767,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0707": {
     "id": "drug-0707",
     "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
     "tradeNames": [],
@@ -7778,7 +7778,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0708": {
     "id": "drug-0708",
     "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
     "tradeNames": [],
@@ -7789,7 +7789,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0709": {
     "id": "drug-0709",
     "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
     "tradeNames": [],
@@ -7800,7 +7800,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0710": {
     "id": "drug-0710",
     "genericName": "SODIUM VALPROATE SR TAB. 500 MG",
     "tradeNames": [],
@@ -7811,7 +7811,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0711": {
     "id": "drug-0711",
     "genericName": "SODIUM VALPROATE SR TAB. 500 MG",
     "tradeNames": [],
@@ -7822,7 +7822,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0712": {
     "id": "drug-0712",
     "genericName": "SODIUM VALPROATE SR TAB. 500 MG.",
     "tradeNames": [],
@@ -7833,7 +7833,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0713": {
     "id": "drug-0713",
     "genericName": "SOFOSBUVIR 400 MG+VELPATASVIR 100 MG TAB.",
     "tradeNames": [],
@@ -7844,7 +7844,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0714": {
     "id": "drug-0714",
     "genericName": "SPIRONOLACTONE TAB. 25 MG",
     "tradeNames": [],
@@ -7855,7 +7855,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0715": {
     "id": "drug-0715",
     "genericName": "STERILE WATER FOR INJ. 10 ML.",
     "tradeNames": [],
@@ -7866,7 +7866,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0716": {
     "id": "drug-0716",
     "genericName": "STERILE WATER FOR INJ. 1000 ML.",
     "tradeNames": [],
@@ -7877,7 +7877,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0717": {
     "id": "drug-0717",
     "genericName": "STERILE WATER FOR IRREGATION 1000 ML",
     "tradeNames": [],
@@ -7888,7 +7888,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0718": {
     "id": "drug-0718",
     "genericName": "STREPTOKINASE INJ. 1.5 MU",
     "tradeNames": [],
@@ -7899,7 +7899,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0719": {
     "id": "drug-0719",
     "genericName": "SUCRALFATE ORAL SUSPENSIONS. 1 G./5 ML. 240 ML",
     "tradeNames": [],
@@ -7910,7 +7910,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0720": {
     "id": "drug-0720",
     "genericName": "SULBACTAM 2 G.",
     "tradeNames": [],
@@ -7921,7 +7921,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0721": {
     "id": "drug-0721",
     "genericName": "SULFAMETHOXAZOLE 200 MG+ TRIMETHOPRIM 40 MG SUSP.",
     "tradeNames": [],
@@ -7932,7 +7932,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0722": {
     "id": "drug-0722",
     "genericName": "SULFAMETHOXAZOLE 400 MG+ TRIMETHOPRIM 80 MG INJ.",
     "tradeNames": [],
@@ -7943,7 +7943,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0723": {
     "id": "drug-0723",
     "genericName": "SULFAMETHOXAZOLE 400 MG+ TRIMETHOPRIM 80 MG TAB.",
     "tradeNames": [],
@@ -7954,7 +7954,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0724": {
     "id": "drug-0724",
     "genericName": "SULFASALAZINE TAB. 500 MG",
     "tradeNames": [],
@@ -7965,7 +7965,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0725": {
     "id": "drug-0725",
     "genericName": "SULFASALAZINE TAB.500 MG",
     "tradeNames": [],
@@ -7976,7 +7976,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0726": {
     "id": "drug-0726",
     "genericName": "SULPROSTONE INJ. 500 MCG",
     "tradeNames": [],
@@ -7987,7 +7987,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0727": {
     "id": "drug-0727",
     "genericName": "SUXAMETHONIUM CHLORIDE INJ. 500 MG",
     "tradeNames": [],
@@ -7998,7 +7998,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0728": {
     "id": "drug-0728",
     "genericName": "T.A. CREAM 0.02% 5 G..",
     "tradeNames": [],
@@ -8009,7 +8009,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0729": {
     "id": "drug-0729",
     "genericName": "T.A. CREAM 0.1% 5 G..",
     "tradeNames": [],
@@ -8020,7 +8020,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0730": {
     "id": "drug-0730",
     "genericName": "T.A. LOTION 30 ML.",
     "tradeNames": [],
@@ -8031,7 +8031,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0731": {
     "id": "drug-0731",
     "genericName": "TAFLUPROST 0.0015%+TIMOLOL 0.5% EYE DROPS 0.3 ML",
     "tradeNames": [],
@@ -8042,7 +8042,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0732": {
     "id": "drug-0732",
     "genericName": "TAMOXIFEN TAB. 20 MG",
     "tradeNames": [],
@@ -8053,7 +8053,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0733": {
     "id": "drug-0733",
     "genericName": "TDAP 0.5 ML/1SYRING VAC.",
     "tradeNames": [],
@@ -8064,7 +8064,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0734": {
     "id": "drug-0734",
     "genericName": "TEBONIN TAB. 120 MG",
     "tradeNames": [],
@@ -8075,7 +8075,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0735": {
     "id": "drug-0735",
     "genericName": "TENECTEPLASE INJ. 40 MG",
     "tradeNames": [],
@@ -8086,7 +8086,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0736": {
     "id": "drug-0736",
     "genericName": "TENOFOVIR 300 MG+EMTRICITABINE 200 MGTAB.",
     "tradeNames": [],
@@ -8097,7 +8097,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0737": {
     "id": "drug-0737",
     "genericName": "TENOFOVIR ALAFENAMIDE 25 MG",
     "tradeNames": [],
@@ -8108,7 +8108,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0738": {
     "id": "drug-0738",
     "genericName": "TENOFOVIR ALAFENAMIDE25 +EMTRICITABINE200+DOLUTEGRAVIR50 (TDF+FTC+DTG)",
     "tradeNames": [],
@@ -8119,7 +8119,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0739": {
     "id": "drug-0739",
     "genericName": "TENOFOVIR DISO FUMARATE TAB.",
     "tradeNames": [],
@@ -8130,7 +8130,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0740": {
     "id": "drug-0740",
     "genericName": "TENOFOVIR DISO FUMARATE TAB.",
     "tradeNames": [],
@@ -8141,7 +8141,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0741": {
     "id": "drug-0741",
     "genericName": "TENOFOVIR TAB. 300 MG",
     "tradeNames": [],
@@ -8152,7 +8152,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0742": {
     "id": "drug-0742",
     "genericName": "TENOFOVIR TAB+LAMIVUDINE+DOLUTEGRAVIR",
     "tradeNames": [],
@@ -8163,7 +8163,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0743": {
     "id": "drug-0743",
     "genericName": "TENOFOVIR+EMTRICITABINE+EFAVIRENZ",
     "tradeNames": [],
@@ -8174,7 +8174,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0744": {
     "id": "drug-0744",
     "genericName": "TERBUTALINE INJ. 0.5 MG",
     "tradeNames": [],
@@ -8185,7 +8185,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0745": {
     "id": "drug-0745",
     "genericName": "TERBUTALINE INJ. 0.5 MG",
     "tradeNames": [],
@@ -8196,7 +8196,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0746": {
     "id": "drug-0746",
     "genericName": "TERIPARATIDE(r-human parathyroid hormone), Prefilled Disposable pen)",
     "tradeNames": [],
@@ -8207,7 +8207,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0747": {
     "id": "drug-0747",
     "genericName": "TETANUS IMMUNOGLOBULIN ,HUMAN INJ. 250 U/ML",
     "tradeNames": [],
@@ -8218,7 +8218,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0748": {
     "id": "drug-0748",
     "genericName": "TETRACAINE EYE DROPS 0.5% 15 ML.",
     "tradeNames": [],
@@ -8229,7 +8229,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0749": {
     "id": "drug-0749",
     "genericName": "THEOPHYLLINE SR TAB. 200 MG",
     "tradeNames": [],
@@ -8240,7 +8240,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0750": {
     "id": "drug-0750",
     "genericName": "THIOPENTONE SODIUM INJ. 1 G.",
     "tradeNames": [],
@@ -8251,7 +8251,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0751": {
     "id": "drug-0751",
     "genericName": "TICAGRELOR TAB. 90 MG",
     "tradeNames": [],
@@ -8262,7 +8262,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0752": {
     "id": "drug-0752",
     "genericName": "TIMOLOL EYE DROPS 0.5 % ,5 ML.",
     "tradeNames": [],
@@ -8273,7 +8273,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0753": {
     "id": "drug-0753",
     "genericName": "TINCTURE MERTHIOLATE",
     "tradeNames": [],
@@ -8284,7 +8284,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0754": {
     "id": "drug-0754",
     "genericName": "TIOTROPIUM BROMIDE 18 MCG POWDER INHALATION",
     "tradeNames": [],
@@ -8295,7 +8295,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0755": {
     "id": "drug-0755",
     "genericName": "TIOTROPIUM BROMIDE 2.5 MCG+OLODATEROL HCL 2.5 MCG",
     "tradeNames": [],
@@ -8306,7 +8306,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0756": {
     "id": "drug-0756",
     "genericName": "TOLPERISONE HCL TAB. 50 MG",
     "tradeNames": [],
@@ -8317,7 +8317,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0757": {
     "id": "drug-0757",
     "genericName": "TOLVAPTAN 15 MG TAB",
     "tradeNames": [],
@@ -8328,7 +8328,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0758": {
     "id": "drug-0758",
     "genericName": "TOPIRAMATE TAB. 50 MG",
     "tradeNames": [],
@@ -8339,7 +8339,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0759": {
     "id": "drug-0759",
     "genericName": "TOPIRAMATE TAB. 50 MG",
     "tradeNames": [],
@@ -8350,7 +8350,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0760": {
     "id": "drug-0760",
     "genericName": "TRAMADOL CAP. 50 MG",
     "tradeNames": [],
@@ -8361,7 +8361,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0761": {
     "id": "drug-0761",
     "genericName": "TRAMADOL INJ. 100 MG",
     "tradeNames": [],
@@ -8372,7 +8372,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0762": {
     "id": "drug-0762",
     "genericName": "TRANEXAMIC ACID CAP. 250 MG",
     "tradeNames": [],
@@ -8383,7 +8383,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0763": {
     "id": "drug-0763",
     "genericName": "TRANEXAMIC ACID INJ. 250 MG",
     "tradeNames": [],
@@ -8394,7 +8394,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0764": {
     "id": "drug-0764",
     "genericName": "TRAZODONE TAB. 100 MG",
     "tradeNames": [],
@@ -8405,7 +8405,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0765": {
     "id": "drug-0765",
     "genericName": "TRAZODONE TAB. 50 MG",
     "tradeNames": [],
@@ -8416,7 +8416,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0766": {
     "id": "drug-0766",
     "genericName": "TRIAMCINOLONE ACETONIDE INJ. 10 MG/1 ML",
     "tradeNames": [],
@@ -8427,7 +8427,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0767": {
     "id": "drug-0767",
     "genericName": "TRIAMCINOLONE ACETONIDE INJ. 40 MG/1 ML",
     "tradeNames": [],
@@ -8438,7 +8438,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0768": {
     "id": "drug-0768",
     "genericName": "TRIAMCINOLONE ORAL PASTE",
     "tradeNames": [],
@@ -8449,7 +8449,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0769": {
     "id": "drug-0769",
     "genericName": "TRIFERDINE",
     "tradeNames": [],
@@ -8460,7 +8460,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0770": {
     "id": "drug-0770",
     "genericName": "TRIHEXYPHENIDYL TAB. 2 MG",
     "tradeNames": [],
@@ -8471,7 +8471,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0771": {
     "id": "drug-0771",
     "genericName": "TRIHEXYPHENIDYL TAB. 5 MG",
     "tradeNames": [],
@@ -8482,7 +8482,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0772": {
     "id": "drug-0772",
     "genericName": "TRIPTORELIN PAMOATE 11.25 MG.",
     "tradeNames": [],
@@ -8493,7 +8493,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0773": {
     "id": "drug-0773",
     "genericName": "TRIPTORELIN PAMOATE 11.25 MG.",
     "tradeNames": [],
@@ -8504,7 +8504,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0774": {
     "id": "drug-0774",
     "genericName": "TROPICAMIDE EYE DROPS 1 % 15 ML.",
     "tradeNames": [],
@@ -8515,7 +8515,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0775": {
     "id": "drug-0775",
     "genericName": "TROSPIUM CHLORIDE TAB. 20 MG",
     "tradeNames": [],
@@ -8526,7 +8526,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0776": {
     "id": "drug-0776",
     "genericName": "TUBERCULIN PURIFIED PROTEIN DERIVATIVE (TUBERCULIN PPD)",
     "tradeNames": [],
@@ -8537,7 +8537,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0777": {
     "id": "drug-0777",
     "genericName": "UMECLIDINIUM 62.5 MCG/VILANTEROL 25 MCG pre-dispensed (inhalation powder)",
     "tradeNames": [],
@@ -8548,7 +8548,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0778": {
     "id": "drug-0778",
     "genericName": "UREA CREAM 10% , 150 G.",
     "tradeNames": [],
@@ -8559,7 +8559,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0779": {
     "id": "drug-0779",
     "genericName": "UREA CREAM 20% , 35 G.",
     "tradeNames": [],
@@ -8570,7 +8570,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0780": {
     "id": "drug-0780",
     "genericName": "URSODEOXYCHOLIC ACID (URSODIOL) CAP. 250 MG",
     "tradeNames": [],
@@ -8581,7 +8581,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0781": {
     "id": "drug-0781",
     "genericName": "VANCOMYCIN CAP. 125 MG",
     "tradeNames": [],
@@ -8592,7 +8592,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0782": {
     "id": "drug-0782",
     "genericName": "VANCOMYCIN INJ. 500 MG",
     "tradeNames": [],
@@ -8603,7 +8603,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0783": {
     "id": "drug-0783",
     "genericName": "VENLAFAXINE HCl 37.5 MG EXTENTED RELEASE HARD CAP.",
     "tradeNames": [],
@@ -8614,7 +8614,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0784": {
     "id": "drug-0784",
     "genericName": "VENLAFAXINE HCl CAP. 75 MG",
     "tradeNames": [],
@@ -8625,7 +8625,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0785": {
     "id": "drug-0785",
     "genericName": "VERAPAMIL SR TAB. 240 MG",
     "tradeNames": [],
@@ -8636,7 +8636,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0786": {
     "id": "drug-0786",
     "genericName": "VILDAGLIPTIN 50 MG TAB.",
     "tradeNames": [],
@@ -8647,7 +8647,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0787": {
     "id": "drug-0787",
     "genericName": "VINCRISTINE INJ 1 GM",
     "tradeNames": [],
@@ -8658,7 +8658,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0788": {
     "id": "drug-0788",
     "genericName": "VITAMIN B 1-6-12 TAB.",
     "tradeNames": [],
@@ -8669,7 +8669,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0789": {
     "id": "drug-0789",
     "genericName": "VITAMIN B COMPLEX TAB.",
     "tradeNames": [],
@@ -8680,7 +8680,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0790": {
     "id": "drug-0790",
     "genericName": "VITAMIN B1 INJ. 100 MG.",
     "tradeNames": [],
@@ -8691,7 +8691,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0791": {
     "id": "drug-0791",
     "genericName": "VITAMIN B6 TAB. 50 MG",
     "tradeNames": [],
@@ -8702,7 +8702,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0792": {
     "id": "drug-0792",
     "genericName": "VITAMIN D2 (ERGOCALCIFEROL) CAP. 20,000 IU",
     "tradeNames": [],
@@ -8713,7 +8713,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0793": {
     "id": "drug-0793",
     "genericName": "VITAMIN K1 INJ. 10 MG. IN 1 ML.",
     "tradeNames": [],
@@ -8724,7 +8724,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0794": {
     "id": "drug-0794",
     "genericName": "VITAMIN K1 INJ. 10 MG. IN 1 ML.",
     "tradeNames": [],
@@ -8735,7 +8735,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0795": {
     "id": "drug-0795",
     "genericName": "VITAMIN K1 PAEDRIATIC 1 MG./0.5 ML.",
     "tradeNames": [],
@@ -8746,7 +8746,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0796": {
     "id": "drug-0796",
     "genericName": "VORTIOXETINE TAB. 10 MG.",
     "tradeNames": [],
@@ -8757,7 +8757,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0797": {
     "id": "drug-0797",
     "genericName": "WARFARIN SODIUM TAB. 2 MG",
     "tradeNames": [],
@@ -8768,7 +8768,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0798": {
     "id": "drug-0798",
     "genericName": "WARFARIN SODIUM TAB. 3 MG",
     "tradeNames": [],
@@ -8779,7 +8779,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0799": {
     "id": "drug-0799",
     "genericName": "WARFARIN SODIUM TAB. 5 MG",
     "tradeNames": [],
@@ -8790,7 +8790,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0800": {
     "id": "drug-0800",
     "genericName": "ZIDOVUDINE 300 MG+LAMIVUDINE 150 MG TAB.",
     "tradeNames": [],
@@ -8801,7 +8801,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0801": {
     "id": "drug-0801",
     "genericName": "ZIDOVUDINE CAP.100 MG",
     "tradeNames": [],
@@ -8812,7 +8812,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0802": {
     "id": "drug-0802",
     "genericName": "ZIDOVUDINE CAP.300 MG",
     "tradeNames": [],
@@ -8823,7 +8823,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0803": {
     "id": "drug-0803",
     "genericName": "ZIDOVUDINE SYR. 10 MG/ML 60 ML",
     "tradeNames": [],
@@ -8834,7 +8834,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0804": {
     "id": "drug-0804",
     "genericName": "ZINC OXIDE 7.5% , 5 G ( 7.5 g./100 g.)",
     "tradeNames": [],
@@ -8845,7 +8845,7 @@
     "note": "",
     "keywords": []
   },
-  {
+  "drug-0805": {
     "id": "drug-0805",
     "genericName": "ZOLEDRONIC ACID 4MG/5ML INJ",
     "tradeNames": [],
@@ -8856,4 +8856,4 @@
     "note": "",
     "keywords": []
   }
-]
+}
