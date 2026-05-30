@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "klsh_drug_search": {
+      "drugs": {
+        ".read": true,
+        ".write": true,
+        "$drugId": {
+          ".validate": "newData.hasChildren(['genericName']) || !newData.exists()"
+        }
+      }
+    }
+  }
+}
