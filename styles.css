@@ -254,3 +254,96 @@ h1{font-size:66px}
   .modal-card{border-radius:24px}
   .site-watermark{font-size:10px;line-height:1.5;padding-inline:8px}
 }
+
+
+/* v8 professional refresh */
+.hero-logo{width:128px;height:128px;object-fit:contain;padding:0!important;background:transparent!important;border-radius:0!important;box-shadow:none!important;mix-blend-mode:multiply;filter:none}
+.hero-logo-row{align-items:center}
+.hero-logo-row strong{font-size:30px}
+.hero-logo-row small{opacity:.82}
+.results-head h2{font-size:24px}
+/* remove note visual spacing if any */
+.note{display:none}
+.field textarea[name="note"]{display:none}
+/* account color system */
+.badge.account{font-weight:600}
+.badge.account.account-a{background:#e8f7ec;color:#1c8f52}
+.badge.account.account-b{background:#f2f8e5;color:#5f8e1f}
+.badge.account.account-c{background:#fff7df;color:#b88910}
+.badge.account.account-d{background:#fff0dd;color:#d47a1f}
+.badge.account.account-j1{background:#ffe6d8;color:#d45b2f}
+.badge.account.account-j2{background:#ffe3e3;color:#cb3f3f}
+.badge.account.account-other{background:#f3f4f8;color:#6f7485}
+.filter-pill{border:1px solid var(--line);box-shadow:none;background:#fff}
+.filter-pill.is-active{color:#fff;border-color:transparent}
+.filter-pill.pill-a{color:#1c8f52;border-color:#cdebd7;background:#fbfffc}
+.filter-pill.pill-b{color:#5f8e1f;border-color:#dcebbf;background:#fbfef6}
+.filter-pill.pill-c{color:#b88910;border-color:#f7e4a6;background:#fffdf5}
+.filter-pill.pill-d{color:#d47a1f;border-color:#ffd7b6;background:#fffaf6}
+.filter-pill.pill-j1{color:#d45b2f;border-color:#ffcbb7;background:#fff8f5}
+.filter-pill.pill-j2{color:#cb3f3f;border-color:#ffc9c9;background:#fff8f8}
+.filter-pill.pill-a.is-active{background:#28a55f}
+.filter-pill.pill-b.is-active{background:#79a92e}
+.filter-pill.pill-c.is-active{background:#d4a625}
+.filter-pill.pill-d.is-active{background:#e08a33}
+.filter-pill.pill-j1.is-active{background:#e06a3f}
+.filter-pill.pill-j2.is-active{background:#d94c4c}
+.status-pill{border:1px solid var(--line);box-shadow:none}
+.status-pill.active{background:var(--dark);color:#fff;border-color:var(--dark)}
+.badge-admin{display:flex;align-items:center;justify-content:center;margin-inline:auto;min-width:220px;background:#6f7ed5!important;border-color:#6f7ed5!important;color:#fff!important}
+.header-right{display:flex;align-items:center;justify-content:flex-end;flex-wrap:wrap;gap:10px}
+.logout-minimal{border-color:#efc9cf;color:#c35f6d;background:#fff;box-shadow:none}
+.add-drug-btn,.edit-drug-btn{box-shadow:none}
+.table-wrap,.summary-card,.filter-group,.search-box,.site-nav{box-shadow:0 8px 18px rgba(90,100,145,.06)}
+.summary-card{border-radius:22px}
+/* professional mobile */
+@media (max-width:760px){
+  .site-header{gap:10px;padding:8px 2px 12px}
+  .site-nav{width:100%;justify-content:center;gap:8px;padding:6px;background:#fff;border:1px solid var(--line);border-radius:16px}
+  .site-nav a{padding:8px 12px;border-radius:12px;font-size:13px}
+  .site-nav a.is-active{background:var(--primary-soft)}
+  .site-nav a.is-active::after{display:none}
+  .header-left{display:none}
+  .header-right{justify-content:center;width:100%}
+  .header-right .outline-btn,.header-right .fill-btn{min-height:40px;font-size:13px;padding:0 14px}
+  .badge-admin{order:-1;width:100%;max-width:320px}
+}
+@media (max-width:560px){
+  .app-frame{width:calc(100% - 12px);margin:8px auto 14px}
+  .hero-card{padding:18px 16px;border-radius:22px;background:linear-gradient(135deg,#9aa9e1 0%, #8ea0df 100%)}
+  .hero-art{display:none}
+  .hero-logo{width:92px;height:92px}
+  .hero-logo-row{gap:10px;margin-bottom:8px}
+  .hero-logo-row strong{font-size:20px}
+  .hero-logo-row small{font-size:10px;letter-spacing:.08em}
+  h1{font-size:34px;line-height:1.08;margin:4px 0 8px}
+  .hero-copy p{font-size:14px;line-height:1.5}
+  .readmore-btn{margin-top:16px;font-size:15px}
+  .hero-dots{margin-top:16px}
+  .search-strip{position:sticky;top:6px;z-index:30;margin-top:12px}
+  .search-box{padding:12px 14px;border-radius:18px;background:rgba(255,255,255,.96)}
+  .search-box.large{width:100%}
+  .search-box input{font-size:16px}
+  .filter-toolbar{display:block;margin-top:12px}
+  .filter-group{padding:12px 10px;border-radius:18px;background:#fff;border:1px solid var(--line);margin-bottom:10px;box-shadow:none}
+  .account-pills,.status-pills{display:flex;flex-wrap:nowrap;overflow-x:auto;gap:8px;padding-bottom:2px;scrollbar-width:none}
+  .account-pills::-webkit-scrollbar,.status-pills::-webkit-scrollbar{display:none}
+  .filter-pill,.status-pill{flex:0 0 auto;min-width:76px;padding:10px 12px;border-radius:12px;font-size:13px}
+  .summary-grid{gap:8px;margin:12px 0 16px}
+  .summary-card{padding:14px 12px;border-radius:18px;box-shadow:none}
+  .summary-card strong{font-size:28px}
+  .results-head h2{font-size:20px}
+  .table-wrap{border-radius:20px;box-shadow:none}
+  .mobile-list{display:block}
+  .drug-card{padding:14px 12px}
+  .drug-card-top{display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+  .drug-card-badges{justify-content:flex-start;flex-wrap:wrap}
+  .drug-card-meta{margin-top:6px;color:#5f6575}
+  .card-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:12px}
+  .card-actions .mini-btn{width:100%;min-height:38px;border-radius:10px}
+  .auth-card,.picker-card,.modal-card.wide{width:min(calc(100vw - 16px),780px);max-width:calc(100vw - 16px);padding:22px 14px 16px}
+  .auth-title,.picker-title{font-size:26px}
+  .auth-sub{font-size:13px}
+  .auth-input{font-size:18px;padding:14px 16px}
+  .auth-submit{width:100%;max-width:none;border-radius:18px;padding:14px 16px}
+}

@@ -223,7 +223,6 @@ function renderRow(drug){
     <td><span class="strength">${escapeHtml(drug.strength || '-')}</span><span class="form">${escapeHtml(drug.form || '')}</span></td>
     <td>${renderAccount(drug.account)}</td>
     <td>${renderStatus(drug.edStatus)}</td>
-    <td><span class="note">${escapeHtml(drug.note || '-')}</span></td>
     <td class="admin-col" ${state.isAdmin ? '' : 'hidden'}>${renderActions(drug)}</td>
   </tr>`;
 }
@@ -232,7 +231,6 @@ function renderCard(drug){
   return `<article class="drug-card">
     <div class="drug-card-top"><div>${renderDrugName(drug)}</div><div class="drug-card-badges">${renderAccount(drug.account)}${renderStatus(drug.edStatus)}</div></div>
     <div class="drug-card-meta">${escapeHtml([drug.strength, drug.form].filter(Boolean).join(' • ') || '-')}</div>
-    <div class="note">${escapeHtml(drug.note || '-')}</div>
     ${state.isAdmin ? `<div class="card-actions">${renderActions(drug)}</div>` : ''}
   </article>`;
 }
@@ -246,7 +244,17 @@ function renderDrugName(drug){
 function renderActions(drug){
   return `<div class="row-actions"><button class="mini-btn" type="button" data-edit-id="${escapeHtml(drug.id)}">แก้ไขยา</button><button class="mini-btn danger" type="button" data-delete-id="${escapeHtml(drug.id)}">ลบ</button></div>`;
 }
-function renderAccount(account){ return `<span class="badge account">${escapeHtml(shortAccountLabel(account || '-'))}</span>`; }
+function renderAccount(account){ const cls = accountClass(account); return `<span class="badge account ${cls}">${escapeHtml(shortAccountLabel(account || '-'))}</span>`; }
+function accountClass(account){
+  const acct = normalizeAccount(account);
+  if(acct === 'บัญชี ก') return 'account-a';
+  if(acct === 'บัญชี ข') return 'account-b';
+  if(acct === 'บัญชี ค') return 'account-c';
+  if(acct === 'บัญชี ง') return 'account-d';
+  if(acct === 'บัญชี จ1') return 'account-j1';
+  if(acct === 'บัญชี จ2') return 'account-j2';
+  return 'account-other';
+}
 function renderStatus(status){
   const normalized = normalizeEdStatus(status); const cls = normalized === 'ED' ? 'ed' : normalized === 'NED' ? 'ned' : 'other';
   return `<span class="badge ${cls}">${escapeHtml(normalized || status || '-')}</span>`;
@@ -293,7 +301,6 @@ function openDrugModal(id=null){
     els.drugForm.form.value = drug.form || '';
     els.drugForm.account.value = drug.account || '-';
     els.drugForm.edStatus.value = drug.edStatus || '-';
-    els.drugForm.note.value = drug.note || '';
     els.drugForm.keywords.value = (drug.keywords || []).join(', ');
   }
   if(els.editPickerModal?.open) els.editPickerModal.close();
@@ -307,7 +314,7 @@ async function saveDrugFromForm(e){
   const drug = normalizeDrugObject({
     id: state.editingId || makeId(),
     genericName: fd.get('genericName'), tradeNames: splitList(fd.get('tradeNames')), strength: fd.get('strength'), form: fd.get('form'),
-    account: fd.get('account'), edStatus: fd.get('edStatus'), note: fd.get('note'), keywords: splitList(fd.get('keywords')),
+    account: fd.get('account'), edStatus: fd.get('edStatus'), keywords: splitList(fd.get('keywords')),
     updatedAt: new Date().toISOString()
   });
   try{
