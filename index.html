@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#eef2fb" />
+  <title>KLSH Drug Search</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="page-bg" aria-hidden="true"></div>
+
+  <main class="app-frame" id="top">
+    <header class="site-header">
+      <div class="header-left">
+        <button class="icon-btn" id="loginBtn" type="button" aria-label="Log in">⌂</button>
+      </div>
+
+      <nav class="site-nav" aria-label="Main">
+        <a href="#top">Home</a>
+        <a href="#search-zone" class="is-active">Search</a>
+        <a href="#results">Database</a>
+      </nav>
+
+      <div class="header-right">
+        <button class="fill-btn add-drug-btn" id="addDrugBtn" type="button" hidden>เพิ่มยา</button>
+        <button class="outline-btn edit-drug-btn" id="editDrugBtn" type="button" hidden>แก้ไขยา</button>
+        <span class="fill-btn badge-admin" id="adminBadge" hidden>เข้าสู่ระบบแล้ว</span>
+        <button class="outline-btn logout-minimal" id="logoutBtn" type="button" hidden>Log out</button>
+        <button class="outline-btn" id="loginBtnDesktop" type="button">Log in</button>
+      </div>
+    </header>
+
+    <section class="hero-card" id="search-zone">
+      <div class="hero-copy">
+        <div class="hero-logo-row">
+          <img class="hero-logo" src="kalasin-hospital-logo.png" alt="Kalasin Hospital logo" />
+          <div>
+            <small>KALASIN HOSPITAL</small>
+            <strong>โรงพยาบาลกาฬสินธุ์</strong>
+          </div>
+        </div>
+        <h1>ค้นหายาในบัญชียา</h1>
+        <p>ค้นหาชื่อยา ชื่อการค้า บัญชียา และ ED / NED ได้ในหน้าเดียว</p>
+        <button class="readmore-btn" type="button" id="focusSearchBtn">ค้นหาเลย</button>
+        <div class="hero-dots" aria-hidden="true"><span class="is-active"></span><span></span><span></span></div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="orb orb-a"></div>
+        <div class="orb orb-b"></div>
+        <div class="orb orb-c"></div>
+        <div class="floating-tag tag-ed">ED</div>
+        <div class="floating-tag tag-ned">NED</div>
+        <div class="floating-tag tag-acct">บช ก</div>
+        <div class="medicine-display">
+          <div class="display-cap"></div>
+          <div class="display-body">
+            <div class="display-label">Rx</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="search-strip">
+      <div class="search-box large">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m1.85-5.15a7 7 0 1 1-14 0 7 7 0 0 1 14 0Z"/></svg>
+        <input id="searchInput" type="search" placeholder="Search drug..." autocomplete="off" />
+        <button id="clearSearchBtn" type="button" aria-label="ล้างคำค้น">×</button>
+      </div>
+    </section>
+
+    <section class="filter-toolbar">
+      <div class="filter-group">
+        <div class="filter-pills account-pills">
+          <button class="filter-pill is-active" data-account-filter="all" type="button">ทั้งหมด</button>
+          <button class="filter-pill pill-a" data-account-filter="บัญชี ก" type="button">บช ก</button>
+          <button class="filter-pill pill-b" data-account-filter="บัญชี ข" type="button">บช ข</button>
+          <button class="filter-pill pill-c" data-account-filter="บัญชี ค" type="button">บช ค</button>
+          <button class="filter-pill pill-d" data-account-filter="บัญชี ง" type="button">บช ง</button>
+          <button class="filter-pill pill-j1" data-account-filter="บัญชี จ1" type="button">บช จ1</button>
+          <button class="filter-pill pill-j2" data-account-filter="บัญชี จ2" type="button">บช จ2</button>
+        </div>
+      </div>
+      <div class="filter-group status-group">
+        <div class="filter-pills status-pills">
+          <button class="status-pill" type="button" id="edToggleCard">ED</button>
+          <button class="status-pill" type="button" id="nedToggleCard">NED</button>
+        </div>
+        <div class="filter-checks" hidden>
+          <label><input id="edCheck" type="checkbox" /> ED</label>
+          <label><input id="nedCheck" type="checkbox" /> NED</label>
+        </div>
+      </div>
+    </section>
+
+    <section class="summary-grid" aria-label="สรุปรายการยา">
+      <article class="summary-card"><span>ทั้งหมด</span><strong id="totalCount">0</strong></article>
+      <article class="summary-card"><span>ED</span><strong id="edCount">0</strong></article>
+      <article class="summary-card"><span>NED</span><strong id="nedCount">0</strong></article>
+      <article class="summary-card dark"><span>ผลค้นหา</span><strong id="visibleCount">0</strong></article>
+    </section>
+
+    <section class="results-section" id="results">
+      <div class="panel-head results-head">
+        <div>
+          <small>DATABASE</small>
+          <h2>รายการยา</h2>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table class="drug-table">
+          <thead>
+            <tr>
+              <th>ชื่อยา</th>
+              <th>ความแรง / รูปแบบ</th>
+              <th>บัญชี</th>
+              <th>ED/NED</th>
+              <th class="admin-col" hidden>จัดการ</th>
+            </tr>
+          </thead>
+          <tbody id="drugTableBody"></tbody>
+        </table>
+        <div class="mobile-list" id="mobileList"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <div>⌕</div>
+          <strong>ไม่พบข้อมูล</strong>
+          <span>ลองค้นหาด้วยชื่อยา หรือเปลี่ยนตัวกรอง</span>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-watermark">
+      สร้างและพัฒนาโดย กลุ่มงานพัฒนาระบบยา วิจัยพัฒนา และศูนย์เภสัชศาสตร์ศึกษา โรงพยาบาลกาฬสินธุ์
+    </footer>
+  </main>
+
+  <dialog class="modal" id="loginModal">
+    <form method="dialog" class="modal-card auth-card" id="loginForm">
+      <button class="modal-x" value="cancel" type="button" data-close-login>×</button>
+      <h3 class="auth-title">Log in</h3>
+      <p class="auth-sub">ใส่รหัสสำหรับจัดการข้อมูลยา</p>
+      <input id="passcodeInput" class="auth-input" type="password" inputmode="numeric" placeholder="กรอกรหัส" autocomplete="off" />
+      <button class="auth-submit" type="submit">เข้าสู่ระบบ</button>
+      <p class="error auth-error" id="loginError" hidden>รหัสไม่ถูกต้อง</p>
+    </form>
+  </dialog>
+
+  <dialog class="modal" id="drugModal">
+    <form method="dialog" class="modal-card wide" id="drugForm">
+      <button class="modal-x" value="cancel" type="button" data-close-drug>×</button>
+      <p class="modal-kicker" id="drugModalMode">Drug</p>
+      <h3 id="drugModalTitle">เพิ่มยา</h3>
+      <div class="form-grid">
+        <label class="field full"><span>ชื่อสามัญยา *</span><input name="genericName" required placeholder="เช่น Paracetamol" /></label>
+        <label class="field full"><span>ชื่อการค้า / ชื่ออื่น</span><input name="tradeNames" placeholder="คั่นด้วย comma เช่น Tylenol, Sara" /></label>
+        <label class="field"><span>ความแรง</span><input name="strength" placeholder="เช่น 500 mg" /></label>
+        <label class="field"><span>รูปแบบยา</span><select name="form"><option>ไม่ระบุ</option><option>Tablet</option><option>Capsule</option><option>Injection</option><option>Prefilled syringe</option><option>Syrup</option><option>Dry syrup</option><option>Suspension</option><option>Oral suspension</option><option>Inhalation suspension</option><option>Powder</option><option>Cream</option><option>Ointment</option><option>Gel</option><option>Jelly</option><option>Lotion</option><option>Solution</option><option>Irrigation solution</option><option>Topical solution</option><option>Eye drops</option><option>Ear drops</option><option>Nasal spray</option><option>Inhaler</option><option>Nebulizer solution</option><option>Aerosol/MDI</option><option>Suppository</option><option>Enema</option><option>Emulsion</option><option>Patch</option><option>Implant</option><option>Vaccine</option><option>Paste</option><option>Oil</option></select></label>
+        <label class="field"><span>บัญชียา</span><select name="account"><option>บัญชี ก</option><option>บัญชี ข</option><option>บัญชี ค</option><option>บัญชี ง</option><option>บัญชี จ1</option><option>บัญชี จ2</option><option>-</option></select></label>
+        <label class="field"><span>ED/NED</span><select name="edStatus"><option>ED</option><option>NED</option><option>-</option></select></label>
+      </div>
+      <div class="modal-actions split">
+        <button class="outline-btn danger" id="deleteDrugBtn" type="button" hidden>ลบรายการนี้</button>
+        <span></span>
+        <button class="outline-btn" type="button" data-close-drug>ยกเลิก</button>
+        <button class="fill-btn" type="submit">บันทึก</button>
+      </div>
+    </form>
+  </dialog>
+
+
+  <dialog class="modal" id="editPickerModal">
+    <div class="modal-card picker-card">
+      <button class="modal-x" type="button" data-close-edit>×</button>
+      <h3 class="auth-title picker-title">แก้ไขยา</h3>
+      <p class="auth-sub">เลือกยาที่ต้องการแก้ไขข้อมูล</p>
+      <input id="editSearchInput" class="auth-input picker-input" type="search" placeholder="ค้นหาชื่อยา" autocomplete="off" />
+      <div class="picker-list" id="editPickerList"></div>
+    </div>
+  </dialog>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
+  <script src="firebase-config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
