@@ -238,7 +238,7 @@ function render(items){
 function renderRow(drug){
   return `<tr>
     <td>${renderDrugName(drug)}</td>
-    <td><span class="strength">${escapeHtml(drug.strength || '-')}</span><span class="form">${escapeHtml(drug.form || '')}</span></td>
+    <td>${renderDoseForm(drug)}</td>
     <td>${renderAccount(drug.account)}</td>
     <td>${renderStatus(drug.edStatus)}</td>
     <td class="admin-col" ${state.isAdmin ? '' : 'hidden'}>${renderActions(drug)}</td>
@@ -247,10 +247,21 @@ function renderRow(drug){
 
 function renderCard(drug){
   return `<article class="drug-card">
-    <div class="drug-card-top"><div>${renderDrugName(drug)}</div><div class="drug-card-badges">${renderAccount(drug.account)}${renderStatus(drug.edStatus)}</div></div>
-    <div class="drug-card-meta">${escapeHtml([drug.strength, drug.form].filter(Boolean).join(' • ') || '-')}</div>
+    <div class="drug-card-top"><div>${renderDrugName(drug)}</div></div>
+    <div class="drug-card-meta">${renderDoseForm(drug, true)}</div>
+    <div class="drug-card-badges">${renderAccount(drug.account)}${renderStatus(drug.edStatus)}</div>
     ${state.isAdmin ? `<div class="card-actions">${renderActions(drug)}</div>` : ''}
   </article>`;
+}
+
+function renderDoseForm(drug, compact=false){
+  const strength = escapeHtml(drug.strength || 'ไม่ระบุ');
+  const form = escapeHtml(drug.form || 'ไม่ระบุ');
+  const wrapperClass = compact ? 'dose-form dose-form-card' : 'dose-form';
+  return `<div class="${wrapperClass}">
+    <div class="dose-item"><span class="dose-label">Dose</span><span class="dose-value">${strength}</span></div>
+    <div class="dose-item"><span class="dose-label">รูปแบบยา</span><span class="dose-value">${form}</span></div>
+  </div>`;
 }
 
 function renderDrugName(drug){
