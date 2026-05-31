@@ -430,10 +430,39 @@ function renderEditPicker(){
   els.editPickerList.querySelectorAll('[data-picker-id]').forEach(btn=>btn.addEventListener('click', ()=>openDrugModal(btn.dataset.pickerId)));
 }
 
+
+function cleanDrugNameForDisplay(value){
+  const original = String(value || '').trim();
+  let s = original;
+  if(!s) return s;
+  const strengthPattern = /(^|[^A-Z0-9])((?:\d{1,3}(?:,\d{3})+(?:[.,]\d+)?|\d+(?:[.,]\d+)?|\d+\/\d+)\s*(?:MG|MCG|µG|UG|G|KG|ML|L|IU|U|MU|UNITS?|MIU|MEQ|MMOL|MOL|%|PERCENT|DOSE|DOSES|PUFFS?|ACTUATIONS?)(?:\s*(?:I)?\s*\/\s*(?:\d+(?:[.,]\d+)?\s*)?(?:ML|L|G|MG|MCG|µG|UG|DOSE|DOSES|PUFFS?|ACTUATION))?)/gi;
+  const leftoverStrengthPattern = /(^|[^A-Z0-9])((?:\/\s*)?\d+(?:[.,]\d+)?\s*(?:ML|L|G|MG|MCG|µG|UG|DOSE|DOSES|PUFFS?|MU|IU|U)\b)/gi;
+  const formPattern = /\b(?:POWDER\s+FOR\s+ORAL\s+SUSP\.?|FOR\s+ORAL\s*\/\s*VAGINAL\s+ROUTE|SOFT\s+GELATIN|PRE[-\s]?DISPENSED|INHALATION\s+POWDER|SINGLE\s+DOSE|DRY\s+POWDER\s+INHALER|DRY\s+POWDER|ORAL\s+(?:SOLUTION|SOLN\.?|SUSPENSIONS?|POWDER|PASTE)|NASAL\s+SOL(?:N|UTION)?\.?|EAR\s+SOL(?:N|UTION)?\.?|EYE\s+SUSPENSION|EYE\s*\/\s*EAR\s+DROPS?|INHALATION\s+SOLUTION|POWDER\s+INHALATION|PROLONGED\s+RELEASE|SUSTAINED\s+RELEASE|EXTENDED\s+RELEASE|CONTROLLED\s+RELEASE|DELAYED\s+RELEASE|ENTERIC\s+COATED|FILM\s+COATED|CHEWABLE|DISPERSIBLE|ORODISPERSIBLE|PREFILLED\s+SYRINGE|DRY\s+SYRUP|ORAL\s+SUSPENSION|NASAL\s+SPRAY|TOPICAL\s+SOLUTION|NEBULI[ZS]ER\s+SOLUTION|IRRIGATION\s+SOLUTION|INHALATION\s+SUSPENSION|EYE\s+DROPS?|EAR\s+DROPS?|TAB(?:LET)?S?\.?|CAP(?:SULE)?S?\.?|INJ(?:ECTION)?\.?|SYR(?:UP)?\.?|SUSP(?:ENSION|ENSIONS?)?\.?|SOL(?:UTION|N)?\.?|CREAM|OINTMENT|GEL|JELLY|LOTION|POWDER|GRANULES?|SACHETS?|DROPS?|SPRAY|INHALER|AEROSOL|MDI|NEBULES?|VIALS?|AMPU?LES?|SUPP(?:OSITORY|OSITORIES)?\.?|PATCH(?:ES)?|ENEMA|PASTE|EMULSION|IMPLANT)\b/gi;
+  s = s.replace(strengthPattern, '$1');
+  s = s.replace(leftoverStrengthPattern, '$1');
+  s = s.replace(/\bI\s*\/\s*ML\b/gi, ' ');
+  s = s.replace(formPattern, ' ');
+  s = s.replace(/\bIN\s*(?=[,.;)]|$)/gi, ' ');
+  s = s.replace(/([A-Z0-9)])\s*\/\s*(?=[A-Z])/g, '$1 + ');
+  s = s.replace(/\(\s*[,.;:/+-]*\s*\)/g, ' ');
+  s = s.replace(/\s+/g, ' ');
+  s = s.replace(/\s*[,.;:]\s*(?=\+)/g, ' ');
+  s = s.replace(/\s*[,.;:]\s*(?=(?:WITH|AND|HUMAN|eq\.?to)\b)/gi, ' ');
+  s = s.replace(/\s*\.\s*(?=\+|$)/g, ' ');
+  s = s.replace(/\s*\+\s*/g, ' + ');
+  s = s.replace(/(?<!\d)\s*,\s*(?!\d)/g, ' ');
+  s = s.replace(/\s*\/\s*$/g, '');
+  s = s.replace(/(?:\s*[,/;:.-]\s*)+$/g, '');
+  s = s.replace(/^(?:\s*[,/;:.-]\s*)+/g, '');
+  s = s.replace(/\s{2,}/g, ' ').trim();
+  s = s.replace(/(?:\+\s*){2,}/g, '+ ').replace(/^\s*\+\s*|\s*\+\s*$/g, '');
+  return s || original;
+}
+
 function normalizeDrugObject(drug){
   const tradeNames=Array.isArray(drug.tradeNames)?drug.tradeNames:splitList(drug.tradeNames||drug.tradeName||''); const keywords=[];
   const obj={ id:String(drug.id||'').trim(),
-    genericName:String(drug.genericName||drug.name||'').trim(), tradeNames:tradeNames.map(String).map(v=>v.trim()).filter(Boolean),
+    genericName:cleanDrugNameForDisplay(String(drug.genericName||drug.name||'').trim()), tradeNames:tradeNames.map(String).map(v=>v.trim()).filter(Boolean),
     strength:String(drug.strength||'ไม่ระบุ').trim(), form:String(drug.form||'ไม่ระบุ').trim(), account:normalizeAccount(String(drug.account||'').trim()), edStatus:normalizeEdStatus(String(drug.edStatus||'').trim()), note:String(drug.note||'').trim(), keywords:keywords.map(String).map(v=>v.trim()).filter(Boolean), updatedAt: drug.updatedAt || '' };
   if(!obj.id) obj.id = makeId(); return obj;
 }

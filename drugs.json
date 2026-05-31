@@ -1,7 +1,7 @@
 [
   {
     "id": "drug-0001",
-    "genericName": "0.06% 17β ESTRADIOL",
+    "genericName": "17β ESTRADIOL",
     "tradeNames": [],
     "strength": "0.06 %",
     "form": "ไม่ระบุ",
@@ -11,7 +11,7 @@
   },
   {
     "id": "drug-0002",
-    "genericName": "0.3% HYDROXYPROPYLMETHYLCELLULOSE + 0.1% DEXTRAN 70, 0.8 ML",
+    "genericName": "HYDROXYPROPYLMETHYLCELLULOSE + DEXTRAN 70",
     "tradeNames": [],
     "strength": "0.3 %, 0.1 %, 0.8 ML",
     "form": "ไม่ระบุ",
@@ -21,7 +21,7 @@
   },
   {
     "id": "drug-0003",
-    "genericName": "2% SODIUM HYALURONATE WITH 0.5% MANNITOL, PREFILLED SYRINGE",
+    "genericName": "SODIUM HYALURONATE WITH MANNITOL",
     "tradeNames": [],
     "strength": "2 %, 0.5 %",
     "form": "Prefilled syringe",
@@ -41,7 +41,7 @@
   },
   {
     "id": "drug-0005",
-    "genericName": "ABACAVIR TAB. 300 MG",
+    "genericName": "ABACAVIR",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -51,7 +51,7 @@
   },
   {
     "id": "drug-0006",
-    "genericName": "ACETATED RINGER 1000 ML.",
+    "genericName": "ACETATED RINGER",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -61,7 +61,7 @@
   },
   {
     "id": "drug-0007",
-    "genericName": "ACETAZOLAMIDE TAB. 250 MG.",
+    "genericName": "ACETAZOLAMIDE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -71,7 +71,7 @@
   },
   {
     "id": "drug-0008",
-    "genericName": "ACETYLCYSTEINE INJ. 300 MG",
+    "genericName": "ACETYLCYSTEINE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Injection",
@@ -81,7 +81,7 @@
   },
   {
     "id": "drug-0009",
-    "genericName": "ACETYLCYSTEINE INJ. 300 MG",
+    "genericName": "ACETYLCYSTEINE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Injection",
@@ -91,7 +91,7 @@
   },
   {
     "id": "drug-0010",
-    "genericName": "ACETYLCYSTEINE POWDER 100 MG",
+    "genericName": "ACETYLCYSTEINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Powder",
@@ -101,7 +101,7 @@
   },
   {
     "id": "drug-0011",
-    "genericName": "ACTIVATED CHARCOAL POWDER 5 G.",
+    "genericName": "ACTIVATED CHARCOAL",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Powder",
@@ -111,7 +111,7 @@
   },
   {
     "id": "drug-0012",
-    "genericName": "ACYCLOVIR CREAM 5 G..",
+    "genericName": "ACYCLOVIR",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Cream",
@@ -121,7 +121,7 @@
   },
   {
     "id": "drug-0013",
-    "genericName": "ACYCLOVIR INJ. 250 MG",
+    "genericName": "ACYCLOVIR",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -131,7 +131,7 @@
   },
   {
     "id": "drug-0014",
-    "genericName": "ACYCLOVIR TAB. 400 MG",
+    "genericName": "ACYCLOVIR",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -141,7 +141,7 @@
   },
   {
     "id": "drug-0015",
-    "genericName": "ADENOSINE INJ. 6 MG/2 ML",
+    "genericName": "ADENOSINE",
     "tradeNames": [],
     "strength": "6 MG/2 ML",
     "form": "Injection",
@@ -151,7 +151,7 @@
   },
   {
     "id": "drug-0016",
-    "genericName": "ADRENALINE INJ. 1 MG",
+    "genericName": "ADRENALINE",
     "tradeNames": [],
     "strength": "1 MG",
     "form": "Injection",
@@ -161,7 +161,7 @@
   },
   {
     "id": "drug-0017",
-    "genericName": "ADRENALINE INJ. 1 MG",
+    "genericName": "ADRENALINE",
     "tradeNames": [],
     "strength": "1 MG",
     "form": "Injection",
@@ -171,7 +171,7 @@
   },
   {
     "id": "drug-0018",
-    "genericName": "AESCIN 20mg",
+    "genericName": "AESCIN",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "ไม่ระบุ",
@@ -181,7 +181,7 @@
   },
   {
     "id": "drug-0019",
-    "genericName": "AGOMELATINE TAB. 25 MG",
+    "genericName": "AGOMELATINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -191,7 +191,7 @@
   },
   {
     "id": "drug-0020",
-    "genericName": "ALBENDAZOLE SUSPENSION 20 ML",
+    "genericName": "ALBENDAZOLE",
     "tradeNames": [],
     "strength": "20 ML",
     "form": "Suspension",
@@ -201,7 +201,7 @@
   },
   {
     "id": "drug-0021",
-    "genericName": "ALBENDAZOLE TAB. 200 MG",
+    "genericName": "ALBENDAZOLE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -211,7 +211,7 @@
   },
   {
     "id": "drug-0022",
-    "genericName": "ALBUMIN 20%,HUMAN INJ. 50 ML",
+    "genericName": "ALBUMIN HUMAN",
     "tradeNames": [],
     "strength": "20 %, 50 ML",
     "form": "Injection",
@@ -221,7 +221,7 @@
   },
   {
     "id": "drug-0023",
-    "genericName": "ALENDRONATE SODIUM TAB. eq.to ALENDRONIC ACID 70 MG",
+    "genericName": "ALENDRONATE SODIUM eq.to ALENDRONIC ACID",
     "tradeNames": [],
     "strength": "70 MG",
     "form": "Tablet",
@@ -231,7 +231,7 @@
   },
   {
     "id": "drug-0024",
-    "genericName": "ALFACALCIDOL 0.25 MCG",
+    "genericName": "ALFACALCIDOL",
     "tradeNames": [],
     "strength": "0.25 MCG",
     "form": "ไม่ระบุ",
@@ -241,7 +241,7 @@
   },
   {
     "id": "drug-0025",
-    "genericName": "ALFUZOSIN HCL PROLONGED RELEASE TAB. 10 MG",
+    "genericName": "ALFUZOSIN HCL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -251,7 +251,7 @@
   },
   {
     "id": "drug-0026",
-    "genericName": "ALLOPURINOL TAB. 100 MG.",
+    "genericName": "ALLOPURINOL",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -261,7 +261,7 @@
   },
   {
     "id": "drug-0027",
-    "genericName": "ALPROSTADIL INJ. 0.5 MG/ML",
+    "genericName": "ALPROSTADIL",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Injection",
@@ -271,7 +271,7 @@
   },
   {
     "id": "drug-0028",
-    "genericName": "ALTEPLASE (RECOMBINANT TISSUE-TYPE PLASMINOGEN ACTIVATOR) INJ. 50 MG",
+    "genericName": "ALTEPLASE (RECOMBINANT TISSUE-TYPE PLASMINOGEN ACTIVATOR)",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -281,7 +281,7 @@
   },
   {
     "id": "drug-0029",
-    "genericName": "ALUM MILK 240 ML.",
+    "genericName": "ALUM MILK",
     "tradeNames": [],
     "strength": "240 ML",
     "form": "Suspension",
@@ -291,7 +291,7 @@
   },
   {
     "id": "drug-0030",
-    "genericName": "AMANTADINE HCL 100 MG TAB",
+    "genericName": "AMANTADINE HCL",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -301,7 +301,7 @@
   },
   {
     "id": "drug-0031",
-    "genericName": "AMIKACIN INJ. 500 MG., 2 ML",
+    "genericName": "AMIKACIN",
     "tradeNames": [],
     "strength": "500 MG, 2 ML",
     "form": "Injection",
@@ -311,7 +311,7 @@
   },
   {
     "id": "drug-0032",
-    "genericName": "AMILORIDE 5 MG+HCTZ 50 MG TAB.",
+    "genericName": "AMILORIDE + HCTZ",
     "tradeNames": [],
     "strength": "5 MG, 50 MG",
     "form": "Tablet",
@@ -321,7 +321,7 @@
   },
   {
     "id": "drug-0033",
-    "genericName": "AMINO ACID 10% INJ. 100 ML.",
+    "genericName": "AMINO ACID",
     "tradeNames": [],
     "strength": "10 %, 100 ML",
     "form": "Injection",
@@ -331,7 +331,7 @@
   },
   {
     "id": "drug-0034",
-    "genericName": "AMINO ACID 7.2% INJ. 200 ML.",
+    "genericName": "AMINO ACID",
     "tradeNames": [],
     "strength": "7.2 %, 200 ML",
     "form": "Injection",
@@ -341,7 +341,7 @@
   },
   {
     "id": "drug-0035",
-    "genericName": "AMINO ACID+GLUCOSE+ELECTROLYTES+VIT.B1",
+    "genericName": "AMINO ACID + GLUCOSE + ELECTROLYTES + VIT.B1",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -351,7 +351,7 @@
   },
   {
     "id": "drug-0036",
-    "genericName": "AMINOPHYLLINE INJ. 250 MG",
+    "genericName": "AMINOPHYLLINE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -361,7 +361,7 @@
   },
   {
     "id": "drug-0037",
-    "genericName": "AMIODARONE INJ. 150 MG IN 3 ML",
+    "genericName": "AMIODARONE",
     "tradeNames": [],
     "strength": "150 MG, 3 ML",
     "form": "Injection",
@@ -371,7 +371,7 @@
   },
   {
     "id": "drug-0038",
-    "genericName": "AMIODARONE TAB. 200 MG",
+    "genericName": "AMIODARONE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -381,7 +381,7 @@
   },
   {
     "id": "drug-0039",
-    "genericName": "AMITRIPTYLINE TAB. 10 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -391,7 +391,7 @@
   },
   {
     "id": "drug-0040",
-    "genericName": "AMITRIPTYLINE TAB. 10 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -401,7 +401,7 @@
   },
   {
     "id": "drug-0041",
-    "genericName": "AMITRIPTYLINE TAB. 10 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -411,7 +411,7 @@
   },
   {
     "id": "drug-0042",
-    "genericName": "AMITRIPTYLINE TAB. 25 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -421,7 +421,7 @@
   },
   {
     "id": "drug-0043",
-    "genericName": "AMITRIPTYLINE TAB. 25 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -431,7 +431,7 @@
   },
   {
     "id": "drug-0044",
-    "genericName": "AMITRIPTYLINE TAB. 25 MG",
+    "genericName": "AMITRIPTYLINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -441,7 +441,7 @@
   },
   {
     "id": "drug-0045",
-    "genericName": "AMLODIPINE TAB. 10 MG",
+    "genericName": "AMLODIPINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -451,7 +451,7 @@
   },
   {
     "id": "drug-0046",
-    "genericName": "AMOXICILLIN 1 G. + CLAVULANIC ACID 200 MG INJ.",
+    "genericName": "AMOXICILLIN + CLAVULANIC ACID",
     "tradeNames": [],
     "strength": "1 G, 200 MG",
     "form": "Injection",
@@ -461,7 +461,7 @@
   },
   {
     "id": "drug-0047",
-    "genericName": "AMOXICILLIN 400 MG + CLAVULANATE POTASSIUM 57 MG /5 ML",
+    "genericName": "AMOXICILLIN + CLAVULANATE POTASSIUM",
     "tradeNames": [],
     "strength": "400 MG, 57 MG/5 ML",
     "form": "ไม่ระบุ",
@@ -471,7 +471,7 @@
   },
   {
     "id": "drug-0048",
-    "genericName": "AMOXICILLIN 875 MG + CLAVULANIC ACID 125 MG TAB.",
+    "genericName": "AMOXICILLIN + CLAVULANIC ACID",
     "tradeNames": [],
     "strength": "875 MG, 125 MG",
     "form": "Tablet",
@@ -481,7 +481,7 @@
   },
   {
     "id": "drug-0049",
-    "genericName": "AMOXICILLIN CAP. 250 MG",
+    "genericName": "AMOXICILLIN",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -491,7 +491,7 @@
   },
   {
     "id": "drug-0050",
-    "genericName": "AMOXICILLIN CAP. 500 MG",
+    "genericName": "AMOXICILLIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Capsule",
@@ -501,7 +501,7 @@
   },
   {
     "id": "drug-0051",
-    "genericName": "AMOXICILLIN DRY SYRUP 60 ML",
+    "genericName": "AMOXICILLIN",
     "tradeNames": [],
     "strength": "60 ML",
     "form": "Dry syrup",
@@ -511,7 +511,7 @@
   },
   {
     "id": "drug-0052",
-    "genericName": "AMPHOTERICIN B INJ. 50 MG",
+    "genericName": "AMPHOTERICIN B",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -521,7 +521,7 @@
   },
   {
     "id": "drug-0053",
-    "genericName": "AMPICILLIN INJ. 1 G.",
+    "genericName": "AMPICILLIN",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -531,7 +531,7 @@
   },
   {
     "id": "drug-0054",
-    "genericName": "ANTAZOLINE + TETRYZOLINE EYE DROP 10 ML",
+    "genericName": "ANTAZOLINE + TETRYZOLINE",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Eye drops",
@@ -541,7 +541,7 @@
   },
   {
     "id": "drug-0055",
-    "genericName": "ANTI-D IMMUNOGLOBULIN 750 IU/ML, 2 ML",
+    "genericName": "ANTI-D IMMUNOGLOBULIN",
     "tradeNames": [],
     "strength": "750 IU, 2 ML",
     "form": "ไม่ระบุ",
@@ -551,7 +551,7 @@
   },
   {
     "id": "drug-0056",
-    "genericName": "ANTI-SNAKE VENOM-BANDED KRAIT INJ.",
+    "genericName": "ANTI-SNAKE VENOM-BANDED KRAIT",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -561,7 +561,7 @@
   },
   {
     "id": "drug-0057",
-    "genericName": "ANTI-SNAKE VENOM-COBRA INJ.",
+    "genericName": "ANTI-SNAKE VENOM-COBRA",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -571,7 +571,7 @@
   },
   {
     "id": "drug-0058",
-    "genericName": "ANTI-SNAKE VENOM-GREEN PIT VIPER INJ.",
+    "genericName": "ANTI-SNAKE VENOM-GREEN PIT VIPER",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -581,7 +581,7 @@
   },
   {
     "id": "drug-0059",
-    "genericName": "ANTI-SNAKE VENOM-KING COBRA INJ.",
+    "genericName": "ANTI-SNAKE VENOM-KING COBRA",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -591,7 +591,7 @@
   },
   {
     "id": "drug-0060",
-    "genericName": "ANTI-SNAKE VENOM-MALAYAN KRAIT INJ.",
+    "genericName": "ANTI-SNAKE VENOM-MALAYAN KRAIT",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -601,7 +601,7 @@
   },
   {
     "id": "drug-0061",
-    "genericName": "ANTI-SNAKE VENOM-MALAYAN PIT VIPER INJ.",
+    "genericName": "ANTI-SNAKE VENOM-MALAYAN PIT VIPER",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -611,7 +611,7 @@
   },
   {
     "id": "drug-0062",
-    "genericName": "ANTI-SNAKE VENOM-RUSSELL'S VIPER INJ.",
+    "genericName": "ANTI-SNAKE VENOM-RUSSELL'S VIPER",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -621,7 +621,7 @@
   },
   {
     "id": "drug-0063",
-    "genericName": "APIXABAN 5MG",
+    "genericName": "APIXABAN",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "ไม่ระบุ",
@@ -631,7 +631,7 @@
   },
   {
     "id": "drug-0064",
-    "genericName": "ARIPIPRAZOLE 10 MG",
+    "genericName": "ARIPIPRAZOLE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "ไม่ระบุ",
@@ -651,7 +651,7 @@
   },
   {
     "id": "drug-0066",
-    "genericName": "ARTESUNATE INJ. 60 MG",
+    "genericName": "ARTESUNATE",
     "tradeNames": [],
     "strength": "60 MG",
     "form": "Injection",
@@ -661,7 +661,7 @@
   },
   {
     "id": "drug-0067",
-    "genericName": "ARTESUNATE TAB. 50 MG",
+    "genericName": "ARTESUNATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -671,7 +671,7 @@
   },
   {
     "id": "drug-0068",
-    "genericName": "ASPIRIN TAB. 300 MG",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -681,7 +681,7 @@
   },
   {
     "id": "drug-0069",
-    "genericName": "ASPIRIN TAB. 300 MG",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -691,7 +691,7 @@
   },
   {
     "id": "drug-0070",
-    "genericName": "ASPIRIN TAB. 300 MG",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -701,7 +701,7 @@
   },
   {
     "id": "drug-0071",
-    "genericName": "ASPIRIN TAB. 300 MG.",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -711,7 +711,7 @@
   },
   {
     "id": "drug-0072",
-    "genericName": "ASPIRIN TAB. 81 MG",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "81 MG",
     "form": "Tablet",
@@ -721,7 +721,7 @@
   },
   {
     "id": "drug-0073",
-    "genericName": "ASPIRIN TAB. 81 MG.",
+    "genericName": "ASPIRIN",
     "tradeNames": [],
     "strength": "81 MG",
     "form": "Tablet",
@@ -731,7 +731,7 @@
   },
   {
     "id": "drug-0074",
-    "genericName": "ATENOLOL TAB. 50 MG",
+    "genericName": "ATENOLOL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -741,7 +741,7 @@
   },
   {
     "id": "drug-0075",
-    "genericName": "ATORVASTATIN TAB. 40 MG",
+    "genericName": "ATORVASTATIN",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Tablet",
@@ -751,7 +751,7 @@
   },
   {
     "id": "drug-0076",
-    "genericName": "ATROPINE EYE DROPS 1 % 5 ML.",
+    "genericName": "ATROPINE",
     "tradeNames": [],
     "strength": "1 %, 5 ML",
     "form": "Eye drops",
@@ -761,7 +761,7 @@
   },
   {
     "id": "drug-0077",
-    "genericName": "ATROPINE INJ. 0.6 MG",
+    "genericName": "ATROPINE",
     "tradeNames": [],
     "strength": "0.6 MG",
     "form": "Injection",
@@ -771,7 +771,7 @@
   },
   {
     "id": "drug-0078",
-    "genericName": "ATROPINE INJ. 0.6 MG",
+    "genericName": "ATROPINE",
     "tradeNames": [],
     "strength": "0.6 MG",
     "form": "Injection",
@@ -781,7 +781,7 @@
   },
   {
     "id": "drug-0079",
-    "genericName": "ATROPINE INJ. 0.6 MG",
+    "genericName": "ATROPINE",
     "tradeNames": [],
     "strength": "0.6 MG",
     "form": "Injection",
@@ -791,7 +791,7 @@
   },
   {
     "id": "drug-0080",
-    "genericName": "AZATHIOPRINE TAB. 50 MG",
+    "genericName": "AZATHIOPRINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -801,7 +801,7 @@
   },
   {
     "id": "drug-0081",
-    "genericName": "AZATHIOPRINE TAB. 50 MG",
+    "genericName": "AZATHIOPRINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -811,7 +811,7 @@
   },
   {
     "id": "drug-0082",
-    "genericName": "AZELASTINE HCl and FLUTICASONE PROPIONATE NASAL SPRAY",
+    "genericName": "AZELASTINE HCl and FLUTICASONE PROPIONATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Nasal spray",
@@ -821,7 +821,7 @@
   },
   {
     "id": "drug-0083",
-    "genericName": "AZITHROMYCIN CAP. 250 MG",
+    "genericName": "AZITHROMYCIN",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -831,7 +831,7 @@
   },
   {
     "id": "drug-0084",
-    "genericName": "AZITHROMYCIN INJ. 500 MG.",
+    "genericName": "AZITHROMYCIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -841,7 +841,7 @@
   },
   {
     "id": "drug-0085",
-    "genericName": "AZITHROMYCIN POWDER FOR ORAL SUSP. 200 MG/5 ML, 15 ML",
+    "genericName": "AZITHROMYCIN",
     "tradeNames": [],
     "strength": "200 MG/5 ML, 15 ML",
     "form": "Oral suspension",
@@ -851,7 +851,7 @@
   },
   {
     "id": "drug-0086",
-    "genericName": "B.S.S. 500 ML.",
+    "genericName": "B.S.S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -861,7 +861,7 @@
   },
   {
     "id": "drug-0087",
-    "genericName": "BACLOFEN TAB 10 MG",
+    "genericName": "BACLOFEN",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -871,7 +871,7 @@
   },
   {
     "id": "drug-0088",
-    "genericName": "BACLOFEN TAB.10 MG",
+    "genericName": "BACLOFEN",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -881,7 +881,7 @@
   },
   {
     "id": "drug-0089",
-    "genericName": "BCG (Bacillus Calmette-Guérin) INJ. 200 Colony form units with Closed NSS set",
+    "genericName": "BCG (Bacillus Calmette-Guérin) . 200 Colony form units with Closed NSS set",
     "tradeNames": [],
     "strength": "200 COLONY FORM UNITS",
     "form": "Injection",
@@ -901,7 +901,7 @@
   },
   {
     "id": "drug-0091",
-    "genericName": "BENZATHINE PENICILLIN G INJ. 1.2 MU",
+    "genericName": "BENZATHINE PENICILLIN G",
     "tradeNames": [],
     "strength": "1.2 MU",
     "form": "Injection",
@@ -921,7 +921,7 @@
   },
   {
     "id": "drug-0093",
-    "genericName": "BENZTROPINE MESILATE INJ",
+    "genericName": "BENZTROPINE MESILATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -931,7 +931,7 @@
   },
   {
     "id": "drug-0094",
-    "genericName": "BENZYL BENZOATE EMULSION",
+    "genericName": "BENZYL BENZOATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Emulsion",
@@ -941,7 +941,7 @@
   },
   {
     "id": "drug-0095",
-    "genericName": "BETAHISTINE MESILATE TAB. 12 MG",
+    "genericName": "BETAHISTINE MESILATE",
     "tradeNames": [],
     "strength": "12 MG",
     "form": "Tablet",
@@ -951,7 +951,7 @@
   },
   {
     "id": "drug-0096",
-    "genericName": "BETAMETHASONE DIPROPIONATE 0.05% + SALICYLIC ACID 3% OINT.",
+    "genericName": "BETAMETHASONE DIPROPIONATE + SALICYLIC ACID OINT",
     "tradeNames": [],
     "strength": "0.05 %, 3 %",
     "form": "Ointment",
@@ -961,7 +961,7 @@
   },
   {
     "id": "drug-0097",
-    "genericName": "BICALUTAMIDE TAB. 50 MG",
+    "genericName": "BICALUTAMIDE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -971,7 +971,7 @@
   },
   {
     "id": "drug-0098",
-    "genericName": "BILASTINE 20 MG",
+    "genericName": "BILASTINE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "ไม่ระบุ",
@@ -981,7 +981,7 @@
   },
   {
     "id": "drug-0099",
-    "genericName": "BISACODYL SUPPO. 10 MG",
+    "genericName": "BISACODYL SUPPO",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Suppository",
@@ -991,7 +991,7 @@
   },
   {
     "id": "drug-0100",
-    "genericName": "BISMUTH SUBSALICYLATE TAB. 1048 MG",
+    "genericName": "BISMUTH SUBSALICYLATE",
     "tradeNames": [],
     "strength": "1048 MG",
     "form": "Tablet",
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "drug-0101",
-    "genericName": "BISOPROLOL HEMIFUMARATE TAB. 5 MG",
+    "genericName": "BISOPROLOL HEMIFUMARATE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -1011,7 +1011,7 @@
   },
   {
     "id": "drug-0102",
-    "genericName": "BRIMONIDINE TARTRATE EYE DROPS 0.1%, 5 ML",
+    "genericName": "BRIMONIDINE TARTRATE",
     "tradeNames": [],
     "strength": "0.1 %, 5 ML",
     "form": "Eye drops",
@@ -1021,7 +1021,7 @@
   },
   {
     "id": "drug-0103",
-    "genericName": "BRINZOLAMIDE EYE SUSPENSION 1%, 5 ML",
+    "genericName": "BRINZOLAMIDE",
     "tradeNames": [],
     "strength": "1 %, 5 ML",
     "form": "Eye drops",
@@ -1031,7 +1031,7 @@
   },
   {
     "id": "drug-0104",
-    "genericName": "BROMHEXINE SYRUP 4 MG/5 ML",
+    "genericName": "BROMHEXINE",
     "tradeNames": [],
     "strength": "4 MG/5 ML",
     "form": "Syrup",
@@ -1041,7 +1041,7 @@
   },
   {
     "id": "drug-0105",
-    "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
+    "genericName": "BROMOCRIPTINE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -1051,7 +1051,7 @@
   },
   {
     "id": "drug-0106",
-    "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
+    "genericName": "BROMOCRIPTINE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -1061,7 +1061,7 @@
   },
   {
     "id": "drug-0107",
-    "genericName": "BROMOCRIPTINE TAB. 2.5 MG",
+    "genericName": "BROMOCRIPTINE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -1071,7 +1071,7 @@
   },
   {
     "id": "drug-0108",
-    "genericName": "BUDESONIDE 160 MCG+FOMOTEROL 4.5 MCG, 120 dose Dry powder inhaler",
+    "genericName": "BUDESONIDE + FOMOTEROL",
     "tradeNames": [],
     "strength": "160 MCG, 4.5 MCG, 120 DOSE",
     "form": "Inhaler",
@@ -1081,7 +1081,7 @@
   },
   {
     "id": "drug-0109",
-    "genericName": "BUDESONIDE AEROSOL 200 MCG/DOSE MDI",
+    "genericName": "BUDESONIDE",
     "tradeNames": [],
     "strength": "200 MCG",
     "form": "Aerosol/MDI",
@@ -1091,7 +1091,7 @@
   },
   {
     "id": "drug-0110",
-    "genericName": "BUDESONIDE AQUEOS NASAL SPRAY 100 MCG/DOSE",
+    "genericName": "BUDESONIDE AQUEOS",
     "tradeNames": [],
     "strength": "100 MCG",
     "form": "Nasal spray",
@@ -1101,7 +1101,7 @@
   },
   {
     "id": "drug-0111",
-    "genericName": "BUDESONIDE INHALATION SUSPENSION 1 MG/2 ML inhalation suspension 1mg/2ml",
+    "genericName": "BUDESONIDE",
     "tradeNames": [],
     "strength": "1 MG/2 ML",
     "form": "Inhalation suspension",
@@ -1111,7 +1111,7 @@
   },
   {
     "id": "drug-0112",
-    "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 10 ML",
+    "genericName": "BUPIVACAINE HCl",
     "tradeNames": [],
     "strength": "0.5 %, 5 MG, 10 ML",
     "form": "Injection",
@@ -1121,7 +1121,7 @@
   },
   {
     "id": "drug-0113",
-    "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 4 ML HEAVY",
+    "genericName": "BUPIVACAINE HCl . HEAVY",
     "tradeNames": [],
     "strength": "0.5 %, 5 MG, 4 ML",
     "form": "Injection",
@@ -1131,7 +1131,7 @@
   },
   {
     "id": "drug-0114",
-    "genericName": "BUPIVACAINE HCl INJ. 0.5% (5 MG/ML), 4 ML ISOBARIC",
+    "genericName": "BUPIVACAINE HCl . ISOBARIC",
     "tradeNames": [],
     "strength": "0.5 %, 5 MG, 4 ML",
     "form": "Injection",
@@ -1141,7 +1141,7 @@
   },
   {
     "id": "drug-0115",
-    "genericName": "CALAMINE LOTION 60 ML",
+    "genericName": "CALAMINE",
     "tradeNames": [],
     "strength": "60 ML",
     "form": "Lotion",
@@ -1151,7 +1151,7 @@
   },
   {
     "id": "drug-0116",
-    "genericName": "CALCIPOTRIOL OINTMENT. 0.005% (50 MCG/1 G.)",
+    "genericName": "CALCIPOTRIOL",
     "tradeNames": [],
     "strength": "0.005 %, 50 MCG/1 G",
     "form": "Ointment",
@@ -1161,7 +1161,7 @@
   },
   {
     "id": "drug-0117",
-    "genericName": "CALCIUM CARBONATE TAB. 1500 MG.",
+    "genericName": "CALCIUM CARBONATE",
     "tradeNames": [],
     "strength": "1500 MG",
     "form": "Tablet",
@@ -1171,7 +1171,7 @@
   },
   {
     "id": "drug-0118",
-    "genericName": "CALCIUM CARBONATE TAB. 600 MG.",
+    "genericName": "CALCIUM CARBONATE",
     "tradeNames": [],
     "strength": "600 MG",
     "form": "Tablet",
@@ -1181,7 +1181,7 @@
   },
   {
     "id": "drug-0119",
-    "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
+    "genericName": "CALCIUM FOLINATE",
     "tradeNames": [],
     "strength": "500 MG/50 ML",
     "form": "Injection",
@@ -1191,7 +1191,7 @@
   },
   {
     "id": "drug-0120",
-    "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
+    "genericName": "CALCIUM FOLINATE",
     "tradeNames": [],
     "strength": "500 MG/50 ML",
     "form": "Injection",
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "drug-0121",
-    "genericName": "CALCIUM FOLINATE INJ. 500 MG/50 ML",
+    "genericName": "CALCIUM FOLINATE",
     "tradeNames": [],
     "strength": "500 MG/50 ML",
     "form": "Injection",
@@ -1211,7 +1211,7 @@
   },
   {
     "id": "drug-0122",
-    "genericName": "CALCIUM GLUCONATE INJ. 10 ML",
+    "genericName": "CALCIUM GLUCONATE",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "drug-0123",
-    "genericName": "CALCIUM GLUCONATE INJ. 10 ML",
+    "genericName": "CALCIUM GLUCONATE",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -1231,7 +1231,7 @@
   },
   {
     "id": "drug-0124",
-    "genericName": "CALCIUM GLUCONATE INJ. 10 ML.",
+    "genericName": "CALCIUM GLUCONATE",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -1251,7 +1251,7 @@
   },
   {
     "id": "drug-0126",
-    "genericName": "CAPECITABINE TAB. 500 MG",
+    "genericName": "CAPECITABINE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -1261,7 +1261,7 @@
   },
   {
     "id": "drug-0127",
-    "genericName": "CAPTOPRIL TAB. 25 MG",
+    "genericName": "CAPTOPRIL",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1271,7 +1271,7 @@
   },
   {
     "id": "drug-0128",
-    "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
+    "genericName": "CARBAMAZEPINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -1281,7 +1281,7 @@
   },
   {
     "id": "drug-0129",
-    "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
+    "genericName": "CARBAMAZEPINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": "drug-0130",
-    "genericName": "CARBAMAZEPINE CONTROLLED RELEASE TAB. 200 MG",
+    "genericName": "CARBAMAZEPINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -1301,7 +1301,7 @@
   },
   {
     "id": "drug-0131",
-    "genericName": "CARBOMER 2 MG. + CETRIMIDE 0.1 MG /1 G.",
+    "genericName": "CARBOMER + CETRIMIDE",
     "tradeNames": [],
     "strength": "2 MG, 0.1 MG/1 G",
     "form": "ไม่ระบุ",
@@ -1311,7 +1311,7 @@
   },
   {
     "id": "drug-0132",
-    "genericName": "CARBOPLATIN INJ. 450 ML/45 ML",
+    "genericName": "CARBOPLATIN",
     "tradeNames": [],
     "strength": "450 ML/45 ML",
     "form": "Injection",
@@ -1321,7 +1321,7 @@
   },
   {
     "id": "drug-0133",
-    "genericName": "CARVEDILOL TAB. 12.5 MG",
+    "genericName": "CARVEDILOL",
     "tradeNames": [],
     "strength": "12.5 MG",
     "form": "Tablet",
@@ -1331,7 +1331,7 @@
   },
   {
     "id": "drug-0134",
-    "genericName": "CASTOR OIL, AROMATIC 60 ML",
+    "genericName": "CASTOR OIL AROMATIC",
     "tradeNames": [],
     "strength": "60 ML",
     "form": "Oil",
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "drug-0135",
-    "genericName": "CEFAZOLIN INJ. 1 G.",
+    "genericName": "CEFAZOLIN",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -1351,7 +1351,7 @@
   },
   {
     "id": "drug-0136",
-    "genericName": "CEFIXIME CAP. 100 MG",
+    "genericName": "CEFIXIME",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -1361,7 +1361,7 @@
   },
   {
     "id": "drug-0137",
-    "genericName": "CEFIXIME ORAL SUSPENSION 100 MG/5 ML, 30 ML",
+    "genericName": "CEFIXIME",
     "tradeNames": [],
     "strength": "100 MG/5 ML, 30 ML",
     "form": "Oral suspension",
@@ -1371,7 +1371,7 @@
   },
   {
     "id": "drug-0138",
-    "genericName": "CEFOPERAZONE 1000 MG+SULBACTAM 500 MG INJ.",
+    "genericName": "CEFOPERAZONE + SULBACTAM",
     "tradeNames": [],
     "strength": "1000 MG, 500 MG",
     "form": "Injection",
@@ -1381,7 +1381,7 @@
   },
   {
     "id": "drug-0139",
-    "genericName": "CEFOTAXIME INJ. 1 G.",
+    "genericName": "CEFOTAXIME",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -1391,7 +1391,7 @@
   },
   {
     "id": "drug-0140",
-    "genericName": "CEFTAZIDIME INJ. 1 G.",
+    "genericName": "CEFTAZIDIME",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "drug-0141",
-    "genericName": "CEFTRIAXONE INJ. 1 G.",
+    "genericName": "CEFTRIAXONE",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -1411,7 +1411,7 @@
   },
   {
     "id": "drug-0142",
-    "genericName": "CELECOXIB CAP.200 MG",
+    "genericName": "CELECOXIB",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Capsule",
@@ -1421,7 +1421,7 @@
   },
   {
     "id": "drug-0143",
-    "genericName": "CEPHALEXIN CAP. 500 MG",
+    "genericName": "CEPHALEXIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Capsule",
@@ -1431,7 +1431,7 @@
   },
   {
     "id": "drug-0144",
-    "genericName": "CEPHALEXIN DRY SYRUP",
+    "genericName": "CEPHALEXIN",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Dry syrup",
@@ -1441,7 +1441,7 @@
   },
   {
     "id": "drug-0145",
-    "genericName": "CHLORAMPHENICOL EAR DROPS",
+    "genericName": "CHLORAMPHENICOL",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Ear drops",
@@ -1451,7 +1451,7 @@
   },
   {
     "id": "drug-0146",
-    "genericName": "CHLORHEXIDINE GLUCONATE 4%",
+    "genericName": "CHLORHEXIDINE GLUCONATE",
     "tradeNames": [],
     "strength": "4 %",
     "form": "ไม่ระบุ",
@@ -1461,7 +1461,7 @@
   },
   {
     "id": "drug-0147",
-    "genericName": "CHLORHEXIDINE GLUCONATE CONC. 5%",
+    "genericName": "CHLORHEXIDINE GLUCONATE CONC",
     "tradeNames": [],
     "strength": "5 %",
     "form": "ไม่ระบุ",
@@ -1471,7 +1471,7 @@
   },
   {
     "id": "drug-0148",
-    "genericName": "CHLORHEXIDINE GLUCONATE OBSTETRIC CREAM",
+    "genericName": "CHLORHEXIDINE GLUCONATE OBSTETRIC",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Cream",
@@ -1491,7 +1491,7 @@
   },
   {
     "id": "drug-0150",
-    "genericName": "CHLOROXYLENOL 4.8 %",
+    "genericName": "CHLOROXYLENOL",
     "tradeNames": [],
     "strength": "4.8 %",
     "form": "ไม่ระบุ",
@@ -1501,7 +1501,7 @@
   },
   {
     "id": "drug-0151",
-    "genericName": "CHLORPHENIRAMINE INJ. 10 MG",
+    "genericName": "CHLORPHENIRAMINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -1511,7 +1511,7 @@
   },
   {
     "id": "drug-0152",
-    "genericName": "CHLORPHENIRAMINE SYRUP 60 ML, 2 MG/5 ML",
+    "genericName": "CHLORPHENIRAMINE",
     "tradeNames": [],
     "strength": "60 ML, 2 MG/5 ML",
     "form": "Syrup",
@@ -1521,7 +1521,7 @@
   },
   {
     "id": "drug-0153",
-    "genericName": "CHLORPHENIRAMINE TAB. 4 MG",
+    "genericName": "CHLORPHENIRAMINE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -1531,7 +1531,7 @@
   },
   {
     "id": "drug-0154",
-    "genericName": "CHLORPROMAZINE TAB. 100 MG",
+    "genericName": "CHLORPROMAZINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "drug-0155",
-    "genericName": "CHLORPROMAZINE TAB. 200 MG",
+    "genericName": "CHLORPROMAZINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -1551,7 +1551,7 @@
   },
   {
     "id": "drug-0156",
-    "genericName": "CHLORPROMAZINE TAB. 50 MG",
+    "genericName": "CHLORPROMAZINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -1561,7 +1561,7 @@
   },
   {
     "id": "drug-0157",
-    "genericName": "CHOLESTYRAMINE ORAL POWDER",
+    "genericName": "CHOLESTYRAMINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Powder",
@@ -1571,7 +1571,7 @@
   },
   {
     "id": "drug-0158",
-    "genericName": "CHOLESTYRAMINE ORAL POWDER",
+    "genericName": "CHOLESTYRAMINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Powder",
@@ -1581,7 +1581,7 @@
   },
   {
     "id": "drug-0159",
-    "genericName": "CICLOSPORIN TAB 100 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -1591,7 +1591,7 @@
   },
   {
     "id": "drug-0160",
-    "genericName": "CICLOSPORIN TAB 100 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -1601,7 +1601,7 @@
   },
   {
     "id": "drug-0161",
-    "genericName": "CICLOSPORIN TAB 100 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -1611,7 +1611,7 @@
   },
   {
     "id": "drug-0162",
-    "genericName": "CICLOSPORIN TAB 25 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "drug-0163",
-    "genericName": "CICLOSPORIN TAB 25 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1631,7 +1631,7 @@
   },
   {
     "id": "drug-0164",
-    "genericName": "CICLOSPORIN TAB 25 MG",
+    "genericName": "CICLOSPORIN",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1641,7 +1641,7 @@
   },
   {
     "id": "drug-0165",
-    "genericName": "CILOSTAZOL SR CAP 100 MG",
+    "genericName": "CILOSTAZOL SR",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -1651,7 +1651,7 @@
   },
   {
     "id": "drug-0166",
-    "genericName": "CILOSTAZOL TAB. 50 MG",
+    "genericName": "CILOSTAZOL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -1661,7 +1661,7 @@
   },
   {
     "id": "drug-0167",
-    "genericName": "CINNARIZINE TAB. 25 MG",
+    "genericName": "CINNARIZINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1671,7 +1671,7 @@
   },
   {
     "id": "drug-0168",
-    "genericName": "CIPROFLOXACIN HYDROCHLORIDE TAB. 500 MG",
+    "genericName": "CIPROFLOXACIN HYDROCHLORIDE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -1681,7 +1681,7 @@
   },
   {
     "id": "drug-0169",
-    "genericName": "CISATRACURIUM BESYLATE INJ. 10 MG/5 ML/AMP",
+    "genericName": "CISATRACURIUM BESYLATE . /AMP",
     "tradeNames": [],
     "strength": "10 MG/5 ML",
     "form": "Injection",
@@ -1691,7 +1691,7 @@
   },
   {
     "id": "drug-0170",
-    "genericName": "CISPLATIN INJ. 50 MG/50 ML",
+    "genericName": "CISPLATIN",
     "tradeNames": [],
     "strength": "50 MG/50 ML",
     "form": "Injection",
@@ -1701,7 +1701,7 @@
   },
   {
     "id": "drug-0171",
-    "genericName": "CLARITHROMYCIN TAB. 500 MG",
+    "genericName": "CLARITHROMYCIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -1711,7 +1711,7 @@
   },
   {
     "id": "drug-0172",
-    "genericName": "CLINDAMYCIN HCl CAP. 300 MG",
+    "genericName": "CLINDAMYCIN HCl",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -1721,7 +1721,7 @@
   },
   {
     "id": "drug-0173",
-    "genericName": "CLINDAMYCIN PHOSPHATE INJ. 600 MG/4 ML",
+    "genericName": "CLINDAMYCIN PHOSPHATE",
     "tradeNames": [],
     "strength": "600 MG/4 ML",
     "form": "Injection",
@@ -1731,7 +1731,7 @@
   },
   {
     "id": "drug-0174",
-    "genericName": "CLOBETASOL PROPIONATE CREAM 5 G..",
+    "genericName": "CLOBETASOL PROPIONATE",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Cream",
@@ -1741,7 +1741,7 @@
   },
   {
     "id": "drug-0175",
-    "genericName": "CLOFAZIMINE CAP. 100 MG",
+    "genericName": "CLOFAZIMINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -1751,7 +1751,7 @@
   },
   {
     "id": "drug-0176",
-    "genericName": "CLOFAZIMINE CAP. 100 MG",
+    "genericName": "CLOFAZIMINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -1761,7 +1761,7 @@
   },
   {
     "id": "drug-0177",
-    "genericName": "CLOFAZIMINE CAP. 50 MG",
+    "genericName": "CLOFAZIMINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Capsule",
@@ -1771,7 +1771,7 @@
   },
   {
     "id": "drug-0178",
-    "genericName": "CLONAZEPAM TAB. 0.5 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Tablet",
@@ -1781,7 +1781,7 @@
   },
   {
     "id": "drug-0179",
-    "genericName": "CLONAZEPAM TAB. 0.5 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Tablet",
@@ -1791,7 +1791,7 @@
   },
   {
     "id": "drug-0180",
-    "genericName": "CLONAZEPAM TAB. 0.5 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Tablet",
@@ -1801,7 +1801,7 @@
   },
   {
     "id": "drug-0181",
-    "genericName": "CLONAZEPAM TAB. 2 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -1811,7 +1811,7 @@
   },
   {
     "id": "drug-0182",
-    "genericName": "CLONAZEPAM TAB. 2 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -1821,7 +1821,7 @@
   },
   {
     "id": "drug-0183",
-    "genericName": "CLONAZEPAM TAB. 2 MG",
+    "genericName": "CLONAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -1831,7 +1831,7 @@
   },
   {
     "id": "drug-0184",
-    "genericName": "CLOPIDOGREL TAB 75 mg",
+    "genericName": "CLOPIDOGREL",
     "tradeNames": [],
     "strength": "75 MG",
     "form": "Tablet",
@@ -1841,7 +1841,7 @@
   },
   {
     "id": "drug-0185",
-    "genericName": "CLOTRIMAZOLE CREAM 1% 5 G..",
+    "genericName": "CLOTRIMAZOLE",
     "tradeNames": [],
     "strength": "1 %, 5 G",
     "form": "Cream",
@@ -1851,7 +1851,7 @@
   },
   {
     "id": "drug-0186",
-    "genericName": "CLOTRIMAZOLE EAR DROP",
+    "genericName": "CLOTRIMAZOLE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Ear drops",
@@ -1861,7 +1861,7 @@
   },
   {
     "id": "drug-0187",
-    "genericName": "CLOTRIMAZOLE VAGINAL TAB.",
+    "genericName": "CLOTRIMAZOLE VAGINAL",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -1871,7 +1871,7 @@
   },
   {
     "id": "drug-0188",
-    "genericName": "CLOXACILLIN INJ. 1 G.",
+    "genericName": "CLOXACILLIN",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -1881,7 +1881,7 @@
   },
   {
     "id": "drug-0189",
-    "genericName": "CLOZAPINE TAB. 25 MG",
+    "genericName": "CLOZAPINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -1891,7 +1891,7 @@
   },
   {
     "id": "drug-0190",
-    "genericName": "CLOZAPINE TAB.100 MG",
+    "genericName": "CLOZAPINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -1901,7 +1901,7 @@
   },
   {
     "id": "drug-0191",
-    "genericName": "CODEINE PHOSPHATE 10 MG+ GLYCERYL GUAIACOLATE 100 MG CAP.",
+    "genericName": "CODEINE PHOSPHATE + GLYCERYL GUAIACOLATE",
     "tradeNames": [],
     "strength": "10 MG, 100 MG",
     "form": "Capsule",
@@ -1911,7 +1911,7 @@
   },
   {
     "id": "drug-0192",
-    "genericName": "COLCHICINE TAB. 0.6 MG.",
+    "genericName": "COLCHICINE",
     "tradeNames": [],
     "strength": "0.6 MG",
     "form": "Tablet",
@@ -1921,7 +1921,7 @@
   },
   {
     "id": "drug-0193",
-    "genericName": "COLISTIMETHATE SODIUM INJ. 150 MG",
+    "genericName": "COLISTIMETHATE SODIUM",
     "tradeNames": [],
     "strength": "150 MG",
     "form": "Injection",
@@ -1931,7 +1931,7 @@
   },
   {
     "id": "drug-0194",
-    "genericName": "COMPLETE FATE-SOLUBLE VITAMIN INJ. 10 ML Adult",
+    "genericName": "COMPLETE FATE-SOLUBLE VITAMIN . Adult",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -1941,7 +1941,7 @@
   },
   {
     "id": "drug-0195",
-    "genericName": "COMPLETE FATE-SOLUBLE VITAMIN INJ. 10 ML Infant",
+    "genericName": "COMPLETE FATE-SOLUBLE VITAMIN . Infant",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -1951,7 +1951,7 @@
   },
   {
     "id": "drug-0196",
-    "genericName": "COMPLETE WATER-SOLUBLE VITAMIN POWDER FOR INJ.",
+    "genericName": "COMPLETE WATER-SOLUBLE VITAMIN FOR",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -1961,7 +1961,7 @@
   },
   {
     "id": "drug-0197",
-    "genericName": "CONJUGATED ESTROGEN TAB. 0.625 MG",
+    "genericName": "CONJUGATED ESTROGEN",
     "tradeNames": [],
     "strength": "0.625 MG",
     "form": "Tablet",
@@ -1971,7 +1971,7 @@
   },
   {
     "id": "drug-0198",
-    "genericName": "CYCLOPHOSPHAMIDE INJ. 1000 MG",
+    "genericName": "CYCLOPHOSPHAMIDE",
     "tradeNames": [],
     "strength": "1000 MG",
     "form": "Injection",
@@ -1981,7 +1981,7 @@
   },
   {
     "id": "drug-0199",
-    "genericName": "CYCLOPHOSPHAMIDE INJ. 1000 MG",
+    "genericName": "CYCLOPHOSPHAMIDE",
     "tradeNames": [],
     "strength": "1000 MG",
     "form": "Injection",
@@ -1991,7 +1991,7 @@
   },
   {
     "id": "drug-0200",
-    "genericName": "CYCLOPHOSPHAMIDE TAB. 50 MG",
+    "genericName": "CYCLOPHOSPHAMIDE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "drug-0201",
-    "genericName": "CYCLOSERINE CAP.250 MG",
+    "genericName": "CYCLOSERINE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -2011,7 +2011,7 @@
   },
   {
     "id": "drug-0202",
-    "genericName": "CYPROHEPTADINE TAB. 4 MG",
+    "genericName": "CYPROHEPTADINE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -2021,7 +2021,7 @@
   },
   {
     "id": "drug-0203",
-    "genericName": "D-10-1/2 S 1000 ML.",
+    "genericName": "D-10-1/2 S",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -2031,7 +2031,7 @@
   },
   {
     "id": "drug-0204",
-    "genericName": "D-10-1/5 S 500 ML.",
+    "genericName": "D-10-1/5 S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2041,7 +2041,7 @@
   },
   {
     "id": "drug-0205",
-    "genericName": "D-5-1/2 S 1000 ML.",
+    "genericName": "D-5-1/2 S",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -2051,7 +2051,7 @@
   },
   {
     "id": "drug-0206",
-    "genericName": "D-5-1/2 S 500 ML.",
+    "genericName": "D-5-1/2 S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2061,7 +2061,7 @@
   },
   {
     "id": "drug-0207",
-    "genericName": "D-5-1/3 S 500 ML.",
+    "genericName": "D-5-1/3 S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2071,7 +2071,7 @@
   },
   {
     "id": "drug-0208",
-    "genericName": "D-5-1/4 S 500 ML.",
+    "genericName": "D-5-1/4 S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2081,7 +2081,7 @@
   },
   {
     "id": "drug-0209",
-    "genericName": "D-5-1/5 S 500 ML.",
+    "genericName": "D-5-1/5 S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2091,7 +2091,7 @@
   },
   {
     "id": "drug-0210",
-    "genericName": "D-5-S 1000 ML.",
+    "genericName": "D-5-S",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -2101,7 +2101,7 @@
   },
   {
     "id": "drug-0211",
-    "genericName": "D-5-W 100 ML.",
+    "genericName": "D-5-W",
     "tradeNames": [],
     "strength": "100 ML",
     "form": "ไม่ระบุ",
@@ -2111,7 +2111,7 @@
   },
   {
     "id": "drug-0212",
-    "genericName": "D-5-W 1000 ML.",
+    "genericName": "D-5-W",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -2121,7 +2121,7 @@
   },
   {
     "id": "drug-0213",
-    "genericName": "D-5-W 250 ML.",
+    "genericName": "D-5-W",
     "tradeNames": [],
     "strength": "250 ML",
     "form": "ไม่ระบุ",
@@ -2131,7 +2131,7 @@
   },
   {
     "id": "drug-0214",
-    "genericName": "D-5-W 500 ML.",
+    "genericName": "D-5-W",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -2141,7 +2141,7 @@
   },
   {
     "id": "drug-0215",
-    "genericName": "DABIGATRAN ETEXILATE 110 MG CAP.",
+    "genericName": "DABIGATRAN ETEXILATE",
     "tradeNames": [],
     "strength": "110 MG",
     "form": "Capsule",
@@ -2151,7 +2151,7 @@
   },
   {
     "id": "drug-0216",
-    "genericName": "DAPSONE TAB. 100 MG",
+    "genericName": "DAPSONE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -2161,7 +2161,7 @@
   },
   {
     "id": "drug-0217",
-    "genericName": "DARUNAVIR 800 MG",
+    "genericName": "DARUNAVIR",
     "tradeNames": [],
     "strength": "800 MG",
     "form": "ไม่ระบุ",
@@ -2171,7 +2171,7 @@
   },
   {
     "id": "drug-0218",
-    "genericName": "DARUNAVIR TAB. 600 MG",
+    "genericName": "DARUNAVIR",
     "tradeNames": [],
     "strength": "600 MG",
     "form": "Tablet",
@@ -2181,7 +2181,7 @@
   },
   {
     "id": "drug-0219",
-    "genericName": "DEFERASIROX TAB. 250 MG",
+    "genericName": "DEFERASIROX",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -2191,7 +2191,7 @@
   },
   {
     "id": "drug-0220",
-    "genericName": "DEFERIPRONE CAP.250 MG",
+    "genericName": "DEFERIPRONE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -2201,7 +2201,7 @@
   },
   {
     "id": "drug-0221",
-    "genericName": "DEFERIPRONE TAB. 500 MG",
+    "genericName": "DEFERIPRONE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -2211,7 +2211,7 @@
   },
   {
     "id": "drug-0222",
-    "genericName": "DELAMANID 50 MG TAB",
+    "genericName": "DELAMANID",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -2221,7 +2221,7 @@
   },
   {
     "id": "drug-0223",
-    "genericName": "DENOSUMAB 60 MG, PREFILLED SYRINGE",
+    "genericName": "DENOSUMAB",
     "tradeNames": [],
     "strength": "60 MG",
     "form": "Prefilled syringe",
@@ -2231,7 +2231,7 @@
   },
   {
     "id": "drug-0224",
-    "genericName": "DESFERRIOXAMINE METHANESULFONATE (MESILATE) INJ 500 MG",
+    "genericName": "DESFERRIOXAMINE METHANESULFONATE (MESILATE)",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -2241,7 +2241,7 @@
   },
   {
     "id": "drug-0225",
-    "genericName": "DESFERRIOXAMINE METHANESULFONATE INJ.500 MG",
+    "genericName": "DESFERRIOXAMINE METHANESULFONATE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -2251,7 +2251,7 @@
   },
   {
     "id": "drug-0226",
-    "genericName": "DESFLURANE 240 ML",
+    "genericName": "DESFLURANE",
     "tradeNames": [],
     "strength": "240 ML",
     "form": "ไม่ระบุ",
@@ -2261,7 +2261,7 @@
   },
   {
     "id": "drug-0227",
-    "genericName": "DESMOPRESSIN ACETATE (DDAVP) INJ. 4 MCG/ML",
+    "genericName": "DESMOPRESSIN ACETATE (DDAVP)",
     "tradeNames": [],
     "strength": "4 MCG",
     "form": "Injection",
@@ -2271,7 +2271,7 @@
   },
   {
     "id": "drug-0228",
-    "genericName": "DESMOPRESSIN ACETATE (DDAVP) NASAL SOL. 0.1 MG/ML",
+    "genericName": "DESMOPRESSIN ACETATE (DDAVP)",
     "tradeNames": [],
     "strength": "0.1 MG",
     "form": "Solution",
@@ -2281,7 +2281,7 @@
   },
   {
     "id": "drug-0229",
-    "genericName": "DEXAMETHASONE +NEOMYCIN EYE/EAR DROPS 4 ML.",
+    "genericName": "DEXAMETHASONE + NEOMYCIN",
     "tradeNames": [],
     "strength": "4 ML",
     "form": "Ear drops",
@@ -2291,7 +2291,7 @@
   },
   {
     "id": "drug-0230",
-    "genericName": "DEXAMETHASONE +NEOMYCIN EYE/EAR DROPS 5 ML.",
+    "genericName": "DEXAMETHASONE + NEOMYCIN",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Ear drops",
@@ -2301,7 +2301,7 @@
   },
   {
     "id": "drug-0231",
-    "genericName": "DEXAMETHASONE INJ. 4 MG",
+    "genericName": "DEXAMETHASONE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Injection",
@@ -2311,7 +2311,7 @@
   },
   {
     "id": "drug-0232",
-    "genericName": "DEXAMETHASONE INJ. 4 MG",
+    "genericName": "DEXAMETHASONE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Injection",
@@ -2321,7 +2321,7 @@
   },
   {
     "id": "drug-0233",
-    "genericName": "DEXAMETHASONE TAB 4 MG",
+    "genericName": "DEXAMETHASONE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -2331,7 +2331,7 @@
   },
   {
     "id": "drug-0234",
-    "genericName": "DEXAMETHASONE TAB. 4 MG",
+    "genericName": "DEXAMETHASONE",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -2341,7 +2341,7 @@
   },
   {
     "id": "drug-0235",
-    "genericName": "DEXMEDECTOMIDINE HYDROCHLORIDE INJ.100 MCG/ML 2 ML",
+    "genericName": "DEXMEDECTOMIDINE HYDROCHLORIDE",
     "tradeNames": [],
     "strength": "100 MCG, 2 ML",
     "form": "Injection",
@@ -2351,7 +2351,7 @@
   },
   {
     "id": "drug-0236",
-    "genericName": "DEXTRAN 40 INJ. 500 ML",
+    "genericName": "DEXTRAN 40",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "Injection",
@@ -2361,7 +2361,7 @@
   },
   {
     "id": "drug-0237",
-    "genericName": "DEXTROMETHORPHAN TAB. 15 MG",
+    "genericName": "DEXTROMETHORPHAN",
     "tradeNames": [],
     "strength": "15 MG",
     "form": "Tablet",
@@ -2371,7 +2371,7 @@
   },
   {
     "id": "drug-0238",
-    "genericName": "DEXTROSE 50% INJ. 50 ML.",
+    "genericName": "DEXTROSE",
     "tradeNames": [],
     "strength": "50 %, 50 ML",
     "form": "Injection",
@@ -2381,7 +2381,7 @@
   },
   {
     "id": "drug-0239",
-    "genericName": "DIACEREIN CAP.50 MG",
+    "genericName": "DIACEREIN",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Capsule",
@@ -2391,7 +2391,7 @@
   },
   {
     "id": "drug-0240",
-    "genericName": "DIAZEPAM INJ. 10 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -2401,7 +2401,7 @@
   },
   {
     "id": "drug-0241",
-    "genericName": "DIAZEPAM INJ. 10 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -2411,7 +2411,7 @@
   },
   {
     "id": "drug-0242",
-    "genericName": "DIAZEPAM INJ. 10 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -2421,7 +2421,7 @@
   },
   {
     "id": "drug-0243",
-    "genericName": "DIAZEPAM INJ.10 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -2431,7 +2431,7 @@
   },
   {
     "id": "drug-0244",
-    "genericName": "DIAZEPAM TAB. 2 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2441,7 +2441,7 @@
   },
   {
     "id": "drug-0245",
-    "genericName": "DIAZEPAM TAB. 2 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2451,7 +2451,7 @@
   },
   {
     "id": "drug-0246",
-    "genericName": "DIAZEPAM TAB. 2 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2461,7 +2461,7 @@
   },
   {
     "id": "drug-0247",
-    "genericName": "DIAZEPAM TAB. 2 MG.",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2471,7 +2471,7 @@
   },
   {
     "id": "drug-0248",
-    "genericName": "DIAZEPAM TAB. 5 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -2481,7 +2481,7 @@
   },
   {
     "id": "drug-0249",
-    "genericName": "DIAZEPAM TAB. 5 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -2491,7 +2491,7 @@
   },
   {
     "id": "drug-0250",
-    "genericName": "DIAZEPAM TAB. 5 MG",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -2501,7 +2501,7 @@
   },
   {
     "id": "drug-0251",
-    "genericName": "DIAZEPAM TAB. 5 MG.",
+    "genericName": "DIAZEPAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -2511,7 +2511,7 @@
   },
   {
     "id": "drug-0252",
-    "genericName": "DICLOFENAC INJ. 75 MG.",
+    "genericName": "DICLOFENAC",
     "tradeNames": [],
     "strength": "75 MG",
     "form": "Injection",
@@ -2521,7 +2521,7 @@
   },
   {
     "id": "drug-0253",
-    "genericName": "DICLOFENAC TAB. 25 MG.",
+    "genericName": "DICLOFENAC",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -2531,7 +2531,7 @@
   },
   {
     "id": "drug-0254",
-    "genericName": "DICLOXACILLIN CAP. 250 MG",
+    "genericName": "DICLOXACILLIN",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -2541,7 +2541,7 @@
   },
   {
     "id": "drug-0255",
-    "genericName": "DICLOXACILLIN DRY SYRUP 62.5 MG/5 ML, 60 ML",
+    "genericName": "DICLOXACILLIN",
     "tradeNames": [],
     "strength": "62.5 MG/5 ML, 60 ML",
     "form": "Dry syrup",
@@ -2551,7 +2551,7 @@
   },
   {
     "id": "drug-0256",
-    "genericName": "DIGOXIN ELIXIR 0.05 MG/ML",
+    "genericName": "DIGOXIN ELIXIR",
     "tradeNames": [],
     "strength": "0.05 MG",
     "form": "ไม่ระบุ",
@@ -2561,7 +2561,7 @@
   },
   {
     "id": "drug-0257",
-    "genericName": "DIGOXIN INJ 0.5 MG/2 ML",
+    "genericName": "DIGOXIN",
     "tradeNames": [],
     "strength": "0.5 MG/2 ML",
     "form": "Injection",
@@ -2571,7 +2571,7 @@
   },
   {
     "id": "drug-0258",
-    "genericName": "DIGOXIN TAB. 0.25 MG",
+    "genericName": "DIGOXIN",
     "tradeNames": [],
     "strength": "0.25 MG",
     "form": "Tablet",
@@ -2581,7 +2581,7 @@
   },
   {
     "id": "drug-0259",
-    "genericName": "DILTIAZEM INJ. 10 MG",
+    "genericName": "DILTIAZEM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -2591,7 +2591,7 @@
   },
   {
     "id": "drug-0260",
-    "genericName": "DIMENHYDRINATE INJ. 50 MG",
+    "genericName": "DIMENHYDRINATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -2601,7 +2601,7 @@
   },
   {
     "id": "drug-0261",
-    "genericName": "DIMENHYDRINATE TAB. 50 MG",
+    "genericName": "DIMENHYDRINATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -2611,7 +2611,7 @@
   },
   {
     "id": "drug-0262",
-    "genericName": "DINOPROSTONE VAGINAL TAB.",
+    "genericName": "DINOPROSTONE VAGINAL",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -2621,7 +2621,7 @@
   },
   {
     "id": "drug-0263",
-    "genericName": "DIOCTAHEDRAL SMECTITE 3 G./20 ML SUS.",
+    "genericName": "DIOCTAHEDRAL SMECTITE ./ SUS",
     "tradeNames": [],
     "strength": "3 G./20 ML",
     "form": "ไม่ระบุ",
@@ -2631,7 +2631,7 @@
   },
   {
     "id": "drug-0264",
-    "genericName": "DIPHTHERIA-TETANUS VACCINE 1 DOSE/VIAL",
+    "genericName": "DIPHTHERIA-TETANUS VACCINE",
     "tradeNames": [],
     "strength": "1 DOSE",
     "form": "Injection",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "drug-0265",
-    "genericName": "DIPOTASSIUM CLORAZEPATE CAP. 5 MG",
+    "genericName": "DIPOTASSIUM CLORAZEPATE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Capsule",
@@ -2651,7 +2651,7 @@
   },
   {
     "id": "drug-0266",
-    "genericName": "DIPOTASSIUM HYDROGEN PHOSPHATE, STERILE SOL.",
+    "genericName": "DIPOTASSIUM HYDROGEN PHOSPHATE STERILE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Solution",
@@ -2661,7 +2661,7 @@
   },
   {
     "id": "drug-0267",
-    "genericName": "DOBUTAMINE INJ. 250 MG",
+    "genericName": "DOBUTAMINE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -2671,7 +2671,7 @@
   },
   {
     "id": "drug-0268",
-    "genericName": "DOLUTEGRAVIR TAB. 50 MG",
+    "genericName": "DOLUTEGRAVIR",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -2681,7 +2681,7 @@
   },
   {
     "id": "drug-0269",
-    "genericName": "DOMPERIDONE MALEATE TAB. 10 MG",
+    "genericName": "DOMPERIDONE MALEATE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -2691,7 +2691,7 @@
   },
   {
     "id": "drug-0270",
-    "genericName": "DOMPERIDONE MALEATE TAB. 10 MG.",
+    "genericName": "DOMPERIDONE MALEATE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -2701,7 +2701,7 @@
   },
   {
     "id": "drug-0271",
-    "genericName": "DOMPERIDONE SUSP. 30 ML",
+    "genericName": "DOMPERIDONE",
     "tradeNames": [],
     "strength": "30 ML",
     "form": "Suspension",
@@ -2711,7 +2711,7 @@
   },
   {
     "id": "drug-0272",
-    "genericName": "DOMPERIDONE SUSP. 30 ML (5 MG/5 ML)",
+    "genericName": "DOMPERIDONE",
     "tradeNames": [],
     "strength": "30 ML, 5 MG/5 ML",
     "form": "Suspension",
@@ -2721,7 +2721,7 @@
   },
   {
     "id": "drug-0273",
-    "genericName": "DONEPEZIL HCL TAB. 10 MG",
+    "genericName": "DONEPEZIL HCL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -2731,7 +2731,7 @@
   },
   {
     "id": "drug-0274",
-    "genericName": "DONEPEZIL HCL TAB. 23 MG",
+    "genericName": "DONEPEZIL HCL",
     "tradeNames": [],
     "strength": "23 MG",
     "form": "Tablet",
@@ -2741,7 +2741,7 @@
   },
   {
     "id": "drug-0275",
-    "genericName": "DOPAMINE INJ. 50 MG",
+    "genericName": "DOPAMINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -2751,7 +2751,7 @@
   },
   {
     "id": "drug-0276",
-    "genericName": "DORZOLAMIDE 20 MG/ML+TIMOLOL 5 MG/ML, 5 ML EYE DROPS",
+    "genericName": "DORZOLAMIDE + TIMOLOL",
     "tradeNames": [],
     "strength": "20 MG, 5 MG, 5 ML",
     "form": "Eye drops",
@@ -2761,7 +2761,7 @@
   },
   {
     "id": "drug-0277",
-    "genericName": "DOXAZOSIN TAB. 2 MG",
+    "genericName": "DOXAZOSIN",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2771,7 +2771,7 @@
   },
   {
     "id": "drug-0278",
-    "genericName": "DOXAZOSIN TAB. 2 MG",
+    "genericName": "DOXAZOSIN",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -2781,7 +2781,7 @@
   },
   {
     "id": "drug-0279",
-    "genericName": "DOXAZOSIN TAB. 4 MG",
+    "genericName": "DOXAZOSIN",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -2791,7 +2791,7 @@
   },
   {
     "id": "drug-0280",
-    "genericName": "DOXAZOSIN TAB. 4 MG (controlled release)",
+    "genericName": "DOXAZOSIN",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -2801,7 +2801,7 @@
   },
   {
     "id": "drug-0281",
-    "genericName": "DOXORUBICIN HCL INJ. 50 MG",
+    "genericName": "DOXORUBICIN HCL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -2811,7 +2811,7 @@
   },
   {
     "id": "drug-0282",
-    "genericName": "DOXYCYCLINE CAP. 100 MG",
+    "genericName": "DOXYCYCLINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -2821,7 +2821,7 @@
   },
   {
     "id": "drug-0283",
-    "genericName": "Dutasteride 0.5 mg +Tamsulosin HCl 0.4 mg Modified-release capsule",
+    "genericName": "Dutasteride + Tamsulosin HCl Modified-release",
     "tradeNames": [],
     "strength": "0.5 MG, 0.4 MG",
     "form": "Capsule",
@@ -2831,7 +2831,7 @@
   },
   {
     "id": "drug-0284",
-    "genericName": "ELETRIPTAN HYDROBROMIDE TAB. 40 MG",
+    "genericName": "ELETRIPTAN HYDROBROMIDE",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Tablet",
@@ -2841,7 +2841,7 @@
   },
   {
     "id": "drug-0285",
-    "genericName": "ELTROMBOPAG FCT 25 MG TAB.",
+    "genericName": "ELTROMBOPAG FCT",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -2851,7 +2851,7 @@
   },
   {
     "id": "drug-0286",
-    "genericName": "EMPAGLIFLOZIN TAB. 25 MG",
+    "genericName": "EMPAGLIFLOZIN",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -2861,7 +2861,7 @@
   },
   {
     "id": "drug-0287",
-    "genericName": "ENALAPRIL TAB. 5 MG",
+    "genericName": "ENALAPRIL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -2871,7 +2871,7 @@
   },
   {
     "id": "drug-0288",
-    "genericName": "ENOXAPARIN SODIUM INJ. 60 MG",
+    "genericName": "ENOXAPARIN SODIUM",
     "tradeNames": [],
     "strength": "60 MG",
     "form": "Injection",
@@ -2881,7 +2881,7 @@
   },
   {
     "id": "drug-0289",
-    "genericName": "ENTACAPONE 200 MG. TAB.",
+    "genericName": "ENTACAPONE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -2891,7 +2891,7 @@
   },
   {
     "id": "drug-0290",
-    "genericName": "ENTECAVIR TAB.0.5 MG",
+    "genericName": "ENTECAVIR",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Tablet",
@@ -2901,7 +2901,7 @@
   },
   {
     "id": "drug-0291",
-    "genericName": "EPHEDRINE HCL INJ. 30 MG/ML",
+    "genericName": "EPHEDRINE HCL",
     "tradeNames": [],
     "strength": "30 MG",
     "form": "Injection",
@@ -2911,7 +2911,7 @@
   },
   {
     "id": "drug-0292",
-    "genericName": "EPOETIN ALPHA INJ. 4000 U",
+    "genericName": "EPOETIN ALPHA",
     "tradeNames": [],
     "strength": "4000 U",
     "form": "Injection",
@@ -2921,7 +2921,7 @@
   },
   {
     "id": "drug-0293",
-    "genericName": "EPOETIN ALPHA INJ. 4000 U DRY PWD",
+    "genericName": "EPOETIN ALPHA . DRY PWD",
     "tradeNames": [],
     "strength": "4000 U",
     "form": "Injection",
@@ -2931,7 +2931,7 @@
   },
   {
     "id": "drug-0294",
-    "genericName": "EPOETIN ALPHA INJ. 4000 U PRE FILL SYRING",
+    "genericName": "EPOETIN ALPHA . PRE FILL SYRING",
     "tradeNames": [],
     "strength": "4000 U",
     "form": "Injection",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": "drug-0295",
-    "genericName": "EPOETIN ALPHA INJ. 4000 U PRE FILL SYRING",
+    "genericName": "EPOETIN ALPHA . PRE FILL SYRING",
     "tradeNames": [],
     "strength": "4000 U",
     "form": "Injection",
@@ -2951,7 +2951,7 @@
   },
   {
     "id": "drug-0296",
-    "genericName": "ERTAPENEM INJ. 1 G.",
+    "genericName": "ERTAPENEM",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -2961,7 +2961,7 @@
   },
   {
     "id": "drug-0297",
-    "genericName": "ERYTHROMYCIN ESTOLATE DRY SYRUP",
+    "genericName": "ERYTHROMYCIN ESTOLATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Dry syrup",
@@ -2971,7 +2971,7 @@
   },
   {
     "id": "drug-0298",
-    "genericName": "ERYTHROMYCIN STEARATE TAB. 250 MG",
+    "genericName": "ERYTHROMYCIN STEARATE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -2981,7 +2981,7 @@
   },
   {
     "id": "drug-0299",
-    "genericName": "ESCITALOPRAM OXALATE TAB. 10 MG",
+    "genericName": "ESCITALOPRAM OXALATE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -2991,7 +2991,7 @@
   },
   {
     "id": "drug-0300",
-    "genericName": "ESTRADIOL HEMIHYDRATE 1 MG+ DROSPIRINONE 2 MG TAB",
+    "genericName": "ESTRADIOL HEMIHYDRATE + DROSPIRINONE",
     "tradeNames": [],
     "strength": "1 MG, 2 MG",
     "form": "Tablet",
@@ -3001,7 +3001,7 @@
   },
   {
     "id": "drug-0301",
-    "genericName": "ESTRADIOL VALERATE TAB. 1 MG",
+    "genericName": "ESTRADIOL VALERATE",
     "tradeNames": [],
     "strength": "1 MG",
     "form": "Tablet",
@@ -3011,7 +3011,7 @@
   },
   {
     "id": "drug-0302",
-    "genericName": "ESTRIOL 0.03 MG+LACTOBACILLUS ACIDOPHILUS 100 MILLION",
+    "genericName": "ESTRIOL + LACTOBACILLUS ACIDOPHILUS 100 MILLION",
     "tradeNames": [],
     "strength": "0.03 MG, 100 MILLION",
     "form": "ไม่ระบุ",
@@ -3021,7 +3021,7 @@
   },
   {
     "id": "drug-0303",
-    "genericName": "ETHAMBUTOL TAB. 400 MG",
+    "genericName": "ETHAMBUTOL",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -3031,7 +3031,7 @@
   },
   {
     "id": "drug-0304",
-    "genericName": "ETHAMBUTOL TAB. 500 MG",
+    "genericName": "ETHAMBUTOL",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -3041,7 +3041,7 @@
   },
   {
     "id": "drug-0305",
-    "genericName": "ETHINYLESTRADIOL 0.03 MG+ LEVONORGESTREL 0.15 MG",
+    "genericName": "ETHINYLESTRADIOL + LEVONORGESTREL",
     "tradeNames": [],
     "strength": "0.03 MG, 0.15 MG",
     "form": "ไม่ระบุ",
@@ -3051,7 +3051,7 @@
   },
   {
     "id": "drug-0306",
-    "genericName": "ETHIONAMIDE TAB. 250 MG",
+    "genericName": "ETHIONAMIDE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -3061,7 +3061,7 @@
   },
   {
     "id": "drug-0307",
-    "genericName": "ETHYL ALCOHOL 70%, 450 ML",
+    "genericName": "ETHYL ALCOHOL",
     "tradeNames": [],
     "strength": "70 %, 450 ML",
     "form": "ไม่ระบุ",
@@ -3071,7 +3071,7 @@
   },
   {
     "id": "drug-0308",
-    "genericName": "ETOMIDATE INJ. 20 MG/10 ML",
+    "genericName": "ETOMIDATE",
     "tradeNames": [],
     "strength": "20 MG/10 ML",
     "form": "Injection",
@@ -3081,7 +3081,7 @@
   },
   {
     "id": "drug-0309",
-    "genericName": "ETONOGESTREL 68 MG. IMPLANT 1 ROD",
+    "genericName": "ETONOGESTREL . 1 ROD",
     "tradeNames": [],
     "strength": "68 MG, 1 ROD",
     "form": "Implant",
@@ -3091,7 +3091,7 @@
   },
   {
     "id": "drug-0310",
-    "genericName": "ETORICOXIB TAB. 90 MG",
+    "genericName": "ETORICOXIB",
     "tradeNames": [],
     "strength": "90 MG",
     "form": "Tablet",
@@ -3101,7 +3101,7 @@
   },
   {
     "id": "drug-0311",
-    "genericName": "EZETIMIBE TAB. 10 MG",
+    "genericName": "EZETIMIBE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -3111,7 +3111,7 @@
   },
   {
     "id": "drug-0312",
-    "genericName": "FACTOR IX INJ.",
+    "genericName": "FACTOR IX",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -3121,7 +3121,7 @@
   },
   {
     "id": "drug-0313",
-    "genericName": "FAMOTIDINE TAB. 20 MG.",
+    "genericName": "FAMOTIDINE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -3131,7 +3131,7 @@
   },
   {
     "id": "drug-0314",
-    "genericName": "Fat emulsion (SMOFlipid 20%), Amino acid solution (Aminoven 10%) & electrolytes และ Glucose 42%",
+    "genericName": "Fat (SMOFlipid ) Amino acid (Aminoven ) & electrolytes และ Glucose",
     "tradeNames": [],
     "strength": "20 %, 10 %, 42 %",
     "form": "Emulsion",
@@ -3141,7 +3141,7 @@
   },
   {
     "id": "drug-0315",
-    "genericName": "FAT EMULSION INJ. 20 % 100 ML",
+    "genericName": "FAT",
     "tradeNames": [],
     "strength": "20 %, 100 ML",
     "form": "Injection",
@@ -3151,7 +3151,7 @@
   },
   {
     "id": "drug-0316",
-    "genericName": "FAT EMULSION+AMINO ACID+GLUCOSE INJ.",
+    "genericName": "FAT + AMINO ACID + GLUCOSE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "drug-0317",
-    "genericName": "FAVIPIRAVIR 200 MG TAB",
+    "genericName": "FAVIPIRAVIR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -3171,7 +3171,7 @@
   },
   {
     "id": "drug-0318",
-    "genericName": "FENOFIBRATE CAP. 100 MG",
+    "genericName": "FENOFIBRATE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -3181,7 +3181,7 @@
   },
   {
     "id": "drug-0319",
-    "genericName": "FENTANYL INJ. 100 MCG",
+    "genericName": "FENTANYL",
     "tradeNames": [],
     "strength": "100 MCG",
     "form": "Injection",
@@ -3191,7 +3191,7 @@
   },
   {
     "id": "drug-0320",
-    "genericName": "FENTANYL INJ. 100 MCG",
+    "genericName": "FENTANYL",
     "tradeNames": [],
     "strength": "100 MCG",
     "form": "Injection",
@@ -3201,7 +3201,7 @@
   },
   {
     "id": "drug-0321",
-    "genericName": "FERROUS FUMARATE DROPS 45 MG/0.6 ML, 15 ML (eq.to iron 15 mg/0.6 ml)",
+    "genericName": "FERROUS FUMARATE (eq.to iron )",
     "tradeNames": [],
     "strength": "45 MG/0.6 ML, 15 ML, 15 MG/0.6 ML",
     "form": "ไม่ระบุ",
@@ -3211,7 +3211,7 @@
   },
   {
     "id": "drug-0322",
-    "genericName": "FERROUS FUMARATE TAB.200 MG",
+    "genericName": "FERROUS FUMARATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -3221,7 +3221,7 @@
   },
   {
     "id": "drug-0323",
-    "genericName": "FERROUS FUMARATE TAB.200 MG",
+    "genericName": "FERROUS FUMARATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -3231,7 +3231,7 @@
   },
   {
     "id": "drug-0324",
-    "genericName": "FILGRASTIM INJ. 300 MCG",
+    "genericName": "FILGRASTIM",
     "tradeNames": [],
     "strength": "300 MCG",
     "form": "Injection",
@@ -3241,7 +3241,7 @@
   },
   {
     "id": "drug-0325",
-    "genericName": "FINASTERIDE TAB. 5 MG",
+    "genericName": "FINASTERIDE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3251,7 +3251,7 @@
   },
   {
     "id": "drug-0326",
-    "genericName": "FLUCONAZOLE CAP. 200 MG",
+    "genericName": "FLUCONAZOLE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Capsule",
@@ -3261,7 +3261,7 @@
   },
   {
     "id": "drug-0327",
-    "genericName": "FLUCYTOSINE (5-FLUOROCYTOSINE) CAP. 500 MG",
+    "genericName": "FLUCYTOSINE (5-FLUOROCYTOSINE)",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Capsule",
@@ -3271,7 +3271,7 @@
   },
   {
     "id": "drug-0328",
-    "genericName": "FLUOROMETHOLONE OPTHALMIC SUSP. 5 ML.",
+    "genericName": "FLUOROMETHOLONE OPTHALMIC",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Suspension",
@@ -3281,7 +3281,7 @@
   },
   {
     "id": "drug-0329",
-    "genericName": "FLUOROURACIL INJ. 1000 MG (20 ml)",
+    "genericName": "FLUOROURACIL",
     "tradeNames": [],
     "strength": "1000 MG, 20 ML",
     "form": "Injection",
@@ -3291,7 +3291,7 @@
   },
   {
     "id": "drug-0330",
-    "genericName": "FLUOXETINE TAP. 20 MG",
+    "genericName": "FLUOXETINE TAP",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -3301,7 +3301,7 @@
   },
   {
     "id": "drug-0331",
-    "genericName": "FLUPENTIXOL 0.5 MG+MELITRACEN 10 MG TAB.",
+    "genericName": "FLUPENTIXOL + MELITRACEN",
     "tradeNames": [],
     "strength": "0.5 MG, 10 MG",
     "form": "Tablet",
@@ -3311,7 +3311,7 @@
   },
   {
     "id": "drug-0332",
-    "genericName": "FLUPHENAZINE DECANOATE INJ. 25 MG",
+    "genericName": "FLUPHENAZINE DECANOATE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Injection",
@@ -3321,7 +3321,7 @@
   },
   {
     "id": "drug-0333",
-    "genericName": "FLUTICASONE FUROATE 27.5 MCG/DOSE NASAL SPRAY",
+    "genericName": "FLUTICASONE FUROATE",
     "tradeNames": [],
     "strength": "27.5 MCG",
     "form": "Nasal spray",
@@ -3331,7 +3331,7 @@
   },
   {
     "id": "drug-0334",
-    "genericName": "FLUTICASONE PROPIONATE 125 MCG EVOHALER",
+    "genericName": "FLUTICASONE PROPIONATE EVOHALER",
     "tradeNames": [],
     "strength": "125 MCG",
     "form": "Inhaler",
@@ -3341,7 +3341,7 @@
   },
   {
     "id": "drug-0335",
-    "genericName": "FOLIC ACID TAB. 5 MG",
+    "genericName": "FOLIC ACID",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3351,7 +3351,7 @@
   },
   {
     "id": "drug-0336",
-    "genericName": "FOLIC ACID TAB. 5 MG",
+    "genericName": "FOLIC ACID",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3361,7 +3361,7 @@
   },
   {
     "id": "drug-0337",
-    "genericName": "FOLIC ACID TAB. 5 MG",
+    "genericName": "FOLIC ACID",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3381,7 +3381,7 @@
   },
   {
     "id": "drug-0339",
-    "genericName": "FOSFOMYCIN SODIUM INJ. 2 G.",
+    "genericName": "FOSFOMYCIN SODIUM",
     "tradeNames": [],
     "strength": "2 G",
     "form": "Injection",
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "drug-0340",
-    "genericName": "FUROSEMIDE INJ. 20 MG",
+    "genericName": "FUROSEMIDE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Injection",
@@ -3401,7 +3401,7 @@
   },
   {
     "id": "drug-0341",
-    "genericName": "FUROSEMIDE INJ. 250 MG",
+    "genericName": "FUROSEMIDE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -3411,7 +3411,7 @@
   },
   {
     "id": "drug-0342",
-    "genericName": "FUROSEMIDE TAB. 40 MG",
+    "genericName": "FUROSEMIDE",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Tablet",
@@ -3421,7 +3421,7 @@
   },
   {
     "id": "drug-0343",
-    "genericName": "FUROSEMIDE TAB. 500 MG",
+    "genericName": "FUROSEMIDE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -3431,7 +3431,7 @@
   },
   {
     "id": "drug-0344",
-    "genericName": "FUSIDIC ACID (MICRONIZED) CREAM 5 G..",
+    "genericName": "FUSIDIC ACID (MICRONIZED)",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Cream",
@@ -3441,7 +3441,7 @@
   },
   {
     "id": "drug-0345",
-    "genericName": "GABAPENTIN CAP. 300 MG",
+    "genericName": "GABAPENTIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -3451,7 +3451,7 @@
   },
   {
     "id": "drug-0346",
-    "genericName": "GEMCITABINE HCL INJ. 1 G.",
+    "genericName": "GEMCITABINE HCL",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -3461,7 +3461,7 @@
   },
   {
     "id": "drug-0347",
-    "genericName": "GEMFIBROZIL CAP. 300 MG",
+    "genericName": "GEMFIBROZIL",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -3471,7 +3471,7 @@
   },
   {
     "id": "drug-0348",
-    "genericName": "GEMFIBROZIL CAP. 600 MG",
+    "genericName": "GEMFIBROZIL",
     "tradeNames": [],
     "strength": "600 MG",
     "form": "Capsule",
@@ -3481,7 +3481,7 @@
   },
   {
     "id": "drug-0349",
-    "genericName": "GENTAMICIN INJ. 80 MG",
+    "genericName": "GENTAMICIN",
     "tradeNames": [],
     "strength": "80 MG",
     "form": "Injection",
@@ -3491,7 +3491,7 @@
   },
   {
     "id": "drug-0350",
-    "genericName": "GENTAMICIN SULFATE 0.1% +BETAMETHASONE VALERATE 0.1% CREAM 15 G.",
+    "genericName": "GENTAMICIN SULFATE + BETAMETHASONE VALERATE",
     "tradeNames": [],
     "strength": "0.1 %, 15 G",
     "form": "Cream",
@@ -3501,7 +3501,7 @@
   },
   {
     "id": "drug-0351",
-    "genericName": "GLIPIZIDE TAB. 5 MG",
+    "genericName": "GLIPIZIDE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3511,7 +3511,7 @@
   },
   {
     "id": "drug-0352",
-    "genericName": "GLUCOSAMINE SULFATE CAP, 500 MG.",
+    "genericName": "GLUCOSAMINE SULFATE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Capsule",
@@ -3531,7 +3531,7 @@
   },
   {
     "id": "drug-0354",
-    "genericName": "GLYCERIN 10%+ FRUCTOSE 55 +NaCl 0.9%, 500 ML INJ.",
+    "genericName": "GLYCERIN + FRUCTOSE 55 + NaCl",
     "tradeNames": [],
     "strength": "10 %, 0.9 %, 500 ML",
     "form": "Injection",
@@ -3541,7 +3541,7 @@
   },
   {
     "id": "drug-0355",
-    "genericName": "GLYCERYL TRINITRATE INJ. 50 MG",
+    "genericName": "GLYCERYL TRINITRATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -3551,7 +3551,7 @@
   },
   {
     "id": "drug-0356",
-    "genericName": "GLYCOPYRRONIUM BROMIDE 0.2 MG/1 ML",
+    "genericName": "GLYCOPYRRONIUM BROMIDE",
     "tradeNames": [],
     "strength": "0.2 MG/1 ML",
     "form": "ไม่ระบุ",
@@ -3561,7 +3561,7 @@
   },
   {
     "id": "drug-0357",
-    "genericName": "HALOPERIDOL DECANOATE INJ. 50 MG/ML,1 ML",
+    "genericName": "HALOPERIDOL DECANOATE",
     "tradeNames": [],
     "strength": "50 MG, 1 ML",
     "form": "Injection",
@@ -3571,7 +3571,7 @@
   },
   {
     "id": "drug-0358",
-    "genericName": "HALOPERIDOL INJ. 5 MG",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Injection",
@@ -3581,7 +3581,7 @@
   },
   {
     "id": "drug-0359",
-    "genericName": "HALOPERIDOL ORAL SOLUTION 0.2% (2 MG/ML),15 ML",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "0.2 %, 2 MG, 15 ML",
     "form": "Solution",
@@ -3591,7 +3591,7 @@
   },
   {
     "id": "drug-0360",
-    "genericName": "HALOPERIDOL TAB. 0.5 MG",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Tablet",
@@ -3601,7 +3601,7 @@
   },
   {
     "id": "drug-0361",
-    "genericName": "HALOPERIDOL TAB. 10 MG",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -3611,7 +3611,7 @@
   },
   {
     "id": "drug-0362",
-    "genericName": "HALOPERIDOL TAB. 2 MG",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -3621,7 +3621,7 @@
   },
   {
     "id": "drug-0363",
-    "genericName": "HALOPERIDOL TAB. 5 MG",
+    "genericName": "HALOPERIDOL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -3631,7 +3631,7 @@
   },
   {
     "id": "drug-0364",
-    "genericName": "HEPARIN INJ. 25,000 U / 5 ML",
+    "genericName": "HEPARIN",
     "tradeNames": [],
     "strength": "000 U/5 ML",
     "form": "Injection",
@@ -3641,7 +3641,7 @@
   },
   {
     "id": "drug-0365",
-    "genericName": "HEPATITIS B IMMUNOGLOBULIN,HUMAN INJ",
+    "genericName": "HEPATITIS B IMMUNOGLOBULIN HUMAN",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -3651,7 +3651,7 @@
   },
   {
     "id": "drug-0366",
-    "genericName": "HEPATITIS B VACCINE (rDNA) INJ. 1 ML",
+    "genericName": "HEPATITIS B VACCINE (rDNA)",
     "tradeNames": [],
     "strength": "1 ML",
     "form": "Injection",
@@ -3661,7 +3661,7 @@
   },
   {
     "id": "drug-0367",
-    "genericName": "HEPATITIS B VACCINE INJ. 20 MCG",
+    "genericName": "HEPATITIS B VACCINE",
     "tradeNames": [],
     "strength": "20 MCG",
     "form": "Injection",
@@ -3671,7 +3671,7 @@
   },
   {
     "id": "drug-0368",
-    "genericName": "HUMAN INSULIN 70% NPH + 30% RI INJ. 1000 U",
+    "genericName": "HUMAN INSULIN NPH + RI",
     "tradeNames": [],
     "strength": "70 %, 30 %, 1000 U",
     "form": "Injection",
@@ -3681,7 +3681,7 @@
   },
   {
     "id": "drug-0369",
-    "genericName": "HUMAN INSULIN 70% NPH + 30% RI INJ. PENFILL 300 U",
+    "genericName": "HUMAN INSULIN NPH + RI . PENFILL",
     "tradeNames": [],
     "strength": "70 %, 30 %, 300 U",
     "form": "Injection",
@@ -3691,7 +3691,7 @@
   },
   {
     "id": "drug-0370",
-    "genericName": "HUMAN INSULIN NPH INJ. 1000 U",
+    "genericName": "HUMAN INSULIN NPH",
     "tradeNames": [],
     "strength": "1000 U",
     "form": "Injection",
@@ -3701,7 +3701,7 @@
   },
   {
     "id": "drug-0371",
-    "genericName": "HUMAN INSULIN NPH INJ. PENFILL 300 U",
+    "genericName": "HUMAN INSULIN NPH . PENFILL",
     "tradeNames": [],
     "strength": "300 U",
     "form": "Injection",
@@ -3711,7 +3711,7 @@
   },
   {
     "id": "drug-0372",
-    "genericName": "HUMAN INSULIN REGULAR INJ. 1000 U",
+    "genericName": "HUMAN INSULIN REGULAR",
     "tradeNames": [],
     "strength": "1000 U",
     "form": "Injection",
@@ -3721,7 +3721,7 @@
   },
   {
     "id": "drug-0373",
-    "genericName": "HUMAN NORMAL IMMUNOGLOBULIN,INTRAVENOUS",
+    "genericName": "HUMAN NORMAL IMMUNOGLOBULIN INTRAVENOUS",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -3731,7 +3731,7 @@
   },
   {
     "id": "drug-0374",
-    "genericName": "HUMAN NORMAL IMMUNOGLOBULIN,INTRAVENOUS",
+    "genericName": "HUMAN NORMAL IMMUNOGLOBULIN INTRAVENOUS",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -3741,7 +3741,7 @@
   },
   {
     "id": "drug-0375",
-    "genericName": "HYDRALAZINE INJ. 20 MG (sterile powder)",
+    "genericName": "HYDRALAZINE . (sterile )",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Injection",
@@ -3751,7 +3751,7 @@
   },
   {
     "id": "drug-0376",
-    "genericName": "HYDRALAZINE TAB. 25 MG",
+    "genericName": "HYDRALAZINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -3761,7 +3761,7 @@
   },
   {
     "id": "drug-0377",
-    "genericName": "HYDROCHLOROTHIAZIDE TAB. 25 MG",
+    "genericName": "HYDROCHLOROTHIAZIDE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -3771,7 +3771,7 @@
   },
   {
     "id": "drug-0378",
-    "genericName": "Hydrocortisone Acetate 5 mg + Zinc oxide 200 mg + Benzocaine 10 mg suppository /1 g.",
+    "genericName": "Hydrocortisone Acetate + Zinc oxide + Benzocaine",
     "tradeNames": [],
     "strength": "5 MG, 200 MG, 10 MG, 1 G",
     "form": "Suppository",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": "drug-0379",
-    "genericName": "Hydrocortisone Acetate 7.5 mg + Zinc oxide 250 mg + Benzocaine 40 mg suppository/1 suppo.",
+    "genericName": "Hydrocortisone Acetate + Zinc oxide + Benzocaine /1 suppo",
     "tradeNames": [],
     "strength": "7.5 MG, 250 MG, 40 MG",
     "form": "Suppository",
@@ -3791,7 +3791,7 @@
   },
   {
     "id": "drug-0380",
-    "genericName": "HYDROCORTISONE INJ. 100 MG",
+    "genericName": "HYDROCORTISONE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Injection",
@@ -3801,7 +3801,7 @@
   },
   {
     "id": "drug-0381",
-    "genericName": "HYDROGEN PEROXIDE SOL.",
+    "genericName": "HYDROGEN PEROXIDE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Solution",
@@ -3811,7 +3811,7 @@
   },
   {
     "id": "drug-0382",
-    "genericName": "HYDROXYCHLOROQUINE TAB. 200 MG",
+    "genericName": "HYDROXYCHLOROQUINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -3821,7 +3821,7 @@
   },
   {
     "id": "drug-0383",
-    "genericName": "HYDROXYCHLOROQUINE TAB. 200 MG",
+    "genericName": "HYDROXYCHLOROQUINE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -3831,7 +3831,7 @@
   },
   {
     "id": "drug-0384",
-    "genericName": "HYDROXYETHYL STARCH INJ. 500 ML",
+    "genericName": "HYDROXYETHYL STARCH",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "Injection",
@@ -3841,7 +3841,7 @@
   },
   {
     "id": "drug-0385",
-    "genericName": "HYDROXYPROGESTERONE CAPROATE INJ. 250 MG",
+    "genericName": "HYDROXYPROGESTERONE CAPROATE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -3861,7 +3861,7 @@
   },
   {
     "id": "drug-0387",
-    "genericName": "HYDROXYUREA CAP. 500 MG",
+    "genericName": "HYDROXYUREA",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Capsule",
@@ -3871,7 +3871,7 @@
   },
   {
     "id": "drug-0388",
-    "genericName": "HYDROXYZINE TAB. 10 MG",
+    "genericName": "HYDROXYZINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -3881,7 +3881,7 @@
   },
   {
     "id": "drug-0389",
-    "genericName": "HYDROXYZINE TAB. 10 MG",
+    "genericName": "HYDROXYZINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -3891,7 +3891,7 @@
   },
   {
     "id": "drug-0390",
-    "genericName": "HYOSCINE-N-BUTYLBROMIDE INJ. 20 MG.",
+    "genericName": "HYOSCINE-N-BUTYLBROMIDE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Injection",
@@ -3901,7 +3901,7 @@
   },
   {
     "id": "drug-0391",
-    "genericName": "HYOSCINE-N-BUTYLBROMIDE SYRUP",
+    "genericName": "HYOSCINE-N-BUTYLBROMIDE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Syrup",
@@ -3911,7 +3911,7 @@
   },
   {
     "id": "drug-0392",
-    "genericName": "HYOSCINE-N-BUTYLBROMIDE TAB. 10 MG.",
+    "genericName": "HYOSCINE-N-BUTYLBROMIDE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -3921,7 +3921,7 @@
   },
   {
     "id": "drug-0393",
-    "genericName": "IBUPROFEN SUSP. 100 MG/5 ML",
+    "genericName": "IBUPROFEN",
     "tradeNames": [],
     "strength": "100 MG/5 ML",
     "form": "Suspension",
@@ -3931,7 +3931,7 @@
   },
   {
     "id": "drug-0394",
-    "genericName": "IBUPROFEN SUSP. 100 MG/5 ML",
+    "genericName": "IBUPROFEN",
     "tradeNames": [],
     "strength": "100 MG/5 ML",
     "form": "Suspension",
@@ -3941,7 +3941,7 @@
   },
   {
     "id": "drug-0395",
-    "genericName": "IBUPROFEN TAB. 400 MG",
+    "genericName": "IBUPROFEN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -3951,7 +3951,7 @@
   },
   {
     "id": "drug-0396",
-    "genericName": "IBUPROFEN TAB. 400 MG",
+    "genericName": "IBUPROFEN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -3961,7 +3961,7 @@
   },
   {
     "id": "drug-0397",
-    "genericName": "IBUPROFEN TAB. 400 MG.",
+    "genericName": "IBUPROFEN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -3971,7 +3971,7 @@
   },
   {
     "id": "drug-0398",
-    "genericName": "IDARUCIZUMAB 50 MG/ML VIAL 2X2.5 GM",
+    "genericName": "IDARUCIZUMAB 2X2. M",
     "tradeNames": [],
     "strength": "50 MG, 2.5 G",
     "form": "Injection",
@@ -3981,7 +3981,7 @@
   },
   {
     "id": "drug-0399",
-    "genericName": "ILOPROST INHALATION SOLUTION 10 MCG/ML, 2 ML",
+    "genericName": "ILOPROST",
     "tradeNames": [],
     "strength": "10 MCG, 2 ML",
     "form": "Solution",
@@ -3991,7 +3991,7 @@
   },
   {
     "id": "drug-0400",
-    "genericName": "IMIPENEM 500 MG+CILASTATIN 500 MG INJ.",
+    "genericName": "IMIPENEM + CILASTATIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -4001,7 +4001,7 @@
   },
   {
     "id": "drug-0401",
-    "genericName": "IMIPRAMINE TAB. 25 MG",
+    "genericName": "IMIPRAMINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -4011,7 +4011,7 @@
   },
   {
     "id": "drug-0402",
-    "genericName": "INSULIN ASPART 100 U/ML, 3 ML",
+    "genericName": "INSULIN ASPART",
     "tradeNames": [],
     "strength": "100 U, 3 ML",
     "form": "ไม่ระบุ",
@@ -4021,7 +4021,7 @@
   },
   {
     "id": "drug-0403",
-    "genericName": "INSULIN ASPART 30%+PROTAMINATED INSULIN ASPART 70%, 300 U",
+    "genericName": "INSULIN ASPART + PROTAMINATED INSULIN ASPART",
     "tradeNames": [],
     "strength": "30 %, 70 %, 300 U",
     "form": "ไม่ระบุ",
@@ -4031,7 +4031,7 @@
   },
   {
     "id": "drug-0404",
-    "genericName": "INSULIN GLARGINE INJ. 100 U/ML, 3 ML",
+    "genericName": "INSULIN GLARGINE",
     "tradeNames": [],
     "strength": "100 U, 3 ML",
     "form": "Injection",
@@ -4041,7 +4041,7 @@
   },
   {
     "id": "drug-0405",
-    "genericName": "INSULIN GLARGINE INJ. 300 U/ML, 1.5 ML",
+    "genericName": "INSULIN GLARGINE",
     "tradeNames": [],
     "strength": "300 U, 1.5 ML",
     "form": "Injection",
@@ -4051,7 +4051,7 @@
   },
   {
     "id": "drug-0406",
-    "genericName": "INSULIN Ideg/Asp 30 (Prefilled) contain 30% Insulin Aspart and 70% Insulin Degludec",
+    "genericName": "INSULIN Ideg/Asp 30 (Prefilled) contain Insulin Aspart and Insulin Degludec",
     "tradeNames": [],
     "strength": "30 %, 70 %",
     "form": "ไม่ระบุ",
@@ -4061,7 +4061,7 @@
   },
   {
     "id": "drug-0407",
-    "genericName": "IODIXANOL INJ. 270 MG I/ML,50 ML",
+    "genericName": "IODIXANOL",
     "tradeNames": [],
     "strength": "270 MG, 50 ML",
     "form": "Injection",
@@ -4071,7 +4071,7 @@
   },
   {
     "id": "drug-0408",
-    "genericName": "IOPROMIDE INJ. 370 MG/ML,50 ML",
+    "genericName": "IOPROMIDE",
     "tradeNames": [],
     "strength": "370 MG, 50 ML",
     "form": "Injection",
@@ -4081,7 +4081,7 @@
   },
   {
     "id": "drug-0409",
-    "genericName": "IPRATROPIUM 0.5 MG+FENOTEROL 1.25 MG NEBULE",
+    "genericName": "IPRATROPIUM + FENOTEROL",
     "tradeNames": [],
     "strength": "0.5 MG, 1.25 MG",
     "form": "Nebulizer solution",
@@ -4091,7 +4091,7 @@
   },
   {
     "id": "drug-0410",
-    "genericName": "IPRATROPIUM 20 MCG+FENOTEROL 50 MCG INHALER",
+    "genericName": "IPRATROPIUM + FENOTEROL",
     "tradeNames": [],
     "strength": "20 MCG, 50 MCG",
     "form": "Inhaler",
@@ -4101,7 +4101,7 @@
   },
   {
     "id": "drug-0411",
-    "genericName": "IRINOTECAN INJ. 100 MG/5 ML",
+    "genericName": "IRINOTECAN",
     "tradeNames": [],
     "strength": "100 MG/5 ML",
     "form": "Injection",
@@ -4111,7 +4111,7 @@
   },
   {
     "id": "drug-0412",
-    "genericName": "IRON SUCROSE INJ. 100 MG",
+    "genericName": "IRON SUCROSE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Injection",
@@ -4121,7 +4121,7 @@
   },
   {
     "id": "drug-0413",
-    "genericName": "ISONIAZID TAB. 100 MG",
+    "genericName": "ISONIAZID",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -4131,7 +4131,7 @@
   },
   {
     "id": "drug-0414",
-    "genericName": "ISONIAZID TAB. 300 MG",
+    "genericName": "ISONIAZID",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -4141,7 +4141,7 @@
   },
   {
     "id": "drug-0415",
-    "genericName": "ISOSORBIDE DINITRATE SUBLINGUAL TAB. 5 MG",
+    "genericName": "ISOSORBIDE DINITRATE SUBLINGUAL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -4151,7 +4151,7 @@
   },
   {
     "id": "drug-0416",
-    "genericName": "ISOSORBIDE MONONITRATE TAB. 20 MG",
+    "genericName": "ISOSORBIDE MONONITRATE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -4161,7 +4161,7 @@
   },
   {
     "id": "drug-0417",
-    "genericName": "ISPAGHULA HUSK 2.45 G./5 G.(Psyllium Husk)",
+    "genericName": "ISPAGHULA HUSK ./ .(Psyllium Husk)",
     "tradeNames": [],
     "strength": "2.45 G./5 G",
     "form": "ไม่ระบุ",
@@ -4171,7 +4171,7 @@
   },
   {
     "id": "drug-0418",
-    "genericName": "ITRACONAZOLE CAP. 100 MG",
+    "genericName": "ITRACONAZOLE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -4181,7 +4181,7 @@
   },
   {
     "id": "drug-0419",
-    "genericName": "IVERMECTIN TAB. 6 MG",
+    "genericName": "IVERMECTIN",
     "tradeNames": [],
     "strength": "6 MG",
     "form": "Tablet",
@@ -4191,7 +4191,7 @@
   },
   {
     "id": "drug-0420",
-    "genericName": "IVERMECTIN TAB. 6 MG",
+    "genericName": "IVERMECTIN",
     "tradeNames": [],
     "strength": "6 MG",
     "form": "Tablet",
@@ -4201,7 +4201,7 @@
   },
   {
     "id": "drug-0421",
-    "genericName": "KETAMINE INJ. 50 MG/ML 10 ML",
+    "genericName": "KETAMINE",
     "tradeNames": [],
     "strength": "50 MG, 10 ML",
     "form": "Injection",
@@ -4211,7 +4211,7 @@
   },
   {
     "id": "drug-0422",
-    "genericName": "KETOCONAZOLE CREAM 5 G..",
+    "genericName": "KETOCONAZOLE",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Cream",
@@ -4221,7 +4221,7 @@
   },
   {
     "id": "drug-0423",
-    "genericName": "KETOCONAZOLE TAB. 200 MG",
+    "genericName": "KETOCONAZOLE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -4231,7 +4231,7 @@
   },
   {
     "id": "drug-0424",
-    "genericName": "KETOCONAZOLE TAB. 200 MG",
+    "genericName": "KETOCONAZOLE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -4241,7 +4241,7 @@
   },
   {
     "id": "drug-0425",
-    "genericName": "KETOCONAZOLE TAB. 200 MG",
+    "genericName": "KETOCONAZOLE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -4251,7 +4251,7 @@
   },
   {
     "id": "drug-0426",
-    "genericName": "KETOROLAC TROMETHAMINE INJ. 30 MG/ML,1 ML",
+    "genericName": "KETOROLAC TROMETHAMINE",
     "tradeNames": [],
     "strength": "30 MG, 1 ML",
     "form": "Injection",
@@ -4261,7 +4261,7 @@
   },
   {
     "id": "drug-0427",
-    "genericName": "LABETALOL HCL 5 MG/ML, VIAL",
+    "genericName": "LABETALOL HCL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Injection",
@@ -4271,7 +4271,7 @@
   },
   {
     "id": "drug-0428",
-    "genericName": "LACTULOSE SYRUP 100 ML",
+    "genericName": "LACTULOSE",
     "tradeNames": [],
     "strength": "100 ML",
     "form": "Syrup",
@@ -4281,7 +4281,7 @@
   },
   {
     "id": "drug-0429",
-    "genericName": "LAMIVUDINE SYR.10 MG/ML 60 ML",
+    "genericName": "LAMIVUDINE",
     "tradeNames": [],
     "strength": "10 MG, 60 ML",
     "form": "Syrup",
@@ -4291,7 +4291,7 @@
   },
   {
     "id": "drug-0430",
-    "genericName": "LAMIVUDINE TAB.150 MG",
+    "genericName": "LAMIVUDINE",
     "tradeNames": [],
     "strength": "150 MG",
     "form": "Tablet",
@@ -4301,7 +4301,7 @@
   },
   {
     "id": "drug-0431",
-    "genericName": "LAMIVUDINE TAB.300 MG",
+    "genericName": "LAMIVUDINE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -4311,7 +4311,7 @@
   },
   {
     "id": "drug-0432",
-    "genericName": "LAMOTRIGINE TAB. 100 MG",
+    "genericName": "LAMOTRIGINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -4321,7 +4321,7 @@
   },
   {
     "id": "drug-0433",
-    "genericName": "LAMOTRIGINE TAB. 100 MG",
+    "genericName": "LAMOTRIGINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -4331,7 +4331,7 @@
   },
   {
     "id": "drug-0434",
-    "genericName": "LAMOTRIGINE TAB. 25 MG",
+    "genericName": "LAMOTRIGINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -4341,7 +4341,7 @@
   },
   {
     "id": "drug-0435",
-    "genericName": "LAMOTRIGINE TAB. 25 MG",
+    "genericName": "LAMOTRIGINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -4351,7 +4351,7 @@
   },
   {
     "id": "drug-0436",
-    "genericName": "LANTHANUM CARBONATE 500 MG TAB.",
+    "genericName": "LANTHANUM CARBONATE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4361,7 +4361,7 @@
   },
   {
     "id": "drug-0437",
-    "genericName": "LATANOPROST EYE DROPS 0.005%, 2.5 ML.",
+    "genericName": "LATANOPROST",
     "tradeNames": [],
     "strength": "0.005 %, 2.5 ML",
     "form": "Eye drops",
@@ -4371,7 +4371,7 @@
   },
   {
     "id": "drug-0438",
-    "genericName": "LEFLUNOMIDE TAB. 20 MG",
+    "genericName": "LEFLUNOMIDE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -4381,7 +4381,7 @@
   },
   {
     "id": "drug-0439",
-    "genericName": "LEMBOREXANT TAB. 5 MG.",
+    "genericName": "LEMBOREXANT",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -4391,7 +4391,7 @@
   },
   {
     "id": "drug-0440",
-    "genericName": "LERCANIDIPINE HCL TAB. 20 MG",
+    "genericName": "LERCANIDIPINE HCL",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -4401,7 +4401,7 @@
   },
   {
     "id": "drug-0441",
-    "genericName": "LETROZOLE TAB. 2.5 MG",
+    "genericName": "LETROZOLE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -4411,7 +4411,7 @@
   },
   {
     "id": "drug-0442",
-    "genericName": "LEUPRORELIN ACETATE INJ. 3.75 MG",
+    "genericName": "LEUPRORELIN ACETATE",
     "tradeNames": [],
     "strength": "3.75 MG",
     "form": "Injection",
@@ -4421,7 +4421,7 @@
   },
   {
     "id": "drug-0443",
-    "genericName": "LEUPRORELIN ACETATE INJ. 3.75 MG",
+    "genericName": "LEUPRORELIN ACETATE",
     "tradeNames": [],
     "strength": "3.75 MG",
     "form": "Injection",
@@ -4431,7 +4431,7 @@
   },
   {
     "id": "drug-0444",
-    "genericName": "LEVETIRACETAM INJ. 100 MG/ML, 5 ML",
+    "genericName": "LEVETIRACETAM",
     "tradeNames": [],
     "strength": "100 MG, 5 ML",
     "form": "Injection",
@@ -4441,7 +4441,7 @@
   },
   {
     "id": "drug-0445",
-    "genericName": "LEVETIRACETAM ORAL SOLUTION 100 MG/ML",
+    "genericName": "LEVETIRACETAM",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Solution",
@@ -4451,7 +4451,7 @@
   },
   {
     "id": "drug-0446",
-    "genericName": "LEVETIRACETAM TAB. 500 MG",
+    "genericName": "LEVETIRACETAM",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4461,7 +4461,7 @@
   },
   {
     "id": "drug-0447",
-    "genericName": "LEVOCETIRIZINE DIHYDROCHLORIDE TAB.",
+    "genericName": "LEVOCETIRIZINE DIHYDROCHLORIDE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -4471,7 +4471,7 @@
   },
   {
     "id": "drug-0448",
-    "genericName": "LEVODOPA 200 MG+ BENSERAZIDE 50 MG TAB.",
+    "genericName": "LEVODOPA + BENSERAZIDE",
     "tradeNames": [],
     "strength": "200 MG, 50 MG",
     "form": "Tablet",
@@ -4481,7 +4481,7 @@
   },
   {
     "id": "drug-0449",
-    "genericName": "LEVODOPA 250 MG+ CARBIDOPA 25 MG TAB.",
+    "genericName": "LEVODOPA + CARBIDOPA",
     "tradeNames": [],
     "strength": "250 MG, 25 MG",
     "form": "Tablet",
@@ -4491,7 +4491,7 @@
   },
   {
     "id": "drug-0450",
-    "genericName": "LEVOFLOXACIN 5 MG/ML AND DEXAMETHASONE 1 MG/ML",
+    "genericName": "LEVOFLOXACIN AND DEXAMETHASONE",
     "tradeNames": [],
     "strength": "5 MG, 1 MG",
     "form": "ไม่ระบุ",
@@ -4501,7 +4501,7 @@
   },
   {
     "id": "drug-0451",
-    "genericName": "LEVOFLOXACIN HEMIHYDRATE TAB. 500 MG",
+    "genericName": "LEVOFLOXACIN HEMIHYDRATE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4511,7 +4511,7 @@
   },
   {
     "id": "drug-0452",
-    "genericName": "LEVOFLOXACIN HYDRATE 1.5% EYE DROP, 5 ML",
+    "genericName": "LEVOFLOXACIN HYDRATE",
     "tradeNames": [],
     "strength": "1.5 %, 5 ML",
     "form": "Eye drops",
@@ -4521,7 +4521,7 @@
   },
   {
     "id": "drug-0453",
-    "genericName": "LEVOFLOXACIN INJ. 750 MG, 150 ML",
+    "genericName": "LEVOFLOXACIN",
     "tradeNames": [],
     "strength": "750 MG, 150 ML",
     "form": "Injection",
@@ -4531,7 +4531,7 @@
   },
   {
     "id": "drug-0454",
-    "genericName": "LEVOTHYROXINE SODIUM TAB. 0.1 MG",
+    "genericName": "LEVOTHYROXINE SODIUM",
     "tradeNames": [],
     "strength": "0.1 MG",
     "form": "Tablet",
@@ -4541,7 +4541,7 @@
   },
   {
     "id": "drug-0455",
-    "genericName": "LIDOCAINE INJ. 1% + EPINEPHRINE 20 ML",
+    "genericName": "LIDOCAINE + EPINEPHRINE",
     "tradeNames": [],
     "strength": "1 %, 20 ML",
     "form": "Injection",
@@ -4551,7 +4551,7 @@
   },
   {
     "id": "drug-0456",
-    "genericName": "LIDOCAINE INJ. 1% 20 ML",
+    "genericName": "LIDOCAINE",
     "tradeNames": [],
     "strength": "1 %, 20 ML",
     "form": "Injection",
@@ -4561,7 +4561,7 @@
   },
   {
     "id": "drug-0457",
-    "genericName": "LIDOCAINE INJ. 2% + EPINEPHRINE 1.8 ML",
+    "genericName": "LIDOCAINE + EPINEPHRINE",
     "tradeNames": [],
     "strength": "2 %, 1.8 ML",
     "form": "Injection",
@@ -4571,7 +4571,7 @@
   },
   {
     "id": "drug-0458",
-    "genericName": "LIDOCAINE INJ. 2% + EPINEPHRINE 20 ML",
+    "genericName": "LIDOCAINE + EPINEPHRINE",
     "tradeNames": [],
     "strength": "2 %, 20 ML",
     "form": "Injection",
@@ -4581,7 +4581,7 @@
   },
   {
     "id": "drug-0459",
-    "genericName": "LIDOCAINE INJ. 2% 20 ML",
+    "genericName": "LIDOCAINE",
     "tradeNames": [],
     "strength": "2 %, 20 ML",
     "form": "Injection",
@@ -4591,7 +4591,7 @@
   },
   {
     "id": "drug-0460",
-    "genericName": "LIDOCAINE JELLY 30 G.",
+    "genericName": "LIDOCAINE",
     "tradeNames": [],
     "strength": "30 G",
     "form": "Jelly",
@@ -4601,7 +4601,7 @@
   },
   {
     "id": "drug-0461",
-    "genericName": "LIDOCAINE SPRAY",
+    "genericName": "LIDOCAINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -4611,7 +4611,7 @@
   },
   {
     "id": "drug-0462",
-    "genericName": "LINEZOLID 600 MG. TAB.",
+    "genericName": "LINEZOLID",
     "tradeNames": [],
     "strength": "600 MG",
     "form": "Tablet",
@@ -4621,7 +4621,7 @@
   },
   {
     "id": "drug-0463",
-    "genericName": "LITHIUM CARBONATE CAP 300 MG.",
+    "genericName": "LITHIUM CARBONATE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -4631,7 +4631,7 @@
   },
   {
     "id": "drug-0464",
-    "genericName": "LOPERAMIDE CAP. 2 MG",
+    "genericName": "LOPERAMIDE",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Capsule",
@@ -4641,7 +4641,7 @@
   },
   {
     "id": "drug-0465",
-    "genericName": "LOPINAVIR 80 MG+RITONAVIR 20 MG/ML SYR, 60 ML",
+    "genericName": "LOPINAVIR + RITONAVIR",
     "tradeNames": [],
     "strength": "80 MG, 20 MG, 60 ML",
     "form": "Syrup",
@@ -4651,7 +4651,7 @@
   },
   {
     "id": "drug-0466",
-    "genericName": "LORATADINE SYRUP 100 ML",
+    "genericName": "LORATADINE",
     "tradeNames": [],
     "strength": "100 ML",
     "form": "Syrup",
@@ -4661,7 +4661,7 @@
   },
   {
     "id": "drug-0467",
-    "genericName": "LORATADINE TAB. 10 MG",
+    "genericName": "LORATADINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -4671,7 +4671,7 @@
   },
   {
     "id": "drug-0468",
-    "genericName": "LORAZEPAM TAB. 1 MG",
+    "genericName": "LORAZEPAM",
     "tradeNames": [],
     "strength": "1 MG",
     "form": "Tablet",
@@ -4681,7 +4681,7 @@
   },
   {
     "id": "drug-0469",
-    "genericName": "LORAZEPAM TAB. 2 MG",
+    "genericName": "LORAZEPAM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -4691,7 +4691,7 @@
   },
   {
     "id": "drug-0470",
-    "genericName": "LOSARTAN 50 MG",
+    "genericName": "LOSARTAN",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "ไม่ระบุ",
@@ -4701,7 +4701,7 @@
   },
   {
     "id": "drug-0471",
-    "genericName": "LYNESTRENOL 0.5 MG",
+    "genericName": "LYNESTRENOL",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "ไม่ระบุ",
@@ -4711,7 +4711,7 @@
   },
   {
     "id": "drug-0472",
-    "genericName": "LYSOZYME CHLORIDE TAB. 30 mg",
+    "genericName": "LYSOZYME CHLORIDE",
     "tradeNames": [],
     "strength": "30 MG",
     "form": "Tablet",
@@ -4721,7 +4721,7 @@
   },
   {
     "id": "drug-0473",
-    "genericName": "MACROGOLS 4,000 (PEG)+ELECTROLYTES ORAL POWDER",
+    "genericName": "MACROGOLS 4,000 (PEG) + ELECTROLYTES",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Powder",
@@ -4731,7 +4731,7 @@
   },
   {
     "id": "drug-0474",
-    "genericName": "MACROGOLS 4,000 (PEG)+ELECTROLYTES ORAL POWDER",
+    "genericName": "MACROGOLS 4,000 (PEG) + ELECTROLYTES",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Powder",
@@ -4741,7 +4741,7 @@
   },
   {
     "id": "drug-0475",
-    "genericName": "MAGNESIUM SULFATE 50 % INJ. 2 ML.",
+    "genericName": "MAGNESIUM SULFATE",
     "tradeNames": [],
     "strength": "50 %, 2 ML",
     "form": "Injection",
@@ -4751,7 +4751,7 @@
   },
   {
     "id": "drug-0476",
-    "genericName": "MAGNESIUM SULFATE INJ. 50 %, 2 ML",
+    "genericName": "MAGNESIUM SULFATE",
     "tradeNames": [],
     "strength": "50 %, 2 ML",
     "form": "Injection",
@@ -4761,7 +4761,7 @@
   },
   {
     "id": "drug-0477",
-    "genericName": "MAGNESIUM SULFATE INJ. 50 % 2 ML.",
+    "genericName": "MAGNESIUM SULFATE",
     "tradeNames": [],
     "strength": "50 %, 2 ML",
     "form": "Injection",
@@ -4771,7 +4771,7 @@
   },
   {
     "id": "drug-0478",
-    "genericName": "MANNITOL INJ. 250 ML",
+    "genericName": "MANNITOL",
     "tradeNames": [],
     "strength": "250 ML",
     "form": "Injection",
@@ -4791,7 +4791,7 @@
   },
   {
     "id": "drug-0480",
-    "genericName": "MEBEVERINE HCl TAB. 135 MG",
+    "genericName": "MEBEVERINE HCl",
     "tradeNames": [],
     "strength": "135 MG",
     "form": "Tablet",
@@ -4801,7 +4801,7 @@
   },
   {
     "id": "drug-0481",
-    "genericName": "MECOBALAMIN TAB. 500 MCG.",
+    "genericName": "MECOBALAMIN",
     "tradeNames": [],
     "strength": "500 MCG",
     "form": "Tablet",
@@ -4811,7 +4811,7 @@
   },
   {
     "id": "drug-0482",
-    "genericName": "MEDROXYPROGESTERONE ACETATE INJ.",
+    "genericName": "MEDROXYPROGESTERONE ACETATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -4821,7 +4821,7 @@
   },
   {
     "id": "drug-0483",
-    "genericName": "MEFENAMIC TAP. 500 MG.",
+    "genericName": "MEFENAMIC TAP",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4831,7 +4831,7 @@
   },
   {
     "id": "drug-0484",
-    "genericName": "MEMENTINE SOLUTIONS 10 MG/ML 50 ML",
+    "genericName": "MEMENTINE SOLUTIONS",
     "tradeNames": [],
     "strength": "10 MG, 50 ML",
     "form": "Solution",
@@ -4841,7 +4841,7 @@
   },
   {
     "id": "drug-0485",
-    "genericName": "MEROPENEM INJ. 1 G.",
+    "genericName": "MEROPENEM",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -4851,7 +4851,7 @@
   },
   {
     "id": "drug-0486",
-    "genericName": "MEROPENEM INJ. 500 MG",
+    "genericName": "MEROPENEM",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -4861,7 +4861,7 @@
   },
   {
     "id": "drug-0487",
-    "genericName": "MESALAZINE 500 MG TAB",
+    "genericName": "MESALAZINE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4871,7 +4871,7 @@
   },
   {
     "id": "drug-0488",
-    "genericName": "MESALAZINE SUPPO 1 G",
+    "genericName": "MESALAZINE SUPPO",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Suppository",
@@ -4881,7 +4881,7 @@
   },
   {
     "id": "drug-0489",
-    "genericName": "METFORMIN TAB. 500 MG",
+    "genericName": "METFORMIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -4891,7 +4891,7 @@
   },
   {
     "id": "drug-0490",
-    "genericName": "METHIMAZOLE TAB. 5 MG",
+    "genericName": "METHIMAZOLE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -4901,7 +4901,7 @@
   },
   {
     "id": "drug-0491",
-    "genericName": "METHOTREXATE INJ. 1 G /10 ML",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "1 G/10 ML",
     "form": "Injection",
@@ -4911,7 +4911,7 @@
   },
   {
     "id": "drug-0492",
-    "genericName": "METHOTREXATE INJ. 1 G. / 10 ML",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "1 G./10 ML",
     "form": "Injection",
@@ -4921,7 +4921,7 @@
   },
   {
     "id": "drug-0493",
-    "genericName": "METHOTREXATE INJ. 50 MG, 2 ML",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "50 MG, 2 ML",
     "form": "Injection",
@@ -4931,7 +4931,7 @@
   },
   {
     "id": "drug-0494",
-    "genericName": "METHOTREXATE INJ. 50 MG.",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -4941,7 +4941,7 @@
   },
   {
     "id": "drug-0495",
-    "genericName": "METHOTREXATE TAB. 2.5 MG",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -4951,7 +4951,7 @@
   },
   {
     "id": "drug-0496",
-    "genericName": "METHOTREXATE TAB. 2.5 MG.",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -4961,7 +4961,7 @@
   },
   {
     "id": "drug-0497",
-    "genericName": "METHOTREXATE TAB. 2.5 MG.",
+    "genericName": "METHOTREXATE",
     "tradeNames": [],
     "strength": "2.5 MG",
     "form": "Tablet",
@@ -4971,7 +4971,7 @@
   },
   {
     "id": "drug-0498",
-    "genericName": "METHYLDOPA TAB. 250 MG",
+    "genericName": "METHYLDOPA",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -4981,7 +4981,7 @@
   },
   {
     "id": "drug-0499",
-    "genericName": "METHYLENE BLUE 1% INJ. 5 ML",
+    "genericName": "METHYLENE BLUE",
     "tradeNames": [],
     "strength": "1 %, 5 ML",
     "form": "Injection",
@@ -4991,7 +4991,7 @@
   },
   {
     "id": "drug-0500",
-    "genericName": "METHYLERGOMETRINE MALEATE INJ. 0.2 MG",
+    "genericName": "METHYLERGOMETRINE MALEATE",
     "tradeNames": [],
     "strength": "0.2 MG",
     "form": "Injection",
@@ -5001,7 +5001,7 @@
   },
   {
     "id": "drug-0501",
-    "genericName": "METHYLPHENIDATE HCL EXTENDED RELEASE TAB. 18 MG",
+    "genericName": "METHYLPHENIDATE HCL",
     "tradeNames": [],
     "strength": "18 MG",
     "form": "Tablet",
@@ -5011,7 +5011,7 @@
   },
   {
     "id": "drug-0502",
-    "genericName": "METHYLPHENIDATE TAB. 10 MG",
+    "genericName": "METHYLPHENIDATE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -5021,7 +5021,7 @@
   },
   {
     "id": "drug-0503",
-    "genericName": "METHYLPREDNISOLONE INJ. 1 G.",
+    "genericName": "METHYLPREDNISOLONE",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -5031,7 +5031,7 @@
   },
   {
     "id": "drug-0504",
-    "genericName": "METHYLPREDNISOLONE INJ. 1 G.",
+    "genericName": "METHYLPREDNISOLONE",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -5041,7 +5041,7 @@
   },
   {
     "id": "drug-0505",
-    "genericName": "METHYLSALICYLATE CREAM",
+    "genericName": "METHYLSALICYLATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Cream",
@@ -5051,7 +5051,7 @@
   },
   {
     "id": "drug-0506",
-    "genericName": "METOCLOPRAMIDE INJ. 10 MG",
+    "genericName": "METOCLOPRAMIDE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -5061,7 +5061,7 @@
   },
   {
     "id": "drug-0507",
-    "genericName": "METOCLOPRAMIDE INJ. 10 MG.",
+    "genericName": "METOCLOPRAMIDE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -5071,7 +5071,7 @@
   },
   {
     "id": "drug-0508",
-    "genericName": "METRONIDAZOLE INJ. 500 MG",
+    "genericName": "METRONIDAZOLE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -5081,7 +5081,7 @@
   },
   {
     "id": "drug-0509",
-    "genericName": "METRONIDAZOLE INJ. 500 MG",
+    "genericName": "METRONIDAZOLE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -5091,7 +5091,7 @@
   },
   {
     "id": "drug-0510",
-    "genericName": "METRONIDAZOLE TAB. 400 MG",
+    "genericName": "METRONIDAZOLE",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -5101,7 +5101,7 @@
   },
   {
     "id": "drug-0511",
-    "genericName": "METRONIDAZOLE TAB. 400 MG",
+    "genericName": "METRONIDAZOLE",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -5111,7 +5111,7 @@
   },
   {
     "id": "drug-0512",
-    "genericName": "MIANSERIN TAB. 30 MG",
+    "genericName": "MIANSERIN",
     "tradeNames": [],
     "strength": "30 MG",
     "form": "Tablet",
@@ -5121,7 +5121,7 @@
   },
   {
     "id": "drug-0513",
-    "genericName": "MICRONIZED FENOFIBRATE CAP. 200 MG",
+    "genericName": "MICRONIZED FENOFIBRATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Capsule",
@@ -5131,7 +5131,7 @@
   },
   {
     "id": "drug-0514",
-    "genericName": "MICRONIZED PROGESTERONE Soft Gelatin CAP. For Oral/Vaginal route 200 MG",
+    "genericName": "MICRONIZED PROGESTERONE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Capsule",
@@ -5141,7 +5141,7 @@
   },
   {
     "id": "drug-0515",
-    "genericName": "MICRONIZED PURIFIED FLAVONOID FRACTION 1000 MG. TAB.",
+    "genericName": "MICRONIZED PURIFIED FLAVONOID FRACTION",
     "tradeNames": [],
     "strength": "1000 MG",
     "form": "Tablet",
@@ -5151,7 +5151,7 @@
   },
   {
     "id": "drug-0516",
-    "genericName": "MIDAZOLAM INJ. 5 MG",
+    "genericName": "MIDAZOLAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Injection",
@@ -5161,7 +5161,7 @@
   },
   {
     "id": "drug-0517",
-    "genericName": "MIDAZOLAM INJ. 5 MG",
+    "genericName": "MIDAZOLAM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Injection",
@@ -5171,7 +5171,7 @@
   },
   {
     "id": "drug-0518",
-    "genericName": "MILK OF MAGNESIA 240 ML",
+    "genericName": "MILK OF MAGNESIA",
     "tradeNames": [],
     "strength": "240 ML",
     "form": "Suspension",
@@ -5181,7 +5181,7 @@
   },
   {
     "id": "drug-0519",
-    "genericName": "MILK OF MAGNESIA 240 ML.",
+    "genericName": "MILK OF MAGNESIA",
     "tradeNames": [],
     "strength": "240 ML",
     "form": "Suspension",
@@ -5191,7 +5191,7 @@
   },
   {
     "id": "drug-0520",
-    "genericName": "MILRINONE LACTATE 10 mg/10 ml",
+    "genericName": "MILRINONE LACTATE",
     "tradeNames": [],
     "strength": "10 MG/10 ML",
     "form": "ไม่ระบุ",
@@ -5201,7 +5201,7 @@
   },
   {
     "id": "drug-0521",
-    "genericName": "MIRABEGRON TAB. 50 MG",
+    "genericName": "MIRABEGRON",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -5211,7 +5211,7 @@
   },
   {
     "id": "drug-0522",
-    "genericName": "MIRTAZAPINE 15 MG. ORODISPERSIBLE TABLET",
+    "genericName": "MIRTAZAPINE",
     "tradeNames": [],
     "strength": "15 MG",
     "form": "Tablet",
@@ -5221,7 +5221,7 @@
   },
   {
     "id": "drug-0523",
-    "genericName": "MISOPROSTOL TAB. 200 MCG.",
+    "genericName": "MISOPROSTOL",
     "tradeNames": [],
     "strength": "200 MCG",
     "form": "Tablet",
@@ -5231,7 +5231,7 @@
   },
   {
     "id": "drug-0524",
-    "genericName": "MOLNUPIRAVIR 200 MG",
+    "genericName": "MOLNUPIRAVIR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "ไม่ระบุ",
@@ -5241,7 +5241,7 @@
   },
   {
     "id": "drug-0525",
-    "genericName": "MOMETASONE FUROATE 50 MCG/DOSE",
+    "genericName": "MOMETASONE FUROATE",
     "tradeNames": [],
     "strength": "50 MCG",
     "form": "ไม่ระบุ",
@@ -5251,7 +5251,7 @@
   },
   {
     "id": "drug-0526",
-    "genericName": "MOMETASONE FUROATE CREAM 5 G..",
+    "genericName": "MOMETASONE FUROATE",
     "tradeNames": [],
     "strength": "5 G",
     "form": "Cream",
@@ -5261,7 +5261,7 @@
   },
   {
     "id": "drug-0527",
-    "genericName": "MONTELUKAST SODIUM TAB. 10 MG",
+    "genericName": "MONTELUKAST SODIUM",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -5271,7 +5271,7 @@
   },
   {
     "id": "drug-0528",
-    "genericName": "MORPHINE INJ. 10 MG",
+    "genericName": "MORPHINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -5281,7 +5281,7 @@
   },
   {
     "id": "drug-0529",
-    "genericName": "MORPHINE INJ. 10 MG",
+    "genericName": "MORPHINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Injection",
@@ -5291,7 +5291,7 @@
   },
   {
     "id": "drug-0530",
-    "genericName": "MORPHINE SULFATE SYR. 10 MG/5 ML, 60 ML",
+    "genericName": "MORPHINE SULFATE",
     "tradeNames": [],
     "strength": "10 MG/5 ML, 60 ML",
     "form": "Syrup",
@@ -5301,7 +5301,7 @@
   },
   {
     "id": "drug-0531",
-    "genericName": "MORPHINE SULFATE TAB. 10 MG",
+    "genericName": "MORPHINE SULFATE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -5311,7 +5311,7 @@
   },
   {
     "id": "drug-0532",
-    "genericName": "MORPHINE SULFATE TAB. 10 MG SR",
+    "genericName": "MORPHINE SULFATE . SR",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -5321,7 +5321,7 @@
   },
   {
     "id": "drug-0533",
-    "genericName": "MORPHINE SULFATE TAB. 20 MG",
+    "genericName": "MORPHINE SULFATE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -5331,7 +5331,7 @@
   },
   {
     "id": "drug-0534",
-    "genericName": "MOSAPRIDE CITRATE TAB. 5 MG",
+    "genericName": "MOSAPRIDE CITRATE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -5341,7 +5341,7 @@
   },
   {
     "id": "drug-0535",
-    "genericName": "MOSAPRIDE CITRATE TAB. 5 MG",
+    "genericName": "MOSAPRIDE CITRATE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -5351,7 +5351,7 @@
   },
   {
     "id": "drug-0536",
-    "genericName": "MOXIFLOXACIN EYE DROP 0.5 %",
+    "genericName": "MOXIFLOXACIN",
     "tradeNames": [],
     "strength": "0.5 %",
     "form": "Eye drops",
@@ -5361,7 +5361,7 @@
   },
   {
     "id": "drug-0537",
-    "genericName": "MOXIFLOXACIN TAB. 400 MG",
+    "genericName": "MOXIFLOXACIN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -5371,7 +5371,7 @@
   },
   {
     "id": "drug-0538",
-    "genericName": "MOXIFLOXACIN TAB. 400 MG",
+    "genericName": "MOXIFLOXACIN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -5381,7 +5381,7 @@
   },
   {
     "id": "drug-0539",
-    "genericName": "MULTIPLE TRACE MINERAL SOLUTION FOR ADULT INJ. 10 ML",
+    "genericName": "MULTIPLE TRACE MINERAL FOR ADULT",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -5391,7 +5391,7 @@
   },
   {
     "id": "drug-0540",
-    "genericName": "MULTIPLE TRACE MINERAL SOLUTION INJ. 10 ML",
+    "genericName": "MULTIPLE TRACE MINERAL",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -5401,7 +5401,7 @@
   },
   {
     "id": "drug-0541",
-    "genericName": "MULTIVITAMINS DROPS",
+    "genericName": "MULTIVITAMINS",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -5411,7 +5411,7 @@
   },
   {
     "id": "drug-0542",
-    "genericName": "MULTIVITAMINS SYRUP",
+    "genericName": "MULTIVITAMINS",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Syrup",
@@ -5421,7 +5421,7 @@
   },
   {
     "id": "drug-0543",
-    "genericName": "MYCOPHENOLATE MOFETIL CAP. 250 MG",
+    "genericName": "MYCOPHENOLATE MOFETIL",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -5431,7 +5431,7 @@
   },
   {
     "id": "drug-0544",
-    "genericName": "N.S.S. 0.45% 1000 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "0.45 %, 1000 ML",
     "form": "ไม่ระบุ",
@@ -5441,7 +5441,7 @@
   },
   {
     "id": "drug-0545",
-    "genericName": "N.S.S. 100 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "100 ML",
     "form": "ไม่ระบุ",
@@ -5451,7 +5451,7 @@
   },
   {
     "id": "drug-0546",
-    "genericName": "N.S.S. 100 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "100 ML",
     "form": "ไม่ระบุ",
@@ -5461,7 +5461,7 @@
   },
   {
     "id": "drug-0547",
-    "genericName": "N.S.S. 1000 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -5471,7 +5471,7 @@
   },
   {
     "id": "drug-0548",
-    "genericName": "N.S.S. 1000 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "ไม่ระบุ",
@@ -5481,7 +5481,7 @@
   },
   {
     "id": "drug-0549",
-    "genericName": "N.S.S. 2000 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "2000 ML",
     "form": "ไม่ระบุ",
@@ -5491,7 +5491,7 @@
   },
   {
     "id": "drug-0550",
-    "genericName": "N.S.S. 500 ML.",
+    "genericName": "N.S.S",
     "tradeNames": [],
     "strength": "500 ML",
     "form": "ไม่ระบุ",
@@ -5501,7 +5501,7 @@
   },
   {
     "id": "drug-0551",
-    "genericName": "N.S.S. FOR IRRIGATION 1000 ML",
+    "genericName": "N.S.S. FOR IRRIGATION",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "Irrigation solution",
@@ -5511,7 +5511,7 @@
   },
   {
     "id": "drug-0552",
-    "genericName": "N.S.S. FOR IRRIGATION 1000 ML",
+    "genericName": "N.S.S. FOR IRRIGATION",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "Irrigation solution",
@@ -5521,7 +5521,7 @@
   },
   {
     "id": "drug-0553",
-    "genericName": "NALOXONE INJ. 0.4 MG",
+    "genericName": "NALOXONE",
     "tradeNames": [],
     "strength": "0.4 MG",
     "form": "Injection",
@@ -5531,7 +5531,7 @@
   },
   {
     "id": "drug-0554",
-    "genericName": "NAPROXEN SODIUM TAB. 275 MG.",
+    "genericName": "NAPROXEN SODIUM",
     "tradeNames": [],
     "strength": "275 MG",
     "form": "Tablet",
@@ -5541,7 +5541,7 @@
   },
   {
     "id": "drug-0555",
-    "genericName": "NEOSTIGMINE INJ. 5 ML",
+    "genericName": "NEOSTIGMINE",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Injection",
@@ -5551,7 +5551,7 @@
   },
   {
     "id": "drug-0556",
-    "genericName": "NEOSTIGMINE INJ. 5 ML.",
+    "genericName": "NEOSTIGMINE",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Injection",
@@ -5561,7 +5561,7 @@
   },
   {
     "id": "drug-0557",
-    "genericName": "NEVIRAPINE SUSP. 10 MG/ML,60 ML",
+    "genericName": "NEVIRAPINE",
     "tradeNames": [],
     "strength": "10 MG, 60 ML",
     "form": "Suspension",
@@ -5571,7 +5571,7 @@
   },
   {
     "id": "drug-0558",
-    "genericName": "NICARDIPINE INJ. 2 MG",
+    "genericName": "NICARDIPINE",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Injection",
@@ -5581,7 +5581,7 @@
   },
   {
     "id": "drug-0559",
-    "genericName": "NICARDIPINE INJ. 25 MG/25 ML",
+    "genericName": "NICARDIPINE",
     "tradeNames": [],
     "strength": "25 MG/25 ML",
     "form": "Injection",
@@ -5591,7 +5591,7 @@
   },
   {
     "id": "drug-0560",
-    "genericName": "NICOTINE TAB. 2 MG.",
+    "genericName": "NICOTINE",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -5601,7 +5601,7 @@
   },
   {
     "id": "drug-0561",
-    "genericName": "NIFEDIPINE CAP. 5 MG",
+    "genericName": "NIFEDIPINE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Capsule",
@@ -5611,7 +5611,7 @@
   },
   {
     "id": "drug-0562",
-    "genericName": "NIFEDIPINE CAP. 5 MG",
+    "genericName": "NIFEDIPINE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Capsule",
@@ -5621,7 +5621,7 @@
   },
   {
     "id": "drug-0563",
-    "genericName": "NIFEDIPINE SR TAB. 20 MG",
+    "genericName": "NIFEDIPINE SR",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -5631,7 +5631,7 @@
   },
   {
     "id": "drug-0564",
-    "genericName": "NOREPINEPHRINE INJ. 4 MG/4 ML",
+    "genericName": "NOREPINEPHRINE",
     "tradeNames": [],
     "strength": "4 MG/4 ML",
     "form": "Injection",
@@ -5641,7 +5641,7 @@
   },
   {
     "id": "drug-0565",
-    "genericName": "NORETHISTERONE TAB. 5 MG",
+    "genericName": "NORETHISTERONE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -5651,7 +5651,7 @@
   },
   {
     "id": "drug-0566",
-    "genericName": "NORFLOXACIN TAB. 400 MG",
+    "genericName": "NORFLOXACIN",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -5661,7 +5661,7 @@
   },
   {
     "id": "drug-0567",
-    "genericName": "NORTRIPTYLINE TAB. 10 MG",
+    "genericName": "NORTRIPTYLINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -5671,7 +5671,7 @@
   },
   {
     "id": "drug-0568",
-    "genericName": "OCTREOTIDE ACETATE INJ. 0.1 MG/ML",
+    "genericName": "OCTREOTIDE ACETATE",
     "tradeNames": [],
     "strength": "0.1 MG",
     "form": "Injection",
@@ -5681,7 +5681,7 @@
   },
   {
     "id": "drug-0569",
-    "genericName": "OFLOXACIN EAR SOLN. 5 ML.",
+    "genericName": "OFLOXACIN",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Ear drops",
@@ -5691,7 +5691,7 @@
   },
   {
     "id": "drug-0570",
-    "genericName": "OFLOXACIN TAB. 200 MG",
+    "genericName": "OFLOXACIN",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -5701,7 +5701,7 @@
   },
   {
     "id": "drug-0571",
-    "genericName": "OLANZAPINE ODT TAB. 5 MG",
+    "genericName": "OLANZAPINE ODT",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -5721,7 +5721,7 @@
   },
   {
     "id": "drug-0573",
-    "genericName": "OMEPRAZOLE CAP. 20 MG",
+    "genericName": "OMEPRAZOLE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Capsule",
@@ -5731,7 +5731,7 @@
   },
   {
     "id": "drug-0574",
-    "genericName": "OMEPRAZOLE INJ. 40 MG",
+    "genericName": "OMEPRAZOLE",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Injection",
@@ -5741,7 +5741,7 @@
   },
   {
     "id": "drug-0575",
-    "genericName": "ONDANSETRON INJ. 8 MG",
+    "genericName": "ONDANSETRON",
     "tradeNames": [],
     "strength": "8 MG",
     "form": "Injection",
@@ -5751,7 +5751,7 @@
   },
   {
     "id": "drug-0576",
-    "genericName": "ONDANSETRON TAB. 8 MG",
+    "genericName": "ONDANSETRON",
     "tradeNames": [],
     "strength": "8 MG",
     "form": "Tablet",
@@ -5761,7 +5761,7 @@
   },
   {
     "id": "drug-0577",
-    "genericName": "ORAL REHYDRATION SALTS (ORS) 3.3 G",
+    "genericName": "ORAL REHYDRATION SALTS (ORS)",
     "tradeNames": [],
     "strength": "3.3 G",
     "form": "Powder",
@@ -5771,7 +5771,7 @@
   },
   {
     "id": "drug-0578",
-    "genericName": "ORAL REHYDRATION SALTS (ORS) 5.5 G",
+    "genericName": "ORAL REHYDRATION SALTS (ORS)",
     "tradeNames": [],
     "strength": "5.5 G",
     "form": "Powder",
@@ -5781,7 +5781,7 @@
   },
   {
     "id": "drug-0579",
-    "genericName": "OSELTAMIVIR PHOSPHATE CAP.75 MG",
+    "genericName": "OSELTAMIVIR PHOSPHATE",
     "tradeNames": [],
     "strength": "75 MG",
     "form": "Capsule",
@@ -5791,7 +5791,7 @@
   },
   {
     "id": "drug-0580",
-    "genericName": "OXALIPLATIN INJ. 100 MG/20 ML",
+    "genericName": "OXALIPLATIN",
     "tradeNames": [],
     "strength": "100 MG/20 ML",
     "form": "Injection",
@@ -5801,7 +5801,7 @@
   },
   {
     "id": "drug-0581",
-    "genericName": "OXALIPLATIN INJ. 50 MG/25 ML",
+    "genericName": "OXALIPLATIN",
     "tradeNames": [],
     "strength": "50 MG/25 ML",
     "form": "Injection",
@@ -5811,7 +5811,7 @@
   },
   {
     "id": "drug-0582",
-    "genericName": "OXYBUTYNIN TAB. 5 MG",
+    "genericName": "OXYBUTYNIN",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -5821,7 +5821,7 @@
   },
   {
     "id": "drug-0583",
-    "genericName": "OXYMETHOLONE TAB. 50 MG",
+    "genericName": "OXYMETHOLONE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -5831,7 +5831,7 @@
   },
   {
     "id": "drug-0584",
-    "genericName": "OXYTETRACYCLINE OPHTHALMIC OINT.",
+    "genericName": "OXYTETRACYCLINE OPHTHALMIC OINT",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Ointment",
@@ -5841,7 +5841,7 @@
   },
   {
     "id": "drug-0585",
-    "genericName": "OXYTOCIN INJ. 10 IU",
+    "genericName": "OXYTOCIN",
     "tradeNames": [],
     "strength": "10 IU",
     "form": "Injection",
@@ -5851,7 +5851,7 @@
   },
   {
     "id": "drug-0586",
-    "genericName": "P.G.S INJ. 5,000,000 U",
+    "genericName": "P.G.S",
     "tradeNames": [],
     "strength": "000 U",
     "form": "Injection",
@@ -5861,7 +5861,7 @@
   },
   {
     "id": "drug-0587",
-    "genericName": "PACLITAXEL INJ. 300 MG/50 ML",
+    "genericName": "PACLITAXEL",
     "tradeNames": [],
     "strength": "300 MG/50 ML",
     "form": "Injection",
@@ -5871,7 +5871,7 @@
   },
   {
     "id": "drug-0588",
-    "genericName": "PALIPERIDONE PALMITATE 156 MG eq.to PALIPERIDONE INJ. 100 MG",
+    "genericName": "PALIPERIDONE PALMITATE eq.to PALIPERIDONE",
     "tradeNames": [],
     "strength": "156 MG, 100 MG",
     "form": "Injection",
@@ -5881,7 +5881,7 @@
   },
   {
     "id": "drug-0589",
-    "genericName": "PANTOPRAZOL INJ 40 MG",
+    "genericName": "PANTOPRAZOL",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Injection",
@@ -5891,7 +5891,7 @@
   },
   {
     "id": "drug-0590",
-    "genericName": "PARACETAMOL 1000 MG/100 ML SOLUTION FOR INFUSION",
+    "genericName": "PARACETAMOL FOR INFUSION",
     "tradeNames": [],
     "strength": "1000 MG/100 ML",
     "form": "Solution",
@@ -5901,7 +5901,7 @@
   },
   {
     "id": "drug-0591",
-    "genericName": "PARACETAMOL SYRUP 120 mg/5 ml",
+    "genericName": "PARACETAMOL",
     "tradeNames": [],
     "strength": "120 MG/5 ML",
     "form": "Syrup",
@@ -5911,7 +5911,7 @@
   },
   {
     "id": "drug-0592",
-    "genericName": "PARACETAMOL TAB. 325 MG",
+    "genericName": "PARACETAMOL",
     "tradeNames": [],
     "strength": "325 MG",
     "form": "Tablet",
@@ -5921,7 +5921,7 @@
   },
   {
     "id": "drug-0593",
-    "genericName": "PARACETAMOL TAB. 325 MG",
+    "genericName": "PARACETAMOL",
     "tradeNames": [],
     "strength": "325 MG",
     "form": "Tablet",
@@ -5931,7 +5931,7 @@
   },
   {
     "id": "drug-0594",
-    "genericName": "PARACETAMOL TAB. 500 MG",
+    "genericName": "PARACETAMOL",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -5941,7 +5941,7 @@
   },
   {
     "id": "drug-0595",
-    "genericName": "PARACETAMOL TAB. 500 MG",
+    "genericName": "PARACETAMOL",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -5951,7 +5951,7 @@
   },
   {
     "id": "drug-0596",
-    "genericName": "PARECOXIB SODIUM INJ. 40 MG",
+    "genericName": "PARECOXIB SODIUM",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Injection",
@@ -5961,7 +5961,7 @@
   },
   {
     "id": "drug-0597",
-    "genericName": "PENICILLIN V TAB. 250 MG",
+    "genericName": "PENICILLIN V",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -5971,7 +5971,7 @@
   },
   {
     "id": "drug-0598",
-    "genericName": "PERPHENAZINE TAB. 16 MG",
+    "genericName": "PERPHENAZINE",
     "tradeNames": [],
     "strength": "16 MG",
     "form": "Tablet",
@@ -5981,7 +5981,7 @@
   },
   {
     "id": "drug-0599",
-    "genericName": "PERPHENAZINE TAB. 8 MG",
+    "genericName": "PERPHENAZINE",
     "tradeNames": [],
     "strength": "8 MG",
     "form": "Tablet",
@@ -5991,7 +5991,7 @@
   },
   {
     "id": "drug-0600",
-    "genericName": "PETHIDINE INJ. 50 MG",
+    "genericName": "PETHIDINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -6001,7 +6001,7 @@
   },
   {
     "id": "drug-0601",
-    "genericName": "PETHIDINE INJ. 50 MG",
+    "genericName": "PETHIDINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Injection",
@@ -6011,7 +6011,7 @@
   },
   {
     "id": "drug-0602",
-    "genericName": "PHENOBARBITAL INJ. 200 MG/ML, 1 ML",
+    "genericName": "PHENOBARBITAL",
     "tradeNames": [],
     "strength": "200 MG, 1 ML",
     "form": "Injection",
@@ -6021,7 +6021,7 @@
   },
   {
     "id": "drug-0603",
-    "genericName": "PHENOBARBITAL INJ. 200 MG/ML, 1 ML",
+    "genericName": "PHENOBARBITAL",
     "tradeNames": [],
     "strength": "200 MG, 1 ML",
     "form": "Injection",
@@ -6031,7 +6031,7 @@
   },
   {
     "id": "drug-0604",
-    "genericName": "PHENOBARBITAL INJ. 200 MG/ML, 1 ML",
+    "genericName": "PHENOBARBITAL",
     "tradeNames": [],
     "strength": "200 MG, 1 ML",
     "form": "Injection",
@@ -6041,7 +6041,7 @@
   },
   {
     "id": "drug-0605",
-    "genericName": "PHENOBARBITONE TAB. 60 MG",
+    "genericName": "PHENOBARBITONE",
     "tradeNames": [],
     "strength": "60 MG",
     "form": "Tablet",
@@ -6051,7 +6051,7 @@
   },
   {
     "id": "drug-0606",
-    "genericName": "PHENYLEPHRINE EYE DROPS",
+    "genericName": "PHENYLEPHRINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Eye drops",
@@ -6061,7 +6061,7 @@
   },
   {
     "id": "drug-0607",
-    "genericName": "PHENYTOIN INFA TAB. 50 MG",
+    "genericName": "PHENYTOIN INFA",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -6071,7 +6071,7 @@
   },
   {
     "id": "drug-0608",
-    "genericName": "PHENYTOIN SODIUM CAP. 100 MG",
+    "genericName": "PHENYTOIN SODIUM",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -6081,7 +6081,7 @@
   },
   {
     "id": "drug-0609",
-    "genericName": "PHENYTOIN SODIUM INJ. 50 MG/ML 5 ML",
+    "genericName": "PHENYTOIN SODIUM",
     "tradeNames": [],
     "strength": "50 MG, 5 ML",
     "form": "Injection",
@@ -6091,7 +6091,7 @@
   },
   {
     "id": "drug-0610",
-    "genericName": "PHENYTOIN SODIUM INJ. 50 MG/ML 5 ML",
+    "genericName": "PHENYTOIN SODIUM",
     "tradeNames": [],
     "strength": "50 MG, 5 ML",
     "form": "Injection",
@@ -6101,7 +6101,7 @@
   },
   {
     "id": "drug-0611",
-    "genericName": "PILOCARPINE EYE DROPS 2%",
+    "genericName": "PILOCARPINE",
     "tradeNames": [],
     "strength": "2 %",
     "form": "Eye drops",
@@ -6111,7 +6111,7 @@
   },
   {
     "id": "drug-0612",
-    "genericName": "PIOGLITAZONE HYDROCHLORIDE TAB. 15 MG",
+    "genericName": "PIOGLITAZONE HYDROCHLORIDE",
     "tradeNames": [],
     "strength": "15 MG",
     "form": "Tablet",
@@ -6121,7 +6121,7 @@
   },
   {
     "id": "drug-0613",
-    "genericName": "PIPERACILLIN 4 G. + TAZOBACTAM 0.5 MG INJ.",
+    "genericName": "PIPERACILLIN + TAZOBACTAM",
     "tradeNames": [],
     "strength": "4 G, 0.5 MG",
     "form": "Injection",
@@ -6131,7 +6131,7 @@
   },
   {
     "id": "drug-0614",
-    "genericName": "PITAVASTATIN TAB. 4 MG",
+    "genericName": "PITAVASTATIN",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -6151,7 +6151,7 @@
   },
   {
     "id": "drug-0616",
-    "genericName": "POLYMYXIN B + NEOMYCIN +GRAMICIDIN EYE DROPS 5 ML.",
+    "genericName": "POLYMYXIN B + NEOMYCIN + GRAMICIDIN",
     "tradeNames": [],
     "strength": "5 ML",
     "form": "Eye drops",
@@ -6161,7 +6161,7 @@
   },
   {
     "id": "drug-0617",
-    "genericName": "PORACTANT ALFA Sterile intratracheal SUSP. 80 MG/ML, 1.5 ML",
+    "genericName": "PORACTANT ALFA Sterile intratracheal",
     "tradeNames": [],
     "strength": "80 MG, 1.5 ML",
     "form": "Suspension",
@@ -6171,7 +6171,7 @@
   },
   {
     "id": "drug-0618",
-    "genericName": "POTASSIUM CHLORIDE INJ. 10 ML",
+    "genericName": "POTASSIUM CHLORIDE",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -6181,7 +6181,7 @@
   },
   {
     "id": "drug-0619",
-    "genericName": "POTASSIUM CHLORIDE TAB. 500 MG",
+    "genericName": "POTASSIUM CHLORIDE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -6191,7 +6191,7 @@
   },
   {
     "id": "drug-0620",
-    "genericName": "POTASSIUM CITRATE AND SODIUM CITRATE TAB.",
+    "genericName": "POTASSIUM CITRATE AND SODIUM CITRATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -6211,7 +6211,7 @@
   },
   {
     "id": "drug-0622",
-    "genericName": "POVIDONE IODINE SOLUTION 450 ML",
+    "genericName": "POVIDONE IODINE",
     "tradeNames": [],
     "strength": "450 ML",
     "form": "Solution",
@@ -6221,7 +6221,7 @@
   },
   {
     "id": "drug-0623",
-    "genericName": "PRALIDOXIME INJ. 1 G.",
+    "genericName": "PRALIDOXIME",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -6231,7 +6231,7 @@
   },
   {
     "id": "drug-0624",
-    "genericName": "PRAMIPEXOLE diHCl TAB. 0.25 MG.",
+    "genericName": "PRAMIPEXOLE diHCl",
     "tradeNames": [],
     "strength": "0.25 MG",
     "form": "Tablet",
@@ -6241,7 +6241,7 @@
   },
   {
     "id": "drug-0625",
-    "genericName": "PRAZIQUANTEL TAB. 600 MG",
+    "genericName": "PRAZIQUANTEL",
     "tradeNames": [],
     "strength": "600 MG",
     "form": "Tablet",
@@ -6251,7 +6251,7 @@
   },
   {
     "id": "drug-0626",
-    "genericName": "PREDNISOLONE EYE DROPS",
+    "genericName": "PREDNISOLONE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Eye drops",
@@ -6261,7 +6261,7 @@
   },
   {
     "id": "drug-0627",
-    "genericName": "PREDNISOLONE TAB. 5 MG",
+    "genericName": "PREDNISOLONE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -6271,7 +6271,7 @@
   },
   {
     "id": "drug-0628",
-    "genericName": "PREDNISOLONE TAB. 5 MG",
+    "genericName": "PREDNISOLONE",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -6281,7 +6281,7 @@
   },
   {
     "id": "drug-0629",
-    "genericName": "PREGABALIN CAP. 75 MG",
+    "genericName": "PREGABALIN",
     "tradeNames": [],
     "strength": "75 MG",
     "form": "Capsule",
@@ -6291,7 +6291,7 @@
   },
   {
     "id": "drug-0630",
-    "genericName": "PRETOMANID 200 MG",
+    "genericName": "PRETOMANID",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "ไม่ระบุ",
@@ -6301,7 +6301,7 @@
   },
   {
     "id": "drug-0631",
-    "genericName": "PRIMAQUINE TAB. 15 MG",
+    "genericName": "PRIMAQUINE",
     "tradeNames": [],
     "strength": "15 MG",
     "form": "Tablet",
@@ -6311,7 +6311,7 @@
   },
   {
     "id": "drug-0632",
-    "genericName": "PROPAFENONE HCl TAB. 150 MG.",
+    "genericName": "PROPAFENONE HCl",
     "tradeNames": [],
     "strength": "150 MG",
     "form": "Tablet",
@@ -6321,7 +6321,7 @@
   },
   {
     "id": "drug-0633",
-    "genericName": "PROPOFOL 1% (10 MG/ML) 20 ML",
+    "genericName": "PROPOFOL",
     "tradeNames": [],
     "strength": "1 %, 10 MG, 20 ML",
     "form": "ไม่ระบุ",
@@ -6331,7 +6331,7 @@
   },
   {
     "id": "drug-0634",
-    "genericName": "PROPRANOLOL TAB. 10 MG",
+    "genericName": "PROPRANOLOL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -6341,7 +6341,7 @@
   },
   {
     "id": "drug-0635",
-    "genericName": "PROPRANOLOL TAB. 10 MG",
+    "genericName": "PROPRANOLOL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -6351,7 +6351,7 @@
   },
   {
     "id": "drug-0636",
-    "genericName": "PROPRANOLOL TAB. 10 MG",
+    "genericName": "PROPRANOLOL",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -6361,7 +6361,7 @@
   },
   {
     "id": "drug-0637",
-    "genericName": "PROPYLTHIOURACIL TAB. 50 MG",
+    "genericName": "PROPYLTHIOURACIL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -6381,7 +6381,7 @@
   },
   {
     "id": "drug-0639",
-    "genericName": "PROTHIONAMIDE TAB. 250 MG",
+    "genericName": "PROTHIONAMIDE",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Tablet",
@@ -6401,7 +6401,7 @@
   },
   {
     "id": "drug-0641",
-    "genericName": "PSEUDOEPHEDRINE HCL TAB. 30 MG",
+    "genericName": "PSEUDOEPHEDRINE HCL",
     "tradeNames": [],
     "strength": "30 MG",
     "form": "Tablet",
@@ -6411,7 +6411,7 @@
   },
   {
     "id": "drug-0642",
-    "genericName": "PYRAZINAMIDE TAB. 500 MG",
+    "genericName": "PYRAZINAMIDE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -6421,7 +6421,7 @@
   },
   {
     "id": "drug-0643",
-    "genericName": "PYRIDOSTIGMINE BROMIDE TAB. 60 MG.",
+    "genericName": "PYRIDOSTIGMINE BROMIDE",
     "tradeNames": [],
     "strength": "60 MG",
     "form": "Tablet",
@@ -6431,7 +6431,7 @@
   },
   {
     "id": "drug-0644",
-    "genericName": "PYRIMETHAMINE TAB.",
+    "genericName": "PYRIMETHAMINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -6441,7 +6441,7 @@
   },
   {
     "id": "drug-0645",
-    "genericName": "QUETIAPINE 25 MG TAB.",
+    "genericName": "QUETIAPINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -6451,7 +6451,7 @@
   },
   {
     "id": "drug-0646",
-    "genericName": "QUETIAPINE FUMARATE 200 MG TAB.",
+    "genericName": "QUETIAPINE FUMARATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -6461,7 +6461,7 @@
   },
   {
     "id": "drug-0647",
-    "genericName": "QUININE DIHYDROCHLORIDE INJ.600 MG/2ML",
+    "genericName": "QUININE DIHYDROCHLORIDE",
     "tradeNames": [],
     "strength": "600 MG/2 ML",
     "form": "Injection",
@@ -6471,7 +6471,7 @@
   },
   {
     "id": "drug-0648",
-    "genericName": "QUININE TAB. 300 MG",
+    "genericName": "QUININE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -6481,7 +6481,7 @@
   },
   {
     "id": "drug-0649",
-    "genericName": "RABEPRAZOLE TAB. 20 MG",
+    "genericName": "RABEPRAZOLE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -6491,7 +6491,7 @@
   },
   {
     "id": "drug-0650",
-    "genericName": "RABIES IMMUNOGLOBULIN,HUMAN INJ.",
+    "genericName": "RABIES IMMUNOGLOBULIN HUMAN",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -6501,7 +6501,7 @@
   },
   {
     "id": "drug-0651",
-    "genericName": "RABIES IMMUNOGLOBULIN,PURIFIED EQUINE ANTIRABIES SERUM INJ. 400 IU/2 ML",
+    "genericName": "RABIES IMMUNOGLOBULIN PURIFIED EQUINE ANTIRABIES SERUM",
     "tradeNames": [],
     "strength": "400 IU/2 ML",
     "form": "Injection",
@@ -6511,7 +6511,7 @@
   },
   {
     "id": "drug-0652",
-    "genericName": "RABIES VACCINE INJ",
+    "genericName": "RABIES VACCINE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Injection",
@@ -6521,7 +6521,7 @@
   },
   {
     "id": "drug-0653",
-    "genericName": "RALTEGAVIR TAB. 400 MG",
+    "genericName": "RALTEGAVIR",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Tablet",
@@ -6531,7 +6531,7 @@
   },
   {
     "id": "drug-0654",
-    "genericName": "REBAMIPIDE TAB. 100 MG",
+    "genericName": "REBAMIPIDE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -6541,7 +6541,7 @@
   },
   {
     "id": "drug-0655",
-    "genericName": "RECOMBINANT ANTIHEMOPHILIC COAGULATION FACTOR VIII INJ. 500 IU",
+    "genericName": "RECOMBINANT ANTIHEMOPHILIC COAGULATION FACTOR VIII",
     "tradeNames": [],
     "strength": "500 IU",
     "form": "Injection",
@@ -6551,7 +6551,7 @@
   },
   {
     "id": "drug-0656",
-    "genericName": "REMDESIVIR 100 MG INJ",
+    "genericName": "REMDESIVIR",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Injection",
@@ -6561,7 +6561,7 @@
   },
   {
     "id": "drug-0657",
-    "genericName": "RIBAVIRIN CAP. 200 MG",
+    "genericName": "RIBAVIRIN",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Capsule",
@@ -6571,7 +6571,7 @@
   },
   {
     "id": "drug-0658",
-    "genericName": "RIFAMPICIN CAP. 300 MG",
+    "genericName": "RIFAMPICIN",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -6581,7 +6581,7 @@
   },
   {
     "id": "drug-0659",
-    "genericName": "RIFAMPICIN CAP. 450 MG",
+    "genericName": "RIFAMPICIN",
     "tradeNames": [],
     "strength": "450 MG",
     "form": "Capsule",
@@ -6591,7 +6591,7 @@
   },
   {
     "id": "drug-0660",
-    "genericName": "RILPIVIRINE TAB. 25 MG",
+    "genericName": "RILPIVIRINE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -6601,7 +6601,7 @@
   },
   {
     "id": "drug-0661",
-    "genericName": "RISPERIDONE ORAL SOLUTION 1 MG/ML 30 ML",
+    "genericName": "RISPERIDONE",
     "tradeNames": [],
     "strength": "1 MG, 30 ML",
     "form": "Solution",
@@ -6611,7 +6611,7 @@
   },
   {
     "id": "drug-0662",
-    "genericName": "RISPERIDONE TAB. 1 MG",
+    "genericName": "RISPERIDONE",
     "tradeNames": [],
     "strength": "1 MG",
     "form": "Tablet",
@@ -6621,7 +6621,7 @@
   },
   {
     "id": "drug-0663",
-    "genericName": "RISPERIDONE TAB. 2 MG",
+    "genericName": "RISPERIDONE",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -6631,7 +6631,7 @@
   },
   {
     "id": "drug-0664",
-    "genericName": "RITONAVIR CAP.100 MG",
+    "genericName": "RITONAVIR",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -6641,7 +6641,7 @@
   },
   {
     "id": "drug-0665",
-    "genericName": "RITUXIMAP INJ. 500 MG",
+    "genericName": "RITUXIMAP",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -6651,7 +6651,7 @@
   },
   {
     "id": "drug-0666",
-    "genericName": "RIVAROXABAN TAB. 20 MG",
+    "genericName": "RIVAROXABAN",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -6661,7 +6661,7 @@
   },
   {
     "id": "drug-0667",
-    "genericName": "ROPINIROLE TAB. 2 MG",
+    "genericName": "ROPINIROLE",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -6671,7 +6671,7 @@
   },
   {
     "id": "drug-0668",
-    "genericName": "ROTIGOTINE TRANSDERMAL PATCH 4 MG/24 HR",
+    "genericName": "ROTIGOTINE TRANSDERMAL /24 HR",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Patch",
@@ -6681,7 +6681,7 @@
   },
   {
     "id": "drug-0669",
-    "genericName": "ROXITHROMYCIN TAB. 150 MG",
+    "genericName": "ROXITHROMYCIN",
     "tradeNames": [],
     "strength": "150 MG",
     "form": "Tablet",
@@ -6691,7 +6691,7 @@
   },
   {
     "id": "drug-0670",
-    "genericName": "SACUBITRIL VALSARTAN SODIUM SALT COMPLEX TAB. 100 MG.",
+    "genericName": "SACUBITRIL VALSARTAN SODIUM SALT COMPLEX",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -6701,7 +6701,7 @@
   },
   {
     "id": "drug-0671",
-    "genericName": "SALBUTAMOL 0.1% NEBULES",
+    "genericName": "SALBUTAMOL",
     "tradeNames": [],
     "strength": "0.1 %",
     "form": "Nebulizer solution",
@@ -6711,7 +6711,7 @@
   },
   {
     "id": "drug-0672",
-    "genericName": "SALBUTAMOL 1 MG+GUAIFENESIN 50 MG IN 5 ML SYR.",
+    "genericName": "SALBUTAMOL + GUAIFENESIN",
     "tradeNames": [],
     "strength": "1 MG, 50 MG, 5 ML",
     "form": "Syrup",
@@ -6721,7 +6721,7 @@
   },
   {
     "id": "drug-0673",
-    "genericName": "SALBUTAMOL 1 MG+GUAIFENESIN 50 MG IN 5 ML SYR.",
+    "genericName": "SALBUTAMOL + GUAIFENESIN",
     "tradeNames": [],
     "strength": "1 MG, 50 MG, 5 ML",
     "form": "Syrup",
@@ -6731,7 +6731,7 @@
   },
   {
     "id": "drug-0674",
-    "genericName": "SALBUTAMOL INHALER",
+    "genericName": "SALBUTAMOL",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Inhaler",
@@ -6741,7 +6741,7 @@
   },
   {
     "id": "drug-0675",
-    "genericName": "SALBUTAMOL RES. SOLN. 0.5% 20 ML",
+    "genericName": "SALBUTAMOL RES",
     "tradeNames": [],
     "strength": "0.5 %, 20 ML",
     "form": "Nebulizer solution",
@@ -6751,7 +6751,7 @@
   },
   {
     "id": "drug-0676",
-    "genericName": "SALBUTAMOL SYRUP",
+    "genericName": "SALBUTAMOL",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Syrup",
@@ -6761,7 +6761,7 @@
   },
   {
     "id": "drug-0677",
-    "genericName": "SALBUTAMOL TAB. 2 MG",
+    "genericName": "SALBUTAMOL",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -6771,7 +6771,7 @@
   },
   {
     "id": "drug-0678",
-    "genericName": "SALMETEROL 25 MCG+FLUTICASONE PROPIONATE 125 MCG",
+    "genericName": "SALMETEROL + FLUTICASONE PROPIONATE",
     "tradeNames": [],
     "strength": "25 MCG, 125 MCG",
     "form": "ไม่ระบุ",
@@ -6781,7 +6781,7 @@
   },
   {
     "id": "drug-0679",
-    "genericName": "SALMETEROL 50 MCG+FLUTICASONE PROPIONATE 500 MCG",
+    "genericName": "SALMETEROL + FLUTICASONE PROPIONATE",
     "tradeNames": [],
     "strength": "50 MCG, 500 MCG",
     "form": "ไม่ระบุ",
@@ -6791,7 +6791,7 @@
   },
   {
     "id": "drug-0680",
-    "genericName": "SEMAGLUTIDE 7 MG TAB.",
+    "genericName": "SEMAGLUTIDE",
     "tradeNames": [],
     "strength": "7 MG",
     "form": "Tablet",
@@ -6801,7 +6801,7 @@
   },
   {
     "id": "drug-0681",
-    "genericName": "SERTRALINE TAB. 50 MG",
+    "genericName": "SERTRALINE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -6811,7 +6811,7 @@
   },
   {
     "id": "drug-0682",
-    "genericName": "SEVOFLURANE 250 ML",
+    "genericName": "SEVOFLURANE",
     "tradeNames": [],
     "strength": "250 ML",
     "form": "ไม่ระบุ",
@@ -6821,7 +6821,7 @@
   },
   {
     "id": "drug-0683",
-    "genericName": "SILDENAFIL 20 MG TAB.",
+    "genericName": "SILDENAFIL",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -6831,7 +6831,7 @@
   },
   {
     "id": "drug-0684",
-    "genericName": "SILODOSIN TAB. 4 MG",
+    "genericName": "SILODOSIN",
     "tradeNames": [],
     "strength": "4 MG",
     "form": "Tablet",
@@ -6841,7 +6841,7 @@
   },
   {
     "id": "drug-0685",
-    "genericName": "SILVER SULFADIAZINE CREAM 1 % 25 G..",
+    "genericName": "SILVER SULFADIAZINE",
     "tradeNames": [],
     "strength": "1 %, 25 G",
     "form": "Cream",
@@ -6851,7 +6851,7 @@
   },
   {
     "id": "drug-0686",
-    "genericName": "SIMETHICONE DROPS 40 MG./0.6 ML.",
+    "genericName": "SIMETHICONE",
     "tradeNames": [],
     "strength": "40 MG./0.6 ML",
     "form": "ไม่ระบุ",
@@ -6861,7 +6861,7 @@
   },
   {
     "id": "drug-0687",
-    "genericName": "SIMETHICONE TAB. 80 MG.",
+    "genericName": "SIMETHICONE",
     "tradeNames": [],
     "strength": "80 MG",
     "form": "Tablet",
@@ -6871,7 +6871,7 @@
   },
   {
     "id": "drug-0688",
-    "genericName": "SIMVASTATIN TAB. 10 MG",
+    "genericName": "SIMVASTATIN",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -6881,7 +6881,7 @@
   },
   {
     "id": "drug-0689",
-    "genericName": "SIMVASTATIN TAB. 20 MG",
+    "genericName": "SIMVASTATIN",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -6891,7 +6891,7 @@
   },
   {
     "id": "drug-0690",
-    "genericName": "Sodium alginate 500 mg, Sodium bicarbonate 213 mg, Calcium carbonate 325 mg/10 ml, SUSPENSIONS 150 ML.",
+    "genericName": "Sodium alginate Sodium bicarbonate Calcium carbonate",
     "tradeNames": [],
     "strength": "500 MG, 213 MG, 325 MG/10 ML, 150 ML",
     "form": "Suspension",
@@ -6901,7 +6901,7 @@
   },
   {
     "id": "drug-0691",
-    "genericName": "SODIUM BICARBONATE INJ. 50 ML",
+    "genericName": "SODIUM BICARBONATE",
     "tradeNames": [],
     "strength": "50 ML",
     "form": "Injection",
@@ -6911,7 +6911,7 @@
   },
   {
     "id": "drug-0692",
-    "genericName": "SODIUM BICARBONATE INJ. 50 ML",
+    "genericName": "SODIUM BICARBONATE",
     "tradeNames": [],
     "strength": "50 ML",
     "form": "Injection",
@@ -6921,7 +6921,7 @@
   },
   {
     "id": "drug-0693",
-    "genericName": "SODIUM BICARBONATE INJ. 50 ML.",
+    "genericName": "SODIUM BICARBONATE",
     "tradeNames": [],
     "strength": "50 ML",
     "form": "Injection",
@@ -6931,7 +6931,7 @@
   },
   {
     "id": "drug-0694",
-    "genericName": "SODIUM BICARBONATE TAB",
+    "genericName": "SODIUM BICARBONATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -6941,7 +6941,7 @@
   },
   {
     "id": "drug-0695",
-    "genericName": "SODIUM CHLORIDE 0.99 g/ 1 g.",
+    "genericName": "SODIUM CHLORIDE",
     "tradeNames": [],
     "strength": "0.99 G/1 G",
     "form": "ไม่ระบุ",
@@ -6951,7 +6951,7 @@
   },
   {
     "id": "drug-0696",
-    "genericName": "SODIUM CHLORIDE INJ. 3% 500 ML.",
+    "genericName": "SODIUM CHLORIDE",
     "tradeNames": [],
     "strength": "3 %, 500 ML",
     "form": "Injection",
@@ -6961,7 +6961,7 @@
   },
   {
     "id": "drug-0697",
-    "genericName": "SODIUM CHLORIDE TAB. 300 MG",
+    "genericName": "SODIUM CHLORIDE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -6971,7 +6971,7 @@
   },
   {
     "id": "drug-0698",
-    "genericName": "SODIUM GLYCEROPHOSPHATE INJ. 216 MG/1ML, 20 ML",
+    "genericName": "SODIUM GLYCEROPHOSPHATE",
     "tradeNames": [],
     "strength": "216 MG/1 ML, 20 ML",
     "form": "Injection",
@@ -6981,7 +6981,7 @@
   },
   {
     "id": "drug-0699",
-    "genericName": "SODIUM HYALURONATE EYE DROPS 0.18% MULTI 10 ML",
+    "genericName": "SODIUM HYALURONATE MULTI",
     "tradeNames": [],
     "strength": "0.18 %, 10 ML",
     "form": "Eye drops",
@@ -6991,7 +6991,7 @@
   },
   {
     "id": "drug-0700",
-    "genericName": "SODIUM HYALURONATE EYE DROPS 0.3% SINGLE DOSE 0.4 ML",
+    "genericName": "SODIUM HYALURONATE",
     "tradeNames": [],
     "strength": "0.3 %, 0.4 ML",
     "form": "Eye drops",
@@ -7001,7 +7001,7 @@
   },
   {
     "id": "drug-0701",
-    "genericName": "SODIUM NITRITE 3% INJ. 10 ML",
+    "genericName": "SODIUM NITRITE",
     "tradeNames": [],
     "strength": "3 %, 10 ML",
     "form": "Injection",
@@ -7011,7 +7011,7 @@
   },
   {
     "id": "drug-0702",
-    "genericName": "SODIUM PHOSPHATE ENEMA 133 ML",
+    "genericName": "SODIUM PHOSPHATE",
     "tradeNames": [],
     "strength": "133 ML",
     "form": "Enema",
@@ -7021,7 +7021,7 @@
   },
   {
     "id": "drug-0703",
-    "genericName": "SODIUM THIOSULFATE 25% INJ. 18 ML",
+    "genericName": "SODIUM THIOSULFATE",
     "tradeNames": [],
     "strength": "25 %, 18 ML",
     "form": "Injection",
@@ -7031,7 +7031,7 @@
   },
   {
     "id": "drug-0704",
-    "genericName": "SODIUM VALPROATE 200 MG/ML SOLUTION",
+    "genericName": "SODIUM VALPROATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Solution",
@@ -7041,7 +7041,7 @@
   },
   {
     "id": "drug-0705",
-    "genericName": "SODIUM VALPROATE INJ. 400 MG",
+    "genericName": "SODIUM VALPROATE",
     "tradeNames": [],
     "strength": "400 MG",
     "form": "Injection",
@@ -7051,7 +7051,7 @@
   },
   {
     "id": "drug-0706",
-    "genericName": "SODIUM VALPROATE SOLUTION 200 MG/ML",
+    "genericName": "SODIUM VALPROATE",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Solution",
@@ -7061,7 +7061,7 @@
   },
   {
     "id": "drug-0707",
-    "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -7071,7 +7071,7 @@
   },
   {
     "id": "drug-0708",
-    "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -7081,7 +7081,7 @@
   },
   {
     "id": "drug-0709",
-    "genericName": "SODIUM VALPROATE SR TAB. 200 MG.",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -7091,7 +7091,7 @@
   },
   {
     "id": "drug-0710",
-    "genericName": "SODIUM VALPROATE SR TAB. 500 MG",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -7101,7 +7101,7 @@
   },
   {
     "id": "drug-0711",
-    "genericName": "SODIUM VALPROATE SR TAB. 500 MG",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -7111,7 +7111,7 @@
   },
   {
     "id": "drug-0712",
-    "genericName": "SODIUM VALPROATE SR TAB. 500 MG.",
+    "genericName": "SODIUM VALPROATE SR",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -7121,7 +7121,7 @@
   },
   {
     "id": "drug-0713",
-    "genericName": "SOFOSBUVIR 400 MG+VELPATASVIR 100 MG TAB.",
+    "genericName": "SOFOSBUVIR + VELPATASVIR",
     "tradeNames": [],
     "strength": "400 MG, 100 MG",
     "form": "Tablet",
@@ -7131,7 +7131,7 @@
   },
   {
     "id": "drug-0714",
-    "genericName": "SPIRONOLACTONE TAB. 25 MG",
+    "genericName": "SPIRONOLACTONE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "Tablet",
@@ -7141,7 +7141,7 @@
   },
   {
     "id": "drug-0715",
-    "genericName": "STERILE WATER FOR INJ. 10 ML.",
+    "genericName": "STERILE WATER FOR",
     "tradeNames": [],
     "strength": "10 ML",
     "form": "Injection",
@@ -7151,7 +7151,7 @@
   },
   {
     "id": "drug-0716",
-    "genericName": "STERILE WATER FOR INJ. 1000 ML.",
+    "genericName": "STERILE WATER FOR",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "Injection",
@@ -7161,7 +7161,7 @@
   },
   {
     "id": "drug-0717",
-    "genericName": "STERILE WATER FOR IRREGATION 1000 ML",
+    "genericName": "STERILE WATER FOR IRREGATION",
     "tradeNames": [],
     "strength": "1000 ML",
     "form": "Irrigation solution",
@@ -7171,7 +7171,7 @@
   },
   {
     "id": "drug-0718",
-    "genericName": "STREPTOKINASE INJ. 1.5 MU",
+    "genericName": "STREPTOKINASE",
     "tradeNames": [],
     "strength": "1.5 MU",
     "form": "Injection",
@@ -7181,7 +7181,7 @@
   },
   {
     "id": "drug-0719",
-    "genericName": "SUCRALFATE ORAL SUSPENSIONS. 1 G./5 ML. 240 ML",
+    "genericName": "SUCRALFATE",
     "tradeNames": [],
     "strength": "1 G./5 ML, 240 ML",
     "form": "Oral suspension",
@@ -7191,7 +7191,7 @@
   },
   {
     "id": "drug-0720",
-    "genericName": "SULBACTAM 2 G.",
+    "genericName": "SULBACTAM",
     "tradeNames": [],
     "strength": "2 G",
     "form": "ไม่ระบุ",
@@ -7201,7 +7201,7 @@
   },
   {
     "id": "drug-0721",
-    "genericName": "SULFAMETHOXAZOLE 200 MG+ TRIMETHOPRIM 40 MG SUSP.",
+    "genericName": "SULFAMETHOXAZOLE + TRIMETHOPRIM",
     "tradeNames": [],
     "strength": "200 MG, 40 MG",
     "form": "Suspension",
@@ -7211,7 +7211,7 @@
   },
   {
     "id": "drug-0722",
-    "genericName": "SULFAMETHOXAZOLE 400 MG+ TRIMETHOPRIM 80 MG INJ.",
+    "genericName": "SULFAMETHOXAZOLE + TRIMETHOPRIM",
     "tradeNames": [],
     "strength": "400 MG, 80 MG",
     "form": "Injection",
@@ -7221,7 +7221,7 @@
   },
   {
     "id": "drug-0723",
-    "genericName": "SULFAMETHOXAZOLE 400 MG+ TRIMETHOPRIM 80 MG TAB.",
+    "genericName": "SULFAMETHOXAZOLE + TRIMETHOPRIM",
     "tradeNames": [],
     "strength": "400 MG, 80 MG",
     "form": "Tablet",
@@ -7231,7 +7231,7 @@
   },
   {
     "id": "drug-0724",
-    "genericName": "SULFASALAZINE TAB. 500 MG",
+    "genericName": "SULFASALAZINE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -7241,7 +7241,7 @@
   },
   {
     "id": "drug-0725",
-    "genericName": "SULFASALAZINE TAB.500 MG",
+    "genericName": "SULFASALAZINE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Tablet",
@@ -7251,7 +7251,7 @@
   },
   {
     "id": "drug-0726",
-    "genericName": "SULPROSTONE INJ. 500 MCG",
+    "genericName": "SULPROSTONE",
     "tradeNames": [],
     "strength": "500 MCG",
     "form": "Injection",
@@ -7261,7 +7261,7 @@
   },
   {
     "id": "drug-0727",
-    "genericName": "SUXAMETHONIUM CHLORIDE INJ. 500 MG",
+    "genericName": "SUXAMETHONIUM CHLORIDE",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -7271,7 +7271,7 @@
   },
   {
     "id": "drug-0728",
-    "genericName": "T.A. CREAM 0.02% 5 G..",
+    "genericName": "T.A",
     "tradeNames": [],
     "strength": "0.02 %, 5 G",
     "form": "Cream",
@@ -7281,7 +7281,7 @@
   },
   {
     "id": "drug-0729",
-    "genericName": "T.A. CREAM 0.1% 5 G..",
+    "genericName": "T.A",
     "tradeNames": [],
     "strength": "0.1 %, 5 G",
     "form": "Cream",
@@ -7291,7 +7291,7 @@
   },
   {
     "id": "drug-0730",
-    "genericName": "T.A. LOTION 30 ML.",
+    "genericName": "T.A",
     "tradeNames": [],
     "strength": "30 ML",
     "form": "Lotion",
@@ -7301,7 +7301,7 @@
   },
   {
     "id": "drug-0731",
-    "genericName": "TAFLUPROST 0.0015%+TIMOLOL 0.5% EYE DROPS 0.3 ML",
+    "genericName": "TAFLUPROST + TIMOLOL",
     "tradeNames": [],
     "strength": "0.0015 %, 0.5 %, 0.3 ML",
     "form": "Eye drops",
@@ -7311,7 +7311,7 @@
   },
   {
     "id": "drug-0732",
-    "genericName": "TAMOXIFEN TAB. 20 MG",
+    "genericName": "TAMOXIFEN",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -7321,7 +7321,7 @@
   },
   {
     "id": "drug-0733",
-    "genericName": "TDAP 0.5 ML/1SYRING VAC.",
+    "genericName": "TDAP /1SYRING VAC",
     "tradeNames": [],
     "strength": "0.5 ML",
     "form": "Prefilled syringe",
@@ -7331,7 +7331,7 @@
   },
   {
     "id": "drug-0734",
-    "genericName": "TEBONIN TAB. 120 MG",
+    "genericName": "TEBONIN",
     "tradeNames": [],
     "strength": "120 MG",
     "form": "Tablet",
@@ -7341,7 +7341,7 @@
   },
   {
     "id": "drug-0735",
-    "genericName": "TENECTEPLASE INJ. 40 MG",
+    "genericName": "TENECTEPLASE",
     "tradeNames": [],
     "strength": "40 MG",
     "form": "Injection",
@@ -7351,7 +7351,7 @@
   },
   {
     "id": "drug-0736",
-    "genericName": "TENOFOVIR 300 MG+EMTRICITABINE 200 MGTAB.",
+    "genericName": "TENOFOVIR + EMTRICITABINE",
     "tradeNames": [],
     "strength": "300 MG, 200 MG",
     "form": "Tablet",
@@ -7361,7 +7361,7 @@
   },
   {
     "id": "drug-0737",
-    "genericName": "TENOFOVIR ALAFENAMIDE 25 MG",
+    "genericName": "TENOFOVIR ALAFENAMIDE",
     "tradeNames": [],
     "strength": "25 MG",
     "form": "ไม่ระบุ",
@@ -7371,7 +7371,7 @@
   },
   {
     "id": "drug-0738",
-    "genericName": "TENOFOVIR ALAFENAMIDE25 +EMTRICITABINE200+DOLUTEGRAVIR50 (TDF+FTC+DTG)",
+    "genericName": "TENOFOVIR ALAFENAMIDE25 + EMTRICITABINE200 + DOLUTEGRAVIR50 (TDF + FTC + DTG)",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -7381,7 +7381,7 @@
   },
   {
     "id": "drug-0739",
-    "genericName": "TENOFOVIR DISO FUMARATE TAB.",
+    "genericName": "TENOFOVIR DISO FUMARATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -7391,7 +7391,7 @@
   },
   {
     "id": "drug-0740",
-    "genericName": "TENOFOVIR DISO FUMARATE TAB.",
+    "genericName": "TENOFOVIR DISO FUMARATE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -7401,7 +7401,7 @@
   },
   {
     "id": "drug-0741",
-    "genericName": "TENOFOVIR TAB. 300 MG",
+    "genericName": "TENOFOVIR",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Tablet",
@@ -7411,7 +7411,7 @@
   },
   {
     "id": "drug-0742",
-    "genericName": "TENOFOVIR TAB+LAMIVUDINE+DOLUTEGRAVIR",
+    "genericName": "TENOFOVIR + LAMIVUDINE + DOLUTEGRAVIR",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -7421,7 +7421,7 @@
   },
   {
     "id": "drug-0743",
-    "genericName": "TENOFOVIR+EMTRICITABINE+EFAVIRENZ",
+    "genericName": "TENOFOVIR + EMTRICITABINE + EFAVIRENZ",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -7431,7 +7431,7 @@
   },
   {
     "id": "drug-0744",
-    "genericName": "TERBUTALINE INJ. 0.5 MG",
+    "genericName": "TERBUTALINE",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Injection",
@@ -7441,7 +7441,7 @@
   },
   {
     "id": "drug-0745",
-    "genericName": "TERBUTALINE INJ. 0.5 MG",
+    "genericName": "TERBUTALINE",
     "tradeNames": [],
     "strength": "0.5 MG",
     "form": "Injection",
@@ -7451,7 +7451,7 @@
   },
   {
     "id": "drug-0746",
-    "genericName": "TERIPARATIDE(r-human parathyroid hormone), Prefilled Disposable pen)",
+    "genericName": "TERIPARATIDE(r-human parathyroid hormone) Prefilled Disposable pen)",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "ไม่ระบุ",
@@ -7461,7 +7461,7 @@
   },
   {
     "id": "drug-0747",
-    "genericName": "TETANUS IMMUNOGLOBULIN,HUMAN INJ. 250 U/ML",
+    "genericName": "TETANUS IMMUNOGLOBULIN HUMAN",
     "tradeNames": [],
     "strength": "250 U",
     "form": "Injection",
@@ -7471,7 +7471,7 @@
   },
   {
     "id": "drug-0748",
-    "genericName": "TETRACAINE EYE DROPS 0.5% 15 ML.",
+    "genericName": "TETRACAINE",
     "tradeNames": [],
     "strength": "0.5 %, 15 ML",
     "form": "Eye drops",
@@ -7481,7 +7481,7 @@
   },
   {
     "id": "drug-0749",
-    "genericName": "THEOPHYLLINE SR TAB. 200 MG",
+    "genericName": "THEOPHYLLINE SR",
     "tradeNames": [],
     "strength": "200 MG",
     "form": "Tablet",
@@ -7491,7 +7491,7 @@
   },
   {
     "id": "drug-0750",
-    "genericName": "THIOPENTONE SODIUM INJ. 1 G.",
+    "genericName": "THIOPENTONE SODIUM",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -7501,7 +7501,7 @@
   },
   {
     "id": "drug-0751",
-    "genericName": "TICAGRELOR TAB. 90 MG",
+    "genericName": "TICAGRELOR",
     "tradeNames": [],
     "strength": "90 MG",
     "form": "Tablet",
@@ -7511,7 +7511,7 @@
   },
   {
     "id": "drug-0752",
-    "genericName": "TIMOLOL EYE DROPS 0.5 %,5 ML.",
+    "genericName": "TIMOLOL",
     "tradeNames": [],
     "strength": "0.5 %, 5 ML",
     "form": "Eye drops",
@@ -7531,7 +7531,7 @@
   },
   {
     "id": "drug-0754",
-    "genericName": "TIOTROPIUM BROMIDE 18 MCG POWDER INHALATION",
+    "genericName": "TIOTROPIUM BROMIDE",
     "tradeNames": [],
     "strength": "18 MCG",
     "form": "Powder",
@@ -7541,7 +7541,7 @@
   },
   {
     "id": "drug-0755",
-    "genericName": "TIOTROPIUM BROMIDE 2.5 MCG+OLODATEROL HCL 2.5 MCG",
+    "genericName": "TIOTROPIUM BROMIDE + OLODATEROL HCL",
     "tradeNames": [],
     "strength": "2.5 MCG",
     "form": "ไม่ระบุ",
@@ -7551,7 +7551,7 @@
   },
   {
     "id": "drug-0756",
-    "genericName": "TOLPERISONE HCL TAB. 50 MG",
+    "genericName": "TOLPERISONE HCL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7561,7 +7561,7 @@
   },
   {
     "id": "drug-0757",
-    "genericName": "TOLVAPTAN 15 MG TAB",
+    "genericName": "TOLVAPTAN",
     "tradeNames": [],
     "strength": "15 MG",
     "form": "Tablet",
@@ -7571,7 +7571,7 @@
   },
   {
     "id": "drug-0758",
-    "genericName": "TOPIRAMATE TAB. 50 MG",
+    "genericName": "TOPIRAMATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7581,7 +7581,7 @@
   },
   {
     "id": "drug-0759",
-    "genericName": "TOPIRAMATE TAB. 50 MG",
+    "genericName": "TOPIRAMATE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7591,7 +7591,7 @@
   },
   {
     "id": "drug-0760",
-    "genericName": "TRAMADOL CAP. 50 MG",
+    "genericName": "TRAMADOL",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Capsule",
@@ -7601,7 +7601,7 @@
   },
   {
     "id": "drug-0761",
-    "genericName": "TRAMADOL INJ. 100 MG",
+    "genericName": "TRAMADOL",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Injection",
@@ -7611,7 +7611,7 @@
   },
   {
     "id": "drug-0762",
-    "genericName": "TRANEXAMIC ACID CAP. 250 MG",
+    "genericName": "TRANEXAMIC ACID",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -7621,7 +7621,7 @@
   },
   {
     "id": "drug-0763",
-    "genericName": "TRANEXAMIC ACID INJ. 250 MG",
+    "genericName": "TRANEXAMIC ACID",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Injection",
@@ -7631,7 +7631,7 @@
   },
   {
     "id": "drug-0764",
-    "genericName": "TRAZODONE TAB. 100 MG",
+    "genericName": "TRAZODONE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Tablet",
@@ -7641,7 +7641,7 @@
   },
   {
     "id": "drug-0765",
-    "genericName": "TRAZODONE TAB. 50 MG",
+    "genericName": "TRAZODONE",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7651,7 +7651,7 @@
   },
   {
     "id": "drug-0766",
-    "genericName": "TRIAMCINOLONE ACETONIDE INJ. 10 MG/1 ML",
+    "genericName": "TRIAMCINOLONE ACETONIDE",
     "tradeNames": [],
     "strength": "10 MG/1 ML",
     "form": "Injection",
@@ -7661,7 +7661,7 @@
   },
   {
     "id": "drug-0767",
-    "genericName": "TRIAMCINOLONE ACETONIDE INJ. 40 MG/1 ML",
+    "genericName": "TRIAMCINOLONE ACETONIDE",
     "tradeNames": [],
     "strength": "40 MG/1 ML",
     "form": "Injection",
@@ -7671,7 +7671,7 @@
   },
   {
     "id": "drug-0768",
-    "genericName": "TRIAMCINOLONE ORAL PASTE",
+    "genericName": "TRIAMCINOLONE",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Paste",
@@ -7691,7 +7691,7 @@
   },
   {
     "id": "drug-0770",
-    "genericName": "TRIHEXYPHENIDYL TAB. 2 MG",
+    "genericName": "TRIHEXYPHENIDYL",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -7701,7 +7701,7 @@
   },
   {
     "id": "drug-0771",
-    "genericName": "TRIHEXYPHENIDYL TAB. 5 MG",
+    "genericName": "TRIHEXYPHENIDYL",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -7711,7 +7711,7 @@
   },
   {
     "id": "drug-0772",
-    "genericName": "TRIPTORELIN PAMOATE 11.25 MG.",
+    "genericName": "TRIPTORELIN PAMOATE",
     "tradeNames": [],
     "strength": "11.25 MG",
     "form": "ไม่ระบุ",
@@ -7721,7 +7721,7 @@
   },
   {
     "id": "drug-0773",
-    "genericName": "TRIPTORELIN PAMOATE 11.25 MG.",
+    "genericName": "TRIPTORELIN PAMOATE",
     "tradeNames": [],
     "strength": "11.25 MG",
     "form": "ไม่ระบุ",
@@ -7731,7 +7731,7 @@
   },
   {
     "id": "drug-0774",
-    "genericName": "TROPICAMIDE EYE DROPS 1 % 15 ML.",
+    "genericName": "TROPICAMIDE",
     "tradeNames": [],
     "strength": "1 %, 15 ML",
     "form": "Eye drops",
@@ -7741,7 +7741,7 @@
   },
   {
     "id": "drug-0775",
-    "genericName": "TROSPIUM CHLORIDE TAB. 20 MG",
+    "genericName": "TROSPIUM CHLORIDE",
     "tradeNames": [],
     "strength": "20 MG",
     "form": "Tablet",
@@ -7761,7 +7761,7 @@
   },
   {
     "id": "drug-0777",
-    "genericName": "UMECLIDINIUM 62.5 MCG/VILANTEROL 25 MCG pre-dispensed (inhalation powder)",
+    "genericName": "UMECLIDINIUM + VILANTEROL",
     "tradeNames": [],
     "strength": "62.5 MCG, 25 MCG",
     "form": "Powder",
@@ -7771,7 +7771,7 @@
   },
   {
     "id": "drug-0778",
-    "genericName": "UREA CREAM 10%, 150 G.",
+    "genericName": "UREA",
     "tradeNames": [],
     "strength": "10 %, 150 G",
     "form": "Cream",
@@ -7781,7 +7781,7 @@
   },
   {
     "id": "drug-0779",
-    "genericName": "UREA CREAM 20%, 35 G.",
+    "genericName": "UREA",
     "tradeNames": [],
     "strength": "20 %, 35 G",
     "form": "Cream",
@@ -7791,7 +7791,7 @@
   },
   {
     "id": "drug-0780",
-    "genericName": "URSODEOXYCHOLIC ACID (URSODIOL) CAP. 250 MG",
+    "genericName": "URSODEOXYCHOLIC ACID (URSODIOL)",
     "tradeNames": [],
     "strength": "250 MG",
     "form": "Capsule",
@@ -7801,7 +7801,7 @@
   },
   {
     "id": "drug-0781",
-    "genericName": "VANCOMYCIN CAP. 125 MG",
+    "genericName": "VANCOMYCIN",
     "tradeNames": [],
     "strength": "125 MG",
     "form": "Capsule",
@@ -7811,7 +7811,7 @@
   },
   {
     "id": "drug-0782",
-    "genericName": "VANCOMYCIN INJ. 500 MG",
+    "genericName": "VANCOMYCIN",
     "tradeNames": [],
     "strength": "500 MG",
     "form": "Injection",
@@ -7821,7 +7821,7 @@
   },
   {
     "id": "drug-0783",
-    "genericName": "VENLAFAXINE HCl 37.5 MG EXTENTED RELEASE HARD CAP.",
+    "genericName": "VENLAFAXINE HCl EXTENTED RELEASE HARD",
     "tradeNames": [],
     "strength": "37.5 MG",
     "form": "Capsule",
@@ -7831,7 +7831,7 @@
   },
   {
     "id": "drug-0784",
-    "genericName": "VENLAFAXINE HCl CAP. 75 MG",
+    "genericName": "VENLAFAXINE HCl",
     "tradeNames": [],
     "strength": "75 MG",
     "form": "Capsule",
@@ -7841,7 +7841,7 @@
   },
   {
     "id": "drug-0785",
-    "genericName": "VERAPAMIL SR TAB. 240 MG",
+    "genericName": "VERAPAMIL SR",
     "tradeNames": [],
     "strength": "240 MG",
     "form": "Tablet",
@@ -7851,7 +7851,7 @@
   },
   {
     "id": "drug-0786",
-    "genericName": "VILDAGLIPTIN 50 MG TAB.",
+    "genericName": "VILDAGLIPTIN",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7861,7 +7861,7 @@
   },
   {
     "id": "drug-0787",
-    "genericName": "VINCRISTINE INJ 1 GM",
+    "genericName": "VINCRISTINE M",
     "tradeNames": [],
     "strength": "1 G",
     "form": "Injection",
@@ -7871,7 +7871,7 @@
   },
   {
     "id": "drug-0788",
-    "genericName": "VITAMIN B 1-6-12 TAB.",
+    "genericName": "VITAMIN B 1-6-12",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -7881,7 +7881,7 @@
   },
   {
     "id": "drug-0789",
-    "genericName": "VITAMIN B COMPLEX TAB.",
+    "genericName": "VITAMIN B COMPLEX",
     "tradeNames": [],
     "strength": "ไม่ระบุ",
     "form": "Tablet",
@@ -7891,7 +7891,7 @@
   },
   {
     "id": "drug-0790",
-    "genericName": "VITAMIN B1 INJ. 100 MG.",
+    "genericName": "VITAMIN B1",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Injection",
@@ -7901,7 +7901,7 @@
   },
   {
     "id": "drug-0791",
-    "genericName": "VITAMIN B6 TAB. 50 MG",
+    "genericName": "VITAMIN B6",
     "tradeNames": [],
     "strength": "50 MG",
     "form": "Tablet",
@@ -7911,7 +7911,7 @@
   },
   {
     "id": "drug-0792",
-    "genericName": "VITAMIN D2 (ERGOCALCIFEROL) CAP. 20,000 IU",
+    "genericName": "VITAMIN D2 (ERGOCALCIFEROL)",
     "tradeNames": [],
     "strength": "000 IU",
     "form": "Capsule",
@@ -7921,7 +7921,7 @@
   },
   {
     "id": "drug-0793",
-    "genericName": "VITAMIN K1 INJ. 10 MG. IN 1 ML.",
+    "genericName": "VITAMIN K1",
     "tradeNames": [],
     "strength": "10 MG, 1 ML",
     "form": "Injection",
@@ -7931,7 +7931,7 @@
   },
   {
     "id": "drug-0794",
-    "genericName": "VITAMIN K1 INJ. 10 MG. IN 1 ML.",
+    "genericName": "VITAMIN K1",
     "tradeNames": [],
     "strength": "10 MG, 1 ML",
     "form": "Injection",
@@ -7941,7 +7941,7 @@
   },
   {
     "id": "drug-0795",
-    "genericName": "VITAMIN K1 PAEDRIATIC 1 MG./0.5 ML.",
+    "genericName": "VITAMIN K1 PAEDRIATIC",
     "tradeNames": [],
     "strength": "1 MG./0.5 ML",
     "form": "ไม่ระบุ",
@@ -7951,7 +7951,7 @@
   },
   {
     "id": "drug-0796",
-    "genericName": "VORTIOXETINE TAB. 10 MG.",
+    "genericName": "VORTIOXETINE",
     "tradeNames": [],
     "strength": "10 MG",
     "form": "Tablet",
@@ -7961,7 +7961,7 @@
   },
   {
     "id": "drug-0797",
-    "genericName": "WARFARIN SODIUM TAB. 2 MG",
+    "genericName": "WARFARIN SODIUM",
     "tradeNames": [],
     "strength": "2 MG",
     "form": "Tablet",
@@ -7971,7 +7971,7 @@
   },
   {
     "id": "drug-0798",
-    "genericName": "WARFARIN SODIUM TAB. 3 MG",
+    "genericName": "WARFARIN SODIUM",
     "tradeNames": [],
     "strength": "3 MG",
     "form": "Tablet",
@@ -7981,7 +7981,7 @@
   },
   {
     "id": "drug-0799",
-    "genericName": "WARFARIN SODIUM TAB. 5 MG",
+    "genericName": "WARFARIN SODIUM",
     "tradeNames": [],
     "strength": "5 MG",
     "form": "Tablet",
@@ -7991,7 +7991,7 @@
   },
   {
     "id": "drug-0800",
-    "genericName": "ZIDOVUDINE 300 MG+LAMIVUDINE 150 MG TAB.",
+    "genericName": "ZIDOVUDINE + LAMIVUDINE",
     "tradeNames": [],
     "strength": "300 MG, 150 MG",
     "form": "Tablet",
@@ -8001,7 +8001,7 @@
   },
   {
     "id": "drug-0801",
-    "genericName": "ZIDOVUDINE CAP.100 MG",
+    "genericName": "ZIDOVUDINE",
     "tradeNames": [],
     "strength": "100 MG",
     "form": "Capsule",
@@ -8011,7 +8011,7 @@
   },
   {
     "id": "drug-0802",
-    "genericName": "ZIDOVUDINE CAP.300 MG",
+    "genericName": "ZIDOVUDINE",
     "tradeNames": [],
     "strength": "300 MG",
     "form": "Capsule",
@@ -8021,7 +8021,7 @@
   },
   {
     "id": "drug-0803",
-    "genericName": "ZIDOVUDINE SYR. 10 MG/ML 60 ML",
+    "genericName": "ZIDOVUDINE",
     "tradeNames": [],
     "strength": "10 MG, 60 ML",
     "form": "Syrup",
@@ -8031,7 +8031,7 @@
   },
   {
     "id": "drug-0804",
-    "genericName": "ZINC OXIDE 7.5%, 5 G ( 7.5 g./100 g.)",
+    "genericName": "ZINC OXIDE ( ./ .)",
     "tradeNames": [],
     "strength": "7.5 %, 5 G, 7.5 G./100 G",
     "form": "ไม่ระบุ",
@@ -8041,7 +8041,7 @@
   },
   {
     "id": "drug-0805",
-    "genericName": "ZOLEDRONIC ACID 4MG/5ML INJ",
+    "genericName": "ZOLEDRONIC ACID",
     "tradeNames": [],
     "strength": "4 MG/5 ML",
     "form": "Injection",
