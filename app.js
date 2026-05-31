@@ -316,10 +316,9 @@ function openDrugModal(id=null){
     els.drugForm.genericName.value = drug.genericName || '';
     els.drugForm.tradeNames.value = (drug.tradeNames || []).join(', ');
     els.drugForm.strength.value = drug.strength || '';
-    els.drugForm.form.value = drug.form || '';
+    els.drugForm.form.value = drug.form || 'ไม่ระบุ';
     els.drugForm.account.value = drug.account || '-';
     els.drugForm.edStatus.value = drug.edStatus || '-';
-    els.drugForm.keywords.value = (drug.keywords || []).join(', ');
   }
   if(els.editPickerModal?.open) els.editPickerModal.close();
   els.drugModal.showModal();
@@ -332,7 +331,7 @@ async function saveDrugFromForm(e){
   const drug = normalizeDrugObject({
     id: state.editingId || makeId(),
     genericName: fd.get('genericName'), tradeNames: splitList(fd.get('tradeNames')), strength: fd.get('strength'), form: fd.get('form'),
-    account: fd.get('account'), edStatus: fd.get('edStatus'), keywords: splitList(fd.get('keywords')),
+    account: fd.get('account'), edStatus: fd.get('edStatus'), keywords: [],
     updatedAt: new Date().toISOString()
   });
   try{
@@ -432,10 +431,10 @@ function renderEditPicker(){
 }
 
 function normalizeDrugObject(drug){
-  const tradeNames=Array.isArray(drug.tradeNames)?drug.tradeNames:splitList(drug.tradeNames||drug.tradeName||''); const keywords=Array.isArray(drug.keywords)?drug.keywords:splitList(drug.keywords||'');
+  const tradeNames=Array.isArray(drug.tradeNames)?drug.tradeNames:splitList(drug.tradeNames||drug.tradeName||''); const keywords=[];
   const obj={ id:String(drug.id||'').trim(),
     genericName:String(drug.genericName||drug.name||'').trim(), tradeNames:tradeNames.map(String).map(v=>v.trim()).filter(Boolean),
-    strength:String(drug.strength||'').trim(), form:String(drug.form||'').trim(), account:normalizeAccount(String(drug.account||'').trim()), edStatus:normalizeEdStatus(String(drug.edStatus||'').trim()), note:String(drug.note||'').trim(), keywords:keywords.map(String).map(v=>v.trim()).filter(Boolean), updatedAt: drug.updatedAt || '' };
+    strength:String(drug.strength||'ไม่ระบุ').trim(), form:String(drug.form||'ไม่ระบุ').trim(), account:normalizeAccount(String(drug.account||'').trim()), edStatus:normalizeEdStatus(String(drug.edStatus||'').trim()), note:String(drug.note||'').trim(), keywords:keywords.map(String).map(v=>v.trim()).filter(Boolean), updatedAt: drug.updatedAt || '' };
   if(!obj.id) obj.id = makeId(); return obj;
 }
 function stripUiFields(drug){ const clean = { ...drug }; delete clean.source; return clean; }
@@ -455,7 +454,7 @@ function normalizeAccount(value){
   return normalized;
 }
 function normalizeEdStatus(value){ const text=String(value||'').trim().toUpperCase(); if(!text) return '-'; if(text.includes('NED')||text.includes('NON')) return 'NED'; if(text==='E'||text.includes('ED')) return 'ED'; return String(value||'').trim(); }
-function searchBlob(drug){ return [drug.genericName,...(drug.tradeNames||[]),drug.strength,drug.form,drug.account,drug.edStatus,drug.note,...(drug.keywords||[])].filter(Boolean).join(' '); }
+function searchBlob(drug){ return [drug.genericName,...(drug.tradeNames||[]),drug.strength,drug.form,drug.account,drug.edStatus,drug.note].filter(Boolean).join(' '); }
 function normalize(text){ return String(text||'').toLowerCase().replace(/\s+/g,' ').trim(); }
 function escapeHtml(value){ return String(value??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#039;'); }
 function showToast(msg){ els.toast.textContent=msg; els.toast.classList.add('show'); clearTimeout(showToast.t); showToast.t=setTimeout(()=>els.toast.classList.remove('show'),2200); }

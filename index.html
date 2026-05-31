@@ -157,10 +157,9 @@
         <label class="field full"><span>ชื่อสามัญยา *</span><input name="genericName" required placeholder="เช่น Paracetamol" /></label>
         <label class="field full"><span>ชื่อการค้า / ชื่ออื่น</span><input name="tradeNames" placeholder="คั่นด้วย comma เช่น Tylenol, Sara" /></label>
         <label class="field"><span>ความแรง</span><input name="strength" placeholder="เช่น 500 mg" /></label>
-        <label class="field"><span>รูปแบบยา</span><input name="form" placeholder="Tablet / Injection / Syrup" /></label>
+        <label class="field"><span>รูปแบบยา</span><select name="form"><option>ไม่ระบุ</option><option>Tablet</option><option>Capsule</option><option>Injection</option><option>Prefilled syringe</option><option>Syrup</option><option>Dry syrup</option><option>Suspension</option><option>Oral suspension</option><option>Inhalation suspension</option><option>Powder</option><option>Cream</option><option>Ointment</option><option>Gel</option><option>Jelly</option><option>Lotion</option><option>Solution</option><option>Irrigation solution</option><option>Topical solution</option><option>Eye drops</option><option>Ear drops</option><option>Nasal spray</option><option>Inhaler</option><option>Nebulizer solution</option><option>Aerosol/MDI</option><option>Suppository</option><option>Enema</option><option>Emulsion</option><option>Patch</option><option>Implant</option><option>Vaccine</option><option>Paste</option><option>Oil</option></select></label>
         <label class="field"><span>บัญชียา</span><select name="account"><option>บัญชี ก</option><option>บัญชี ข</option><option>บัญชี ค</option><option>บัญชี ง</option><option>บัญชี จ1</option><option>บัญชี จ2</option><option>-</option></select></label>
         <label class="field"><span>ED/NED</span><select name="edStatus"><option>ED</option><option>NED</option><option>-</option></select></label>
-        <label class="field full"><span>คำค้นเสริม</span><input name="keywords" placeholder="คั่นด้วย comma" /></label>
       </div>
       <div class="modal-actions split">
         <button class="outline-btn danger" id="deleteDrugBtn" type="button" hidden>ลบรายการนี้</button>
