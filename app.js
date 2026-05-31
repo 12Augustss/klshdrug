@@ -153,14 +153,47 @@ function firebaseValueToArray(value){
 function stableDrugKey(drug){
   return normalize([drug.genericName, drug.strength, drug.form, drug.account, drug.edStatus].filter(Boolean).join('|'));
 }
+function drugIdKey(drug){
+  return String(drug?.id || '').trim().toLowerCase();
+}
 function isLegacyDemoDrug(drug){
   return /^d\d{3}$/.test(String(drug.id || ''));
 }
 function mergeDrugLists(baseList=[], extraList=[]){
-  const map = new Map();
-  baseList.forEach(drug=>map.set(stableDrugKey(drug) || drug.id, drug));
-  extraList.forEach(drug=>map.set(stableDrugKey(drug) || drug.id, drug));
-  return Array.from(map.values());
+  // Dashboard count used to drift after editing sample drugs because the edited
+  // Firebase copy no longer had the same content key as the original drugs.json
+  // row. Prefer id-based replacement first, then fall back to content matching.
+  const rows = [];
+  const idIndex = new Map();
+  const contentIndex = new Map();
+
+  function remember(drug, idx){
+    const id = drugIdKey(drug);
+    const key = stableDrugKey(drug);
+    if(id) idIndex.set(id, idx);
+    if(key) contentIndex.set(key, idx);
+  }
+
+  function upsert(drug){
+    if(!drug) return;
+    const id = drugIdKey(drug);
+    const key = stableDrugKey(drug);
+    let idx = -1;
+    if(id && idIndex.has(id)) idx = idIndex.get(id);
+    else if(key && contentIndex.has(key)) idx = contentIndex.get(key);
+
+    if(idx >= 0){
+      rows[idx] = drug;
+      remember(drug, idx);
+    }else{
+      rows.push(drug);
+      remember(drug, rows.length - 1);
+    }
+  }
+
+  baseList.forEach(upsert);
+  extraList.forEach(upsert);
+  return rows.filter(Boolean);
 }
 
 function loadLocalFallback(){
