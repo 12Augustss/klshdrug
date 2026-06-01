@@ -518,6 +518,8 @@ function normalizeAccount(value){
   if(!text) return '-';
   const normalized = text
     .replace(/^บช\.?\s*/i,'บัญชี ')
+    .replace(/^บัญชี\s*จ\s*\(\s*(1|2)\s*\)$/,'บัญชี จ$1')
+    .replace(/^จ\s*\(\s*(1|2)\s*\)$/,'บัญชี จ$1')
     .replace(/^บัญชี\s*([กขคงจ])(1|2)?$/,'บัญชี $1$2')
     .replace(/^([กขคง])$/,'บัญชี $1')
     .replace(/^จ1$/,'บัญชี จ1')
